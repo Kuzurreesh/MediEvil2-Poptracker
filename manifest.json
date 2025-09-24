@@ -1,0 +1,18 @@
+{
+    "name": "MediEvil 2 Poptracker Pack",
+    "game_name": "MediEvil 2",
+    "package_version": "0.0.1",
+    "package_uid": "ME2_ap",
+    "author": "Kuzurreesh",
+    "platform": "psx",
+    "min_poptracker_version": "0.32.0",
+    "target_poptracker_version": "0.32.1",
+    "variants": {
+        "Full Tracker": {
+            "display_name": "Compact",
+            "flags": [
+                "ap"
+            ]
+        }
+    }
+}

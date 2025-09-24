@@ -1,0 +1,29 @@
+﻿{
+	"tracker_default": {
+		"type": "container",
+		"background": "#000000",
+		"content": {
+			"type": "array",
+			"orientation": "horizontal",
+			"v_alignment": "center",
+			"margin": "0, 0",
+			"content": [
+				{
+							"type": "group",
+							"header": "Items",
+							"content": {
+								"type": "layout",
+								"key": "keyitems"
+							}
+						},
+						{
+							"type": "map",						
+							"maps": [
+								"Overworld"
+							]
+						}
+					]
+				
+		}
+	}
+}

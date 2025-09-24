@@ -1,0 +1,1241 @@
+[
+    {
+        "name": "The Hub",
+        "chest_unopened_img": "images/labels/full.png",
+        "chest_opened_img": "images/labels/empty.png",
+        "children": [
+            {
+                "name": "The Hub",
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": 250,
+                        "y": 200
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Book: Lifestyles of the Pharaohs"
+                    },
+                    {
+                        "name": "Book: Professor's Diary"
+                    },
+                    {
+                        "name": "Chalice Reward: Cane Stick"
+                    },
+                    {
+                        "name": "Chalice Reward: Hammer"
+                    },
+                    {
+                        "name": "Chalice Reward: Crossbow"
+                    },
+                    {
+                        "name": "Chalice Reward: Axe"
+                    },
+                    {
+                        "name": "Chalice Reward: Bombs"
+                    },
+                    {
+                        "name": "Chalice Reward: Broad Sword"
+                    },
+                    {
+                        "name": "Chalice Reward: Lightning"
+                    },
+                    {
+                        "name": "Chalice Reward: Blunderbuss"
+                    },
+                    {
+                        "name": "Chalice Reward: Magic Sword"
+                    },
+                    {
+                        "name": "Chalice Reward: Gatling Gun"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "The Museum",
+        "chest_unopened_img": "images/labels/full.png",
+        "chest_opened_img": "images/labels/empty.png",
+        "children": [
+            {
+                "name": "The Museum Part 1",
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": 690,
+                        "y": 200
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Key Item: Museum Key - TM"
+                    },
+                    {
+                        "name": "Key Item: Cannonball - TM"
+                    },
+                    {
+                        "name": "Key Item: Torch - TM"
+                    },
+                    {
+                        "name": "Key Item: Dinosaur Key - TM"
+                    },
+                    {
+                        "name": "Equipment: Short Sword at Start - TM"
+                    },
+                    {
+                        "name": "Equipment: Pistol in Case - TM"
+                    },
+                    {
+                        "name": "Equipment: Copper Shield 2nd Floor Chest - TM"
+                    },
+                    {
+                        "name": "Equipment: Copper Shield Zarok Room - TM"
+                    },
+                    {
+                        "name": "Energy Vial: Pistol Room - TM"
+                    },
+                    {
+                        "name": "Energy Vial: Mausoleum Room 2nd Floor - TM"
+                    },
+                    {
+                        "name": "Energy Vial: Second Hand Room - TM"
+                    },
+                    {
+                        "name": "Gold Coins: Hidden Behind Purple Structure - TM"
+                    },
+                    {
+                        "name": "Gold Coins: Mausoleum Room 2nd Floor 1 - TM"
+                    },
+                    {
+                        "name": "Gold Coins: Mausoleum Room 2nd Floor 2 - TM"
+                    },
+                    {
+                        "name": "Gold Coins: Mausoleum Room 2nd Floor 3 - TM"
+                    },
+                    {
+                        "name": "Gold Coins: Buddah Statue Staircase - TM"
+                    },
+                    {
+                        "name": "Gold Coins: Display Room Balcony Right - TM"
+                    },
+                    {
+                        "name": "Gold Coins: Display Room Balcony Left - TM"
+                    },
+                    {
+                        "name": "Gold Coins: Zarok Room Rafters Back - TM"
+                    },
+                    {
+                        "name": "Gold Coins: Zarok Room Rafters Left - TM"
+                    },
+                    {
+                        "name": "Gold Coins: Zarok Room Rafters Right - TM"
+                    }
+                ]
+            },
+            {
+                "name": "The Museum Part 2",
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": 750,
+                        "y": 200
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Gold Coins: Tomb Room Left - TM"
+                    },
+                    {
+                        "name": "Gold Coins: Tomb Room Right - TM"
+                    },
+                    {
+                        "name": "Gold Coins: First Hand Room - Chest 1 - TM"
+                    },
+                    {
+                        "name": "Gold Coins: First Hand Room - Chest 2 - TM"
+                    },
+                    {
+                        "name": "Gold Coins: First Hand Room - Chest 3 - TM"
+                    },
+                    {
+                        "name": "Gold Coins: Second Hand Room - Chest Right of Vial - TM"
+                    },
+                    {
+                        "name": "Gold Coins: Second Hand Room - Chest Left of Vial - TM"
+                    },
+                    {
+                        "name": "Gold Coins: Second Hand Room - Chest Between Boxes - TM"
+                    },
+                    {
+                        "name": "Gold Coins: Second Hand Room - Chest Hidden on Pipes - TM"
+                    },
+                    {
+                        "name": "Gold Coins: Second Hand Room - Chest on Boxes - TM"
+                    },
+                    {
+                        "name": "Book: Sir Dan - TM"
+                    },
+                    {
+                        "name": "Book: The Kraken - TM"
+                    },
+                    {
+                        "name": "Book: Zarok - TM"
+                    },
+                    {
+                        "name": "Winston: Dans Room - TM"
+                    },
+                    {
+                        "name": "Winston: Pistol Room - TM"
+                    },
+                    {
+                        "name": "Winston: Chest on Mausoleum Room 2nd Floor - TM"
+                    },
+                    {
+                        "name": "Winston: Gold Coins on Mausoleum Room 2nd Floor - TM"
+                    },
+                    {
+                        "name": "Winston: Climbing Wall - TM"
+                    },
+                    {
+                        "name": "Winston: Staircase After Buddah - TM"
+                    },
+                    {
+                        "name": "Winston: Chalice - TM"
+                    },
+                    {
+                        "name": "Chalice: The Museum"
+                    },
+                    {
+                        "name": "Cleared: The Museum"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Tyrannosaurus Wrecks",
+        "chest_unopened_img": "images/labels/full.png",
+        "chest_opened_img": "images/labels/empty.png",
+        "children": [
+            {
+                "name": "Tyranno",
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": 810,
+                        "y": 200
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Life Bottle: Tyrannosaurus Wrecks"
+                    },
+                    {
+                        "name": "Equipment: Copper Chest in Stairway - TW"
+                    },
+                    {
+                        "name": "Gold Coins: Bag Behind Lion Statue - TW"
+                    },
+                    {
+                        "name": "Gold Coins: Near Spiv on Stairway - TW"
+                    },
+                    {
+                        "name": "Book: Dinosaur Display - TW"
+                    },
+                    {
+                        "name": "Winston: Entrance - TW"
+                    },
+                    {
+                        "name": "Cleared: Tyrannosaurus Wrecks"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Kensington",
+        "chest_unopened_img": "images/labels/full.png",
+        "chest_opened_img": "images/labels/empty.png",
+        "children": [
+            {
+                "name": "Kensington",
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": 1220,
+                        "y": 200
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Key Item: The Depot Key"
+                    },
+                    {
+                        "name": "Key Item: Town House Key"
+                    },
+                    {
+                        "name": "Key Item: Pocketwatch"
+                    },
+                    {
+                        "name": "Equipment: Copper Shield on Railway - KT"
+                    },
+                    {
+                        "name": "Gold Coins: Bag Near Water in Quayside Mill - KT"
+                    },
+                    {
+                        "name": "Winston: Pushing and Pulling - KT"
+                    },
+                    {
+                        "name": "Winston: Where the Spell was Cast - KT"
+                    },
+                    {
+                        "name": "Winston: Museum Roof - KT"
+                    },
+                    {
+                        "name": "Chalice: Kensington - KT"
+                    },
+                    {
+                        "name": "Cleared: Kensington"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "The Tomb",
+        "chest_unopened_img": "images/labels/full.png",
+        "chest_opened_img": "images/labels/empty.png",
+        "children": [
+            {
+                "name": "The Tomb",
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": 1280,
+                        "y": 200
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Key Item: Scroll of Sekhmet"
+                    },
+                    {
+                        "name": "Key Item: Tablet of Horus"
+                    },
+                    {
+                        "name": "Key Item: Staff of Anubis"
+                    },
+                    {
+                        "name": "Gold Coins: Tomb Entrance Top Right - TT"
+                    },
+                    {
+                        "name": "Gold Coins: Tomb Entrance Top Left - TT"
+                    },
+                    {
+                        "name": "Gold Coins: Hand Area Chest Ground Floor - TT"
+                    },
+                    {
+                        "name": "Gold Coins: Hand Area Chest Upper Floor - TT"
+                    },
+                    {
+                        "name": "Winston: Entrance - TT"
+                    },
+                    {
+                        "name": "Cleared: The Tomb"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "The Freakshow",
+        "chest_unopened_img": "images/labels/full.png",
+        "chest_opened_img": "images/labels/empty.png",
+        "children": [
+            {
+                "name": "Freakshow",
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": 1750,
+                        "y": 200
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Key Item: Elephant key 1 - TF"
+                    },
+                    {
+                        "name": "Key Item: Elephant key 2 - TF"
+                    },
+                    {
+                        "name": "Life Bottle: The Freakshow"
+                    },
+                    {
+                        "name": "Equipment: Copper Shield in Chalice Room - TF"
+                    },
+                    {
+                        "name": "Equipment: Copper Shield in Elephant Boss Arena - TF"
+                    },
+                    {
+                        "name": "Gold Coins: Bag at Start Left - TF"
+                    },
+                    {
+                        "name": "Gold Coins: Ladies Bag Trap 1 - TF"
+                    },
+                    {
+                        "name": "Gold Coins: Ladies Bag Trap 2 - TF"
+                    },
+                    {
+                        "name": "Gold Coins: Ladies Bag Trap 3 - TF"
+                    },
+                    {
+                        "name": "Gold Coins: Ladies Bag Trap 4 - TF"
+                    },
+                    {
+                        "name": "Gold Coins: Bag in Tunnel - TF"
+                    },
+                    {
+                        "name": "Gold Coins: Bag Outside Tunnel - TF"
+                    },
+                    {
+                        "name": "Gold Coins: Chest at Water Jump - TF"
+                    },
+                    {
+                        "name": "Gold Coins: Chest Below Giant Clown - TF"
+                    },
+                    {
+                        "name": "Gold Coins: Chest Hidden at Trampolines - TF"
+                    },
+                    {
+                        "name": "Gold Coins: Hand Area Chest - TF"
+                    },
+                    {
+                        "name": "Gold Coins: Hand Area Hidden Chest Left - TF"
+                    },
+                    {
+                        "name": "Gold Coins: Hand Area Hidden Chest Right - TF"
+                    },
+                    {
+                        "name": "Winston: Entrance - TF"
+                    },
+                    {
+                        "name": "Winston: Trampoline - TF"
+                    },
+                    {
+                        "name": "Winston: Elephant Army - TF"
+                    },
+                    {
+                        "name": "Chalice: The Freakshow - TF"
+                    },
+                    {
+                        "name": "Cleared: The Freakshow"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Greenwich Observatory",
+        "chest_unopened_img": "images/labels/full.png",
+        "chest_opened_img": "images/labels/empty.png",
+        "children": [
+            {
+                "name": "Observatory",
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": 220,
+                        "y": 500
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Life Bottle: Greenwich Observatory"
+                    },
+                    {
+                        "name": "Equipment: Copper Shield near Bomb Chest"
+                    },
+                    {
+                        "name": "Gold Coins: Fountain Bag 1 - GO"
+                    },
+                    {
+                        "name": "Gold Coins: Fountain Bag 2 - GO"
+                    },
+                    {
+                        "name": "Gold Coins: Bag Below Spiv - GO"
+                    },
+                    {
+                        "name": "Gold Coins: Bag Below Chalice 1 - GO"
+                    },
+                    {
+                        "name": "Gold Coins: Bag Below Chalice 2 - GO"
+                    },
+                    {
+                        "name": "Gold Coins: Chest Near Exit - GO"
+                    },
+                    {
+                        "name": "Gold Coins: Hand Area Chest 1 - GO"
+                    },
+                    {
+                        "name": "Gold Coins: Hand Area Chest 2 - GO"
+                    },
+                    {
+                        "name": "Gold Coins: Hand Area Chest 3 - GO"
+                    },
+                    {
+                        "name": "Winston: Lost your head? - GO"
+                    },
+                    {
+                        "name": "Winston: Close To Ladder - GO"
+                    },
+                    {
+                        "name": "Winston: Lever Puzzle - GO"
+                    },
+                    {
+                        "name": "Winston: Once Through This Door - GO"
+                    },
+                    {
+                        "name": "Chalice: Greenwhich Observatory"
+                    },
+                    {
+                        "name": "Cleared: Greenwich Observatory"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Greenwich, Naval Academy",
+        "chest_unopened_img": "images/labels/full.png",
+        "chest_opened_img": "images/labels/empty.png",
+        "children": [
+            {
+                "name": "Academy",
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": 280,
+                        "y": 500
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Key Item: Bellows - GONA"
+                    },
+                    {
+                        "name": "Energy Vial: Near Trees - GONA"
+                    },
+                    {
+                        "name": "Gold Coins: Bag Near Trees - GONA"
+                    },
+                    {
+                        "name": "Winston: Entrance - GONA"
+                    },
+                    {
+                        "name": "Cleared: Naval Academy"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Kew Gardens",
+        "chest_unopened_img": "images/labels/full.png",
+        "chest_opened_img": "images/labels/empty.png",
+        "children": [
+            {
+                "name": "Gardens",
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": 750,
+                        "y": 500
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Key Item: Potting Shed Key"
+                    },
+                    {
+                        "name": "Key Item: Water Tank Valve - KG"
+                    },
+                    {
+                        "name": "Key Item: Pond Room Valve - KG"
+                    },
+                    {
+                        "name": "Key Item: Hot House Valve - KG"
+                    },
+                    {
+                        "name": "Life Bottle: Kew Gardens"
+                    },
+                    {
+                        "name": "Equipment: Silver Shield in Gauntlet Room - KG"
+                    },
+                    {
+                        "name": "Energy Vial: Behind Fence Vial 1 - KG"
+                    },
+                    {
+                        "name": "Energy Vial: Behind Fence Vial 2 - KG"
+                    },
+                    {
+                        "name": "Gold Coins: Behind Fence Chest 1 - KG"
+                    },
+                    {
+                        "name": "Gold Coins: Behind Fence Chest 2 - KG"
+                    },
+                    {
+                        "name": "Gold Coins: Bag Near Shed - KG"
+                    },
+                    {
+                        "name": "Gold Coins: Chest at Top of Tree in First Human Room - KG"
+                    },
+                    {
+                        "name": "Gold Coins: Bridge Room Vine Chest 1 - KG"
+                    },
+                    {
+                        "name": "Gold Coins: Bridge Room Vine Chest 2 - KG"
+                    },
+                    {
+                        "name": "Gold Coins: Bag Up Tree in Second Human Room - KG"
+                    },
+                    {
+                        "name": "Gold Coins: Bag on Roof 1 - KG"
+                    },
+                    {
+                        "name": "Gold Coins: Bag on Roof 2 - KG"
+                    },
+                    {
+                        "name": "Gold Coins: Bag in Third Human Room - KG"
+                    },
+                    {
+                        "name": "Gold Coins: Hand Maze Chest - KG"
+                    },
+                    {
+                        "name": "Gold Coins: Hand Maze Chest Reward 1 - KG"
+                    },
+                    {
+                        "name": "Gold Coins: Hand Maze Chest Reward 2- KG"
+                    },
+                    {
+                        "name": "Gold Coins: Hand Maze Chest Reward 3 - KG"
+                    },
+                    {
+                        "name": "Winston: Level Start - KG"
+                    },
+                    {
+                        "name": "Winston: Infection - KG"
+                    },
+                    {
+                        "name": "Chalice: Kew Gardens"
+                    },
+                    {
+                        "name": "Cleared: Kew Gardens"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Dankenstein",
+        "chest_unopened_img": "images/labels/full.png",
+        "chest_opened_img": "images/labels/empty.png",
+        "children": [
+            {
+                "name": "Dankenstein",
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": 1220,
+                        "y": 500
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Key Item: Bum - DK"
+                    },
+                    {
+                        "name": "Key Item: Left Arm - DK"
+                    },
+                    {
+                        "name": "Key Item: Left Leg - DK"
+                    },
+                    {
+                        "name": "Key Item: Right Arm - DK"
+                    },
+                    {
+                        "name": "Key Item: Right Leg - DK"
+                    },
+                    {
+                        "name": "Key Item: Torso - DK"
+                    },
+                    {
+                        "name": "Life Bottle: Dankenstein - DK"
+                    },
+                    {
+                        "name": "Equipment: Silver shield - DK"
+                    },
+                    {
+                        "name": "Gold Coins: Chest Above Projector - DK"
+                    },
+                    {
+                        "name": "Gold Coins: Hand Area Chest 1 - DK"
+                    },
+                    {
+                        "name": "Gold Coins: Hand Area Chest 2 - DK"
+                    },
+                    {
+                        "name": "Book: Reanimation - DK"
+                    },
+                    {
+                        "name": "Winston: Save Point - DK"
+                    },
+                    {
+                        "name": "Chalice: Dankenstein - DK"
+                    },
+                    {
+                        "name": "Cleared: Dankenstein"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Iron Slugger",
+        "chest_unopened_img": "images/labels/full.png",
+        "chest_opened_img": "images/labels/empty.png",
+        "children": [
+            {
+                "name": "Iron Slugger",
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": 1280,
+                        "y": 500
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Book: Dankenstein Manual - IS"
+                    },
+                    {
+                        "name": "Cleared: Iron Slugger"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Wulfrum Hall",
+        "chest_unopened_img": "images/labels/full.png",
+        "chest_opened_img": "images/labels/empty.png",
+        "children": [
+            {
+                "name": "Wulfrum",
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": 1720,
+                        "y": 500
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Key Item: Front Door Key - WH"
+                    },
+                    {
+                        "name": "Life Bottle: Wulfrum Hall"
+                    },
+                    {
+                        "name": "Equipment: Silver Shield Close To Vampire Room 2 - WH"
+                    },
+                    {
+                        "name": "Energy Vial: Near Kitchen Stairs - WH"
+                    },
+                    {
+                        "name": "Energy Vial: Left Room Of Entrance - WH"
+                    },
+                    {
+                        "name": "Energy Vial: In Front Of Hall's Staircase - WH"
+                    },
+                    {
+                        "name": "Gold Coins: Bag Left Side Of Entrance Stairs - WH"
+                    },
+                    {
+                        "name": "Gold Coins: Chest Close To Vampire Room 1 - WH"
+                    },
+                    {
+                        "name": "Gold Coins: Chest in Vampire Room 3 - WH"
+                    },
+                    {
+                        "name": "Gold Coins: Bag in Vampire Room 5 - WH"
+                    },
+                    {
+                        "name": "Winston: Level Start - WH"
+                    },
+                    {
+                        "name": "Winston: Vampires - WH"
+                    },
+                    {
+                        "name": "Chalice: Wulfrum Hall"
+                    },
+                    {
+                        "name": "Cleared: Wulfrum Hall"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "The Count",
+        "chest_unopened_img": "images/labels/full.png",
+        "chest_opened_img": "images/labels/empty.png",
+        "children": [
+            {
+                "name": "The Count",
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": 1780,
+                        "y": 500
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Winston: Level Start - TC"
+                    },
+                    {
+                        "name": "Gold Coins: Gold Chest - TC"
+                    },
+                    {
+                        "name": "Cleared: The Count"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Whitechapel",
+        "chest_unopened_img": "images/labels/full.png",
+        "chest_opened_img": "images/labels/empty.png",
+        "children": [
+            {
+                "name": "Whitechapel",
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": 250,
+                        "y": 800
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Key Item: Library Key in House Basement - WC"
+                    },
+                    {
+                        "name": "Key Item: Griffin Shield - WC"
+                    },
+                    {
+                        "name": "Key Item: Membership Card - WC"
+                    },
+                    {
+                        "name": "Key Item: Elegant Suit - WC"
+                    },
+                    {
+                        "name": "Key Item: Unicorn Shield - WC"
+                    },
+                    {
+                        "name": "Key Item: Beard - WC"
+                    },
+                    {
+                        "name": "Life Bottle: Whitechapel"
+                    },
+                    {
+                        "name": "Equipment: Silver Shield in Library - WC"
+                    },
+                    {
+                        "name": "Equipment: Flaming Crossbow Inside House Near Unicorn Shield - WC"
+                    },
+                    {
+                        "name": "Gold Coins: Bag 1 in House Basement - WC"
+                    },
+                    {
+                        "name": "Gold Coins: Bag 2 in House Basement - WC"
+                    },
+                    {
+                        "name": "Gold Coins: Bag 1 Tailor Shop Basement -WC"
+                    },
+                    {
+                        "name": "Gold Coins: Bag 2 Tailor Shop Basement - WC"
+                    },
+                    {
+                        "name": "Gold Coins: Bag 3 Tailor Shop Basement - WC"
+                    },
+                    {
+                        "name": "Gold Coins: Chest Inside Club - WC"
+                    },
+                    {
+                        "name": "Book: Isibod Brunel - WC"
+                    },
+                    {
+                        "name": "Winston: Kiya Last Seen - WC"
+                    },
+                    {
+                        "name": "Chalice: Whitechapel - WC"
+                    },
+                    {
+                        "name": "Cleared: Whitechapel"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "The Sewers",
+        "chest_unopened_img": "images/labels/full.png",
+        "chest_opened_img": "images/labels/empty.png",
+        "children": [
+            {
+                "name": "The Sewers",
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": 750,
+                        "y": 800
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Key Item: Poster - TS"
+                    },
+                    {
+                        "name": "Life Bottle: Sewers"
+                    },
+                    {
+                        "name": "Equipment: Gold Shield in Hub Area - TS"
+                    },
+                    {
+                        "name": "Event: Girls Freed - 1 - TS"
+                    },
+                    {
+                        "name": "Event: Girls Freed - 2 - TS"
+                    },
+                    {
+                        "name": "Event: Girls Freed - 3 - TS"
+                    },
+                    {
+                        "name": "Event: Girls Freed - 4 - TS"
+                    },
+                    {
+                        "name": "Event: Girls Freed - 5 - TS"
+                    },
+                    {
+                        "name": "Energy Vial: Vial 1 End Pipes Area - TS"
+                    },
+                    {
+                        "name": "Energy Vial: Vial 2 End Pipes Area - TS"
+                    },
+                    {
+                        "name": "Energy Vial: Vial 3 End Pipes Area - TS"
+                    },
+                    {
+                        "name": "Gold Coins: Bag at Pipes Area Start - TS"
+                    },
+                    {
+                        "name": "Gold Coins: Bag 1 in Pipes Puzzle Room - TS"
+                    },
+                    {
+                        "name": "Gold Coins: Bag 2 in Pipes Puzzle Room - TS"
+                    },
+                    {
+                        "name": "Gold Coins: Reward Chest 1 - TS"
+                    },
+                    {
+                        "name": "Gold Coins: Reward Chest 2 - TS"
+                    },
+                    {
+                        "name": "Winston: Save Point - TS"
+                    },
+                    {
+                        "name": "Winston: Something Really Interesting - TS"
+                    },
+                    {
+                        "name": "Chalice: Sewers"
+                    },
+                    {
+                        "name": "Cleared: The Sewers"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "The Time Machine",
+        "chest_unopened_img": "images/labels/full.png",
+        "chest_opened_img": "images/labels/empty.png",
+        "children": [
+            {
+                "name": "The Time Machine",
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": 1190,
+                        "y": 800
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Key Item: Time Machine Piece - Planetarium - TTM"
+                    },
+                    {
+                        "name": "Key Item: Time Machine Piece - Grammar Horn - TTM"
+                    },
+                    {
+                        "name": "Key Item: Time Machine Piece - Moon Exhibit - TTM"
+                    },
+                    {
+                        "name": "Book: Space Beacon - TTM"
+                    },
+                    {
+                        "name": "Book: Grammar Horn - TTM"
+                    },
+                    {
+                        "name": "Book: Moon Exhibit - TTM"
+                    },
+                    {
+                        "name": "Book: The Time Machine"
+                    },
+                    {
+                        "name": "Winston: Entrance - TTM"
+                    },
+                    {
+                        "name": "Cleared: The Time Machine"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "The Time Machine, The Sewers",
+        "chest_unopened_img": "images/labels/full.png",
+        "chest_opened_img": "images/labels/empty.png",
+        "children": [
+            {
+                "name": "Sewers TM",
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": 1250,
+                        "y": 800
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Key Item: Time Stone - Hut Trap - TTMTS"
+                    },
+                    {
+                        "name": "Key Item: King Mullocks Key - Downing King - TTMTS"
+                    },
+                    {
+                        "name": "Equipment: Good Lightning - Changing Room - TTMTS"
+                    },
+                    {
+                        "name": "Winston: Entrance - TTMTS"
+                    },
+                    {
+                        "name": "Winston: Kings Hat - TTMTS"
+                    },
+                    {
+                        "name": "Winston: Stealing Time Stone - TTMTS"
+                    },
+                    {
+                        "name": "Cleared: The Time Machine, The Sewers"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "The Ripper",
+        "chest_unopened_img": "images/labels/full.png",
+        "chest_opened_img": "images/labels/empty.png",
+        "children": [
+            {
+                "name": "The Ripper",
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": 1310,
+                        "y": 800
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Winston: Entrance - TR"
+                    },
+                    {
+                        "name": "Cleared: The Ripper"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Cathedral Spires",
+        "chest_unopened_img": "images/labels/full.png",
+        "chest_opened_img": "images/labels/empty.png",
+        "children": [
+            {
+                "name": "Cathedral Spires",
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": 1690,
+                        "y": 800
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Key Item: Lost Soul - Bottom left of Cathedral - CS"
+                    },
+                    {
+                        "name": "Key Item: Lost Soul - Top of Cathedral - CS"
+                    },
+                    {
+                        "name": "Key Item: Lost Soul - Left Chapel on the Roo - CS"
+                    },
+                    {
+                        "name": "Key Item: Lost Soul - Right Chapel on the Roo - CS"
+                    },
+                    {
+                        "name": "Key Item: Lost Soul - Next to Life Bottle - CS"
+                    },
+                    {
+                        "name": "Life Bottle: Cathedral Spires"
+                    },
+                    {
+                        "name": "Equipment: Gold Shield in Chest at Start - CS"
+                    },
+                    {
+                        "name": "Equipment: Silver Shield Chest near Gold Coins - CS"
+                    },
+                    {
+                        "name": "Energy Vial: Next to Spiv - CS"
+                    },
+                    {
+                        "name": "Gold Coins: Bottom Right Near Spiv - CS"
+                    },
+                    {
+                        "name": "Gold Coins: Chest After First Lost Soul - CS"
+                    },
+                    {
+                        "name": "Gold Coins: Chest After First Flame Gargoyles - CS"
+                    },
+                    {
+                        "name": "Gold Coins: Chest Near Silver Shield Chest - CS"
+                    },
+                    {
+                        "name": "Gold Coins: Bag at top of Spire - CS"
+                    },
+                    {
+                        "name": "Winston: Entrance - CS"
+                    },
+                    {
+                        "name": "Cleared: Cathedral Spires"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Cathedral Spires, The Descent",
+        "chest_unopened_img": "images/labels/full.png",
+        "chest_opened_img": "images/labels/empty.png",
+        "children": [
+            {
+                "name": "The Descent",
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": 1750,
+                        "y": 800
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Key Item: Lost Soul - Left Jump at Chandelere - CSTD"
+                    },
+                    {
+                        "name": "Key Item: Lost Soul - Right Jump at Chandelere - CSTD"
+                    },
+                    {
+                        "name": "Key Item: Lost Soul - Demon Statue Mausoleum - CSTD"
+                    },
+                    {
+                        "name": "Key Item: Lost Soul - Entrance Room - CSTD"
+                    },
+                    {
+                        "name": "Key Item: Lost Soul - Top of Pully Front - CSTD"
+                    },
+                    {
+                        "name": "Key Item: Lost Soul - Top of Pully Back - CSTD"
+                    },
+                    {
+                        "name": "Key Item: Lost Soul - Pully Room Right - CSTD"
+                    },
+                    {
+                        "name": "Key Item: Golden Cog in Room - CSTD"
+                    },
+                    {
+                        "name": "Key Item: Golden Cog in Hand Area - CSTD"
+                    },
+                    {
+                        "name": "Key Item: Spell Page - Demon Death - CSTD"
+                    },
+                    {
+                        "name": "Life Bottle: Cathedral Spires, The Decent"
+                    },
+                    {
+                        "name": "Gold Coins: Golden Cog Room Entrance - CSTD"
+                    },
+                    {
+                        "name": "Gold Coins: Golden Cog Room Bottom - CSTD"
+                    },
+                    {
+                        "name": "Winston: Entrance - CSTD"
+                    },
+                    {
+                        "name": "Cleared: Cathedral Spires, The Descent"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "The Demon",
+        "chest_unopened_img": "images/labels/full.png",
+        "chest_opened_img": "images/labels/empty.png",
+        "children": [
+            {
+                "name": "The Demon",
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": 1810,
+                        "y": 800
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Winston: Entrance - TD"
+                    },
+                    {
+                        "name": "Cleared: The Demon"
+                    }
+                ]
+            }
+        ]
+    }
+]
