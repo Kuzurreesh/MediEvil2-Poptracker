@@ -1,0 +1,280 @@
+[
+    {
+        "name": "Wulfrum Hall",
+        "access_rules": [
+            "hand"
+        ],
+        "chest_unopened_img": "images/labels/full.png",
+        "chest_opened_img": "images/labels/empty.png",
+        "children": [
+            {
+                "name": "Kitchen",
+                "map_locations": [
+                    {
+                        "map": "Wulfrum",
+                        "x": 1535,
+                        "y": 1440
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Key Item: Front Door Key - WH"
+                    }
+                ]
+            },
+            {
+                "name": "Alcove",
+                "map_locations": [
+                    {
+                        "map": "Wulfrum",
+                        "x": 1925,
+                        "y": 1085
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Life Bottle: Wulfrum Hall"
+                    }
+                ]
+            },
+            {
+                "name": "Hall Chest",
+                "map_locations": [
+                    {
+                        "map": "Wulfrum",
+                        "x": 2205,
+                        "y": 100
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Equipment: Silver Shield Close To Vampire Room 2 - WH"
+                    }
+                ]
+            },
+            {
+                "name": "Kitchen Stairs",
+                "map_locations": [
+                    {
+                        "map": "Wulfrum",
+                        "x": 1945,
+                        "y": 1630
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Energy Vial: Near Kitchen Stairs - WH"
+                    }
+                ]
+            },
+            {
+                "name": "Entrance Left",
+                "map_locations": [
+                    {
+                        "map": "Wulfrum",
+                        "x": 140,
+                        "y": 785
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Energy Vial: Left Room Of Entrance - WH"
+                    }
+                ]
+            },
+            {
+                "name": "Hall",
+                "map_locations": [
+                    {
+                        "map": "Wulfrum",
+                        "x": 1175,
+                        "y": 370
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Energy Vial: In Front Of Hall's Staircase - WH"
+                    }
+                ]
+            },
+            {
+                "name": "Outside",
+                "parent": "The Museum Part 1",
+                "map_locations": [
+                    {
+                        "map": "Wulfrum",
+                        "x": 405,
+                        "y": 1205
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Gold Coins: Bag Left Side Of Entrance Stairs - WH"
+                    }
+                ]
+            },
+            {
+                "name": "Hall Coins",
+                "map_locations": [
+                    {
+                        "map": "Wulfrum",
+                        "x": 1205,
+                        "y": 820
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Gold Coins: Chest Close To Vampire Room 1 - WH"
+                    }
+                ]
+            },
+            {
+                "name": "Room 3",
+                "map_locations": [
+                    {
+                        "map": "Wulfrum",
+                        "x": 605,
+                        "y": 175
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Gold Coins: Chest in Vampire Room 3 - WH"
+                    }
+                ]
+            },
+            {
+                "name": "Room 5",
+                "map_locations": [
+                    {
+                        "map": "Wulfrum",
+                        "x": 2480,
+                        "y": 790
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Gold Coins: Bag in Vampire Room 5 - WH"
+                    }
+                ]
+            },
+            {
+                "name": "Start",
+                "parent": "The Museum Part 1",
+                "map_locations": [
+                    {
+                        "map": "Wulfrum",
+                        "x": 780,
+                        "y": 1925
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Winston: Level Start - WH"
+                    }
+                ]
+            },
+            {
+                "name": "Hall Winston",
+                "map_locations": [
+                    {
+                        "map": "Wulfrum",
+                        "x": 2385,
+                        "y": 580
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Winston: Vampires - WH"
+                    }
+                ]
+            },
+            {
+                "name": "Entry",
+                "map_locations": [
+                    {
+                        "map": "Wulfrum",
+                        "x": 755,
+                        "y": 795
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Chalice: Wulfrum Hall"
+                    }
+                ]
+            },
+            {
+                "name": "Clear",
+                "map_locations": [
+                    {
+                        "map": "Wulfrum",
+                        "x": 2710,
+                        "y": 515,
+                        "size": 60,
+                        "shape": "diamond"
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Cleared: Wulfrum Hall"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "The Count",
+        "chest_unopened_img": "images/labels/full.png",
+        "chest_opened_img": "images/labels/empty.png",
+        "children": [
+            {
+                "name": "Winston",
+                "map_locations": [
+                    {
+                        "map": "Wulfrum",
+                        "x": 2900,
+                        "y": 1940
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Winston: Level Start - TC"
+                    }
+                ]
+            },
+            {
+                "name": "Coins",
+                "map_locations": [
+                    {
+                        "map": "Wulfrum",
+                        "x": 2315,
+                        "y": 1755
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Gold Coins: Gold Chest - TC"
+                    }
+                ]
+            },
+            {
+                "name": "Clear",
+                "map_locations": [
+                    {
+                        "map": "Wulfrum",
+                        "x": 2560,
+                        "y": 1600,
+                        "size": 60,
+                        "shape": "diamond"
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Cleared: The Count"
+                    }
+                ]
+            }
+        ]
+    }
+]

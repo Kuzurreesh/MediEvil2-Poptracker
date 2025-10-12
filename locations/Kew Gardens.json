@@ -1,0 +1,320 @@
+[
+    {
+        "name": "Kew Gardens",
+        "chest_unopened_img": "images/labels/full.png",
+        "chest_opened_img": "images/labels/empty.png",
+        "children": [
+            {
+                "name": "Fountain",
+                "map_locations": [
+                    {
+                        "map": "Gardens",
+                        "x": 2450,
+                        "y": 920
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Key Item: Potting Shed Key"
+                    }
+                ]
+            },
+            {
+                "name": "Shed",
+                "map_locations": [
+                    {
+                        "map": "Gardens",
+                        "x": 2800,
+                        "y": 245
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Key Item: Water Tank Valve - KG"
+                    }
+                ]
+            },
+            {
+                "name": "First Room 1",
+                "map_locations": [
+                    {
+                        "map": "Gardens",
+                        "x": 2310,
+                        "y": 175
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Key Item: Pond Room Valve - KG"
+                    }
+                ]
+            },
+            {
+                "name": "Chalice Room",
+                "map_locations": [
+                    {
+                        "map": "Gardens",
+                        "x": 460,
+                        "y": 130
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Key Item: Hot House Valve - KG"
+                    }
+                ]
+            },
+            {
+                "name": "Outside",
+                "map_locations": [
+                    {
+                        "map": "Gardens",
+                        "x": 1890,
+                        "y": 905
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Life Bottle: Kew Gardens"
+                    }
+                ]
+            },
+            {
+                "name": "Arena",
+                "map_locations": [
+                    {
+                        "map": "Gardens",
+                        "x": 1685,
+                        "y": 930
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Equipment: Silver Shield in Gauntlet Room - KG"
+                    }
+                ]
+            },
+            {
+                "name": "Fence Vials",
+                "map_locations": [
+                    {
+                        "map": "Gardens",
+                        "x": 1735,
+                        "y": 1615
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Energy Vial: Behind Fence Vial 1 - KG"
+                    },
+                    {
+                        "name": "Energy Vial: Behind Fence Vial 2 - KG"
+                    }
+                ]
+            },
+            {
+                "name": "Fence",
+                "map_locations": [
+                    {
+                        "map": "Gardens",
+                        "x": 1870,
+                        "y": 1345
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Gold Coins: Behind Fence Chest 1 - KG"
+                    },
+                    {
+                        "name": "Gold Coins: Behind Fence Chest 2 - KG"
+                    }
+                ]
+            },
+            {
+                "name": "Near Shed",
+                "map_locations": [
+                    {
+                        "map": "Gardens",
+                        "x": 2575,
+                        "y": 540
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Gold Coins: Bag Near Shed - KG"
+                    }
+                ]
+            },
+            {
+                "name": "First Room 2",
+                "map_locations": [
+                    {
+                        "map": "Gardens",
+                        "x": 1950,
+                        "y": 365
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Gold Coins: Chest at Top of Tree in First Human Room - KG"
+                    }
+                ]
+            },
+            {
+                "name": "Bridge",
+                "map_locations": [
+                    {
+                        "map": "Gardens",
+                        "x": 335,
+                        "y": 1885
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Gold Coins: Bridge Room Vine Chest 1 - KG"
+                    },
+                    {
+                        "name": "Gold Coins: Bridge Room Vine Chest 2 - KG"
+                    }
+                ]
+            },
+            {
+                "name": "Chalice Tree",
+                "map_locations": [
+                    {
+                        "map": "Gardens",
+                        "x": 570,
+                        "y": 1095
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Gold Coins: Bag Up Tree in Second Human Room - KG"
+                    }
+                ]
+            },
+            {
+                "name": "Roof",
+                "map_locations": [
+                    {
+                        "map": "Gardens",
+                        "x": 1000,
+                        "y": 490
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Gold Coins: Bag on Roof 1 - KG"
+                    },
+                    {
+                        "name": "Gold Coins: Bag on Roof 2 - KG"
+                    }
+                ]
+            },
+            {
+                "name": "Hot House",
+                "map_locations": [
+                    {
+                        "map": "Gardens",
+                        "x": 1065,
+                        "y": 1775
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Gold Coins: Bag in Third Human Room - KG"
+                    }
+                ]
+            },
+            {
+                "name": "Maze",
+                "access_rules": [
+                    "hand"
+                ],
+                "map_locations": [
+                    {
+                        "map": "Gardens",
+                        "x": 1470,
+                        "y": 1750
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Gold Coins: Hand Maze Chest - KG"
+                    },
+                    {
+                        "name": "Gold Coins: Hand Maze Chest Reward 1 - KG"
+                    },
+                    {
+                        "name": "Gold Coins: Hand Maze Chest Reward 2- KG"
+                    },
+                    {
+                        "name": "Gold Coins: Hand Maze Chest Reward 3 - KG"
+                    }
+                ]
+            },
+            {
+                "name": "Entrance",
+                "map_locations": [
+                    {
+                        "map": "Gardens",
+                        "x": 2690,
+                        "y": 1860
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Winston: Level Start - KG"
+                    }
+                ]
+            },
+            {
+                "name": "First Room 3",
+                "map_locations": [
+                    {
+                        "map": "Gardens",
+                        "x": 1650,
+                        "y": 420
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Winston: Infection - KG"
+                    }
+                ]
+            },
+            {
+                "name": "Chalice Treetop",
+                "map_locations": [
+                    {
+                        "map": "Gardens",
+                        "x": 640,
+                        "y": 480
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Chalice: Kew Gardens"
+                    }
+                ]
+            },
+            {
+                "name": "Clear",
+                "map_locations": [
+                    {
+                        "map": "Gardens",
+                        "x": 1390,
+                        "y": 810,
+                        "size": 60,
+                        "shape": "diamond"
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Cleared: Kew Gardens"
+                    }
+                ]
+            }
+        ]
+    }
+]

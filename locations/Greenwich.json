@@ -1,0 +1,326 @@
+[
+    {
+        "name": "Observatory",
+        "chest_unopened_img": "images/labels/full.png",
+        "chest_opened_img": "images/labels/empty.png",
+        "children": [
+            {
+                "name": "Left Boat",
+                "map_locations": [
+                    {
+                        "map": "Observatory",
+                        "x": 1225,
+                        "y": 1055
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Life Bottle: Greenwich Observatory"
+                    }
+                ]
+            },
+            {
+                "name": "Behind Observatory",
+                "map_locations": [
+                    {
+                        "map": "Observatory",
+                        "x": 2075,
+                        "y": 475
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Equipment: Copper Shield near Bomb Chest"
+                    }
+                ]
+            },
+            {
+                "name": "Right Observatory",
+                "map_locations": [
+                    {
+                        "map": "Observatory",
+                        "x": 2600,
+                        "y": 330
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Gold Coins: Fountain Bag 1 - GO"
+                    },
+                    {
+                        "name": "Gold Coins: Fountain Bag 2 - GO"
+                    }
+                ]
+            },
+            {
+                "name": "Below Spiv",
+                "map_locations": [
+                    {
+                        "map": "Observatory",
+                        "x": 1820,
+                        "y": 770
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Gold Coins: Bag Below Spiv - GO"
+                    }
+                ]
+            },
+            {
+                "name": "Below Chalice",
+                "map_locations": [
+                    {
+                        "map": "Observatory",
+                        "x": 1170,
+                        "y": 1720
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Gold Coins: Bag Below Chalice 1 - GO"
+                    },
+                    {
+                        "name": "Gold Coins: Bag Below Chalice 2 - GO"
+                    }
+                ]
+            },
+            {
+                "name": "Exit 1",
+                "map_locations": [
+                    {
+                        "map": "Observatory",
+                        "x": 190,
+                        "y": 1670
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Gold Coins: Chest Near Exit - GO"
+                    }
+                ]
+            },
+            {
+                "name": "Hand 1",
+                "map_locations": [
+                    {
+                        "map": "Observatory",
+                        "x": 170,
+                        "y": 500
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Gold Coins: Hand Area Chest 1 - GO"
+                    }
+                ]
+            },
+            {
+                "name": "Hand 2",
+                "map_locations": [
+                    {
+                        "map": "Observatory",
+                        "x": 895,
+                        "y": 290
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Gold Coins: Hand Area Chest 2 - GO"
+                    }
+                ]
+            },
+            {
+                "name": "Hand 3",
+                "map_locations": [
+                    {
+                        "map": "Observatory",
+                        "x": 740,
+                        "y": 240
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Gold Coins: Hand Area Chest 3 - GO"
+                    }
+                ]
+            },
+            {
+                "name": "Observatory",
+                "map_locations": [
+                    {
+                        "map": "Observatory",
+                        "x": 2390,
+                        "y": 1725
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Winston: Lost your head? - GO"
+                    }
+                ]
+            },
+            {
+                "name": "Bird Ladder",
+                "map_locations": [
+                    {
+                        "map": "Observatory",
+                        "x": 2110,
+                        "y": 1130
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Winston: Close To Ladder - GO"
+                    }
+                ]
+            },
+            {
+                "name": "Levers",
+                "map_locations": [
+                    {
+                        "map": "Observatory",
+                        "x": 1630,
+                        "y": 630
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Winston: Lever Puzzle - GO"
+                    }
+                ]
+            },
+            {
+                "name": "Exit 2",
+                "map_locations": [
+                    {
+                        "map": "Observatory",
+                        "x": 730,
+                        "y": 1900
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Winston: Once Through This Door - GO"
+                    }
+                ]
+            },
+            {
+                "name": "Chalice Boat",
+                "map_locations": [
+                    {
+                        "map": "Observatory",
+                        "x": 1470,
+                        "y": 1510
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Chalice: Greenwhich Observatory"
+                    }
+                ]
+            },
+            {
+                "name": "Clear",
+                "map_locations": [
+                    {
+                        "map": "Observatory",
+                        "x": 555,
+                        "y": 1505,
+                        "size": 60,
+                        "shape": "diamond"
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Cleared: Greenwich Observatory"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Academy",
+        "chest_unopened_img": "images/labels/full.png",
+        "chest_opened_img": "images/labels/empty.png",
+        "children": [
+            {
+                "name": "Inside",
+                "map_locations": [
+                    {
+                        "map": "Academy",
+                        "x": 1845,
+                        "y": 1145
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Key Item: Bellows - GONA"
+                    }
+                ]
+            },
+            {
+                "name": "Trees Right",
+                "map_locations": [
+                    {
+                        "map": "Academy",
+                        "x": 2380,
+                        "y": 1180
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Energy Vial: Near Trees - GONA"
+                    }
+                ]
+            },
+            {
+                "name": "Trees Left",
+                "map_locations": [
+                    {
+                        "map": "Academy",
+                        "x": 365,
+                        "y": 1180
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Gold Coins: Bag Near Trees - GONA"
+                    }
+                ]
+            },
+            {
+                "name": "Entrance",
+                "map_locations": [
+                    {
+                        "map": "Academy",
+                        "x": 1410,
+                        "y": 1790
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Winston: Entrance - GONA"
+                    }
+                ]
+            },
+            {
+                "name": "Clear",
+                "map_locations": [
+                    {
+                        "map": "Academy",
+                        "x": 1880,
+                        "y": 340,
+                        "size": 60,
+                        "shape": "diamond"
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Cleared: Naval Academy"
+                    }
+                ]
+            }
+        ]
+    }
+]

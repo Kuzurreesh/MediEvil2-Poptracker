@@ -6,35 +6,11 @@
 		"h_alignment": "left",
 		"item_h_alignment": "center",
 		"item_v_alignment": "center",
-		"item_height": 25,
-		"item_width": 25,
+		"item_height": 360,
+		"item_width": 820,
 		"rows": [
 			[
-				"arm",
-				"sword",
-				"broadsword",
-				"magicsword",
-				"shieldcopper",
-				"shieldsilver",
-				"shieldgold"
-			],
-			[
-				"club",
-				"hammer",
-				"axe",
-				"lightning",
-				"goodlightning",
-				"dragonarmour",
-				"chickendrumstick"
-			],
-			[
-				"throwingdaggers",
-				"crossbow",
-				"spear",
-				"longbow",
-				"flaminglongbow",
-				"magiclongbow",
-				"daring5"
+			
 			]
 		]
 	},
@@ -1013,12 +989,12 @@
 		"content": [
 			{
 				"type": "itemgrid",
-				"item_margin": "4, 4",
+				"item_margin": "2, 2",
 				"h_alignment": "left",
 				"item_h_alignment": "center",
 				"item_v_alignment": "center",
-				"item_height": 50,
-				"item_width": 50,
+				"item_height": 30,
+				"item_width": 30,
 				"rows": [
 					[
 						"Small Sword",
@@ -1026,8 +1002,7 @@
 						"Magic Sword",
 						"Cane",
 						"Hammer",
-						"Axe",
-						"Torch"
+						"Axe"
 					],
 					[
 						"Pistol",
@@ -1047,8 +1022,10 @@
 					],
 					[
 						"Armour",
-						"Daring Dash",
-						"Hand"
+						"Dash",
+						"Hand",
+						"Torch",
+						"Life Bottle"
 					]
 				]
 			}

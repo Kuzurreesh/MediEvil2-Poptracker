@@ -9,21 +9,181 @@
 			"margin": "0, 0",
 			"content": [
 				{
-							"type": "group",
-							"header": "Items",
-							"content": {
-								"type": "layout",
-								"key": "keyitems"
-							}
+					"type": "group",
+					"header": "Items",
+					"content": {
+						"type": "layout",
+						"key": "keyitems"
+					}
+				},
+				{
+					"type": "tabbed",
+					"tabs": [
+						{
+							"title": "Overworld",
+							"content": [
+								{
+									"type": "map",
+									"maps": [
+										"Overworld"
+									]
+								}
+							]
 						},
 						{
-							"type": "map",						
-							"maps": [
-								"Overworld"
+							"title": "The Museum",
+							"content": [
+								{
+									"type": "tabbed",
+									"tabs": [
+										{
+											"title": "Part 1",
+											"content": [
+												{
+													"type": "map",
+													"maps": [
+														"The Museum P1"
+													]
+												}
+											]
+										},
+										{
+											"title": "Part 2",
+											"content": [
+												{
+													"type": "map",
+													"maps": [
+														"The Museum P2"
+													]
+												}
+											]
+										},
+										{
+											"title": "Tyrannosaurus Wrecks",
+											"content": [
+												{
+													"type": "map",
+													"maps": [
+														"Tyranno"
+													]
+												}
+											]
+										}
+									]
+								}
+							]
+						},
+						{
+							"title": "Kensington",
+							"content": [
+								{
+									"type": "tabbed",
+									"tabs": [
+										{
+											"title": "Kensington",
+											"content": [
+												{
+													"type": "map",
+													"maps": [
+														"Kensington"
+													]
+												}
+											]
+										},
+										{
+											"title": "The Tomb",
+											"content": [
+												{
+													"type": "map",
+													"maps": [
+														"The Tomb"
+													]
+												}
+											]
+										}
+									]
+								}
+							]
+						},
+						{
+							"title": "Freakshow",
+							"content": [
+								{
+									"type": "map",
+									"maps": [
+										"Freakshow"
+									]
+								}
+							]
+						},
+						{
+							"title": "Greenwich",
+							"content": [
+								{
+									"type": "tabbed",
+									"tabs": [
+										{
+											"title": "Observatory",
+											"content": [
+												{
+													"type": "map",
+													"maps": [
+														"Observatory"
+													]
+												}
+											]
+										},
+										{
+											"title": "Naval Academy",
+											"content": [
+												{
+													"type": "map",
+													"maps": [
+														"Academy"
+													]
+												}
+											]
+										}
+									]
+								}
+							]
+						},
+						{
+							"title": "Kew Gardens",
+							"content": [
+								{
+									"type": "map",
+									"maps": [
+										"Gardens"
+									]
+								}
+							]
+						},
+						{
+							"title": "Dankenstein",
+							"content": [
+								{
+									"type": "map",
+									"maps": [
+										"Dankenstein"
+									]
+								}
+							]
+						},
+						{
+							"title": "Wulfrum Hall",
+							"content": [
+								{
+									"type": "map",
+									"maps": [
+										"Wulfrum"
+									]
+								}
 							]
 						}
 					]
-				
+				}
+			]
 		}
 	}
 }

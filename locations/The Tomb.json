@@ -1,0 +1,196 @@
+[
+    {
+        "name": "The Tomb",
+        "chest_unopened_img": "images/labels/full.png",
+        "chest_opened_img": "images/labels/empty.png",
+        "children": [
+            {
+                "name": "Entrance",
+                "map_locations": [
+                    {
+                        "map": "The Tomb",
+                        "x": 1060,
+                        "y": 1865
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Winston: Entrance - TT"
+                    }
+                ]
+            },
+            {
+                "name": "Entrance Left",
+                "map_locations": [
+                    {
+                        "map": "The Tomb",
+                        "x": 320,
+                        "y": 1330
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Gold Coins: Tomb Entrance Top Left - TT"
+                    }
+                ]
+            },
+            {
+                "name": "Entrance Right",
+                "map_locations": [
+                    {
+                        "map": "The Tomb",
+                        "x": 1030,
+                        "y": 1330
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Gold Coins: Tomb Entrance Top Right - TT"
+                    }
+                ]
+            },
+            {
+                "name": "Hand Area Ground",
+                "access_rules":["hand"],
+                "map_locations": [
+                    {
+                        "map": "The Tomb",
+                        "x": 1980,
+                        "y": 1720
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Gold Coins: Hand Area Chest Ground Floor - TT"
+                    }
+                ]
+            },
+            {
+                "name": "Hand Area Upper",
+                "access_rules":["hand"],
+                "map_locations": [
+                    {
+                        "map": "The Tomb",
+                        "x": 1815,
+                        "y": 1105
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Gold Coins: Hand Area Chest Upper Floor - TT"
+                    }
+                ]
+            },
+            {
+                "name": "Block Area 1",
+                "map_locations": [
+                    {
+                        "map": "The Tomb",
+                        "x": 235,
+                        "y": 695
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Key Item: Scroll of Sekhmet"
+                    }
+                ]
+            },
+            {
+                "name": "Block Area 2",
+                "map_locations": [
+                    {
+                        "map": "The Tomb",
+                        "x": 650,
+                        "y": 140
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Key Item: Tablet of Horus"
+                    }
+                ]
+            },
+            {
+                "name": "Block Area 3",
+                "map_locations": [
+                    {
+                        "map": "The Tomb",
+                        "x": 1180,
+                        "y": 560
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Key Item: Staff of Anubis"
+                    }
+                ]
+            },
+            {
+                "name": "Clear",
+                "map_locations": [
+                    {
+                        "map": "The Tomb",
+                        "x": 835,
+                        "y": 385,
+                        "shape": "diamond",
+                        "size": 60
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Cleared: The Tomb"
+                    }
+                ]
+            },
+            {
+                "name": "The Tomb",
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": 1280,
+                        "y": 200
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Key Item: Scroll of Sekhmet",
+                        "ref": "The Tomb/Block Area 1/Key Item: Scroll of Sekhmet"
+                    },
+                    {
+                        "name": "Key Item: Tablet of Horus",
+                        "ref": "The Tomb/Block Area 2/Key Item: Tablet of Horus"
+                    },
+                    {
+                        "name": "Key Item: Staff of Anubis",
+                        "ref": "The Tomb/Block Area 3/Key Item: Staff of Anubis"
+                    },
+                    {
+                        "name": "Gold Coins: Tomb Entrance Top Right - TT",
+                        "ref": "The Tomb/Entrance Right/Gold Coins: Tomb Entrance Top Right - TT"
+                    },
+                    {
+                        "name": "Gold Coins: Tomb Entrance Top Left - TT",
+                        "ref": "The Tomb/Entrance Left/Gold Coins: Tomb Entrance Top Left - TT"
+                    },
+                    {
+                        "name": "Gold Coins: Hand Area Chest Ground Floor - TT",
+                        "ref": "The Tomb/Hand Area Ground/Gold Coins: Hand Area Chest Ground Floor - TT"
+                    },
+                    {
+                        "name": "Gold Coins: Hand Area Chest Upper Floor - TT",
+                        "ref": "The Tomb/Hand Area Upper/Gold Coins: Hand Area Chest Upper Floor - TT"
+                    },
+                    {
+                        "name": "Winston: Entrance - TT",
+                        "ref": "The Tomb/Entrance/Winston: Entrance - TT"
+                    },
+                    {
+                        "name": "Cleared: The Tomb",
+                        "ref": "The Tomb/Clear/Cleared: The Tomb"
+                    }
+                ]
+            }
+        ]
+    }
+]

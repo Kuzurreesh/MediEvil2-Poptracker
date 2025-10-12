@@ -2,19 +2,19 @@
     {
         "name": "Skill: Dan Hand",
         "type": "toggle",
-        "img": "images/items/Arm.png",
+        "img": "images/items/Hand.png",
         "codes": "Hand"
     },
     {
         "name": "Skill: Daring Dash",
         "type": "toggle",
-        "img": "images/items/Daring Dash5.png",
+        "img": "images/items/Dash.png",
         "codes": "Daring5, bash, dash, golem, Daring Dash"
     },
     {
         "name": "Small Sword",
         "type": "toggle",
-        "img": "images/items/SmallSword.png",
+        "img": "images/items/Sword.png",
         "codes": "sword, imp, Small Sword"
     },
     {
@@ -26,25 +26,25 @@
     {
         "name": "Magic Sword",
         "type": "toggle",
-        "img": "images/items/MagicSword.png",
+        "img": "images/items/Magic Sword.png",
         "codes": "magicsword, imp, Magic Sword"
     },
     {
         "name": "Bronze Shield",
         "type": "toggle",
-        "img": "images/items/CopperShield.png",
+        "img": "images/items/Copper Shield.png",
         "codes": "Bronze Shield"
     },
     {
         "name": "Silver Shield",
         "type": "toggle",
-        "img": "images/items/SilverShield.png",
+        "img": "images/items/Silver Shield.png",
         "codes": "Silver Shield"
     },
     {
         "name": "Gold Shield",
         "type": "toggle",
-        "img": "images/items/GoldShield.png",
+        "img": "images/items/Gold Shield.png",
         "codes": "Gold Shield"
     },
     {
@@ -62,13 +62,13 @@
     {
         "name": "Cane Stick",
         "type": "toggle",
-        "img": "images/items/club.png",
+        "img": "images/items/Cane.png",
         "codes": "Cane, imp"
     },
     {
         "name": "Torch",
         "type": "toggle",
-        "img": "images/labels/kobold.png",
+        "img": "images/items/torch.png",
         "codes": "Torch, imp"
     },
     {
@@ -80,13 +80,13 @@
     {
         "name": "Good Lightning",
         "type": "toggle",
-        "img": "images/items/GoodLightning.png",
+        "img": "images/items/Good Lightning.png",
         "codes": "Good Lightning"
     },
     {
         "name": "Pistol",
         "type": "toggle",
-        "img": "images/items/ThrowingDaggers.png",
+        "img": "images/items/pistol.png",
         "codes": "Pistol, throwingdaggers, imp"
     },
     {
@@ -98,552 +98,56 @@
     {
         "name": "Blunderbuss",
         "type": "toggle",
-        "img": "images/items/Spear.png",
+        "img": "images/items/Blunderbuss.png",
         "codes": "Blunderbuss, imp"
     },
     {
         "name": "Flaming Crossbow",
         "type": "toggle",
-        "img": "images/items/FlamingLongbow.png",
+        "img": "images/items/Flaming crossbow.png",
         "codes": "Flaming, flaminglongbow, imp"
     },
     {
         "name": "Gatling Gun",
         "type": "toggle",
-        "img": "images/items/MagicLongbow.png",
+        "img": "images/items/gatling gun.png",
         "codes": "magiclongbow, Gatling, imp"
-    },
-    {
-        "name": "Sheet Music",
-        "type": "toggle",
-        "img": "images/items/sheet music.png",
-        "codes": "sheetmusic"
-    },
-    {
-        "name": "Cleared Crypt",
-        "type": "toggle",
-        "img": "images/labels/Cleared.png",
-        "disabled_img": "images/labels/Not Cleared.png",
-        "disabled_img_mods": "@enabled",
-        "codes": "clearedcrypt"
-    },
-    {
-        "name": "Cleared Graveyard",
-        "type": "toggle",
-        "img": "images/labels/Cleared.png",
-        "disabled_img": "images/labels/Not Cleared.png",
-        "disabled_img_mods": "@enabled",
-        "codes": "clearedgraveyard"
-    },
-    {
-        "name": "Cleared Hill",
-        "type": "toggle",
-        "img": "images/labels/Cleared.png",
-        "disabled_img": "images/labels/Not Cleared.png",
-        "disabled_img_mods": "@enabled",
-        "codes": "clearedhill"
-    },
-    {
-        "name": "Cleared Mausoleum",
-        "type": "toggle",
-        "img": "images/labels/Cleared.png",
-        "disabled_img": "images/labels/Not Cleared.png",
-        "disabled_img_mods": "@enabled",
-        "codes": "clearedmausoleum"
-    },
-    {
-        "name": "Cleared RtG",
-        "type": "toggle",
-        "img": "images/labels/Cleared.png",
-        "disabled_img": "images/labels/Not Cleared.png",
-        "disabled_img_mods": "@enabled",
-        "codes": "clearedrtg"
-    },
-    {
-        "name": "Cleared Scarecrow Fields",
-        "type": "toggle",
-        "img": "images/labels/Cleared.png",
-        "disabled_img": "images/labels/Not Cleared.png",
-        "disabled_img_mods": "@enabled",
-        "codes": "clearedfields"
-    },
-    {
-        "name": "Cleared Pumpkin Gorge",
-        "type": "toggle",
-        "img": "images/labels/Cleared.png",
-        "disabled_img": "images/labels/Not Cleared.png",
-        "disabled_img_mods": "@enabled",
-        "codes": "clearedgorge"
-    },
-    {
-        "name": "Cleared Pumpkin Serpent",
-        "type": "toggle",
-        "img": "images/labels/Cleared.png",
-        "disabled_img": "images/labels/Not Cleared.png",
-        "disabled_img_mods": "@enabled",
-        "codes": "clearedserpent"
-    },
-    {
-        "name": "Cleared Sleeping Village",
-        "type": "toggle",
-        "img": "images/labels/Cleared.png",
-        "disabled_img": "images/labels/Not Cleared.png",
-        "disabled_img_mods": "@enabled",
-        "codes": "clearedvillage"
-    },
-    {
-        "name": "Cleared Asylum Grounds",
-        "type": "toggle",
-        "img": "images/labels/Cleared.png",
-        "disabled_img": "images/labels/Not Cleared.png",
-        "disabled_img_mods": "@enabled",
-        "codes": "clearedgrounds"
-    },
-    {
-        "name": "Cleared Asylum",
-        "type": "toggle",
-        "img": "images/labels/Cleared.png",
-        "disabled_img": "images/labels/Not Cleared.png",
-        "disabled_img_mods": "@enabled",
-        "codes": "clearedasylum"
-    },
-    {
-        "name": "Cleared Enchanted Earth",
-        "type": "toggle",
-        "img": "images/labels/Cleared.png",
-        "disabled_img": "images/labels/Not Cleared.png",
-        "disabled_img_mods": "@enabled",
-        "codes": "clearedenchant"
-    },
-    {
-        "name": "Cleared Ant Caves",
-        "type": "toggle",
-        "img": "images/labels/Cleared.png",
-        "disabled_img": "images/labels/Not Cleared.png",
-        "disabled_img_mods": "@enabled",
-        "codes": "clearedant"
-    },
-    {
-        "name": "Cleared PotAD",
-        "type": "toggle",
-        "img": "images/labels/Cleared.png",
-        "disabled_img": "images/labels/Not Cleared.png",
-        "disabled_img_mods": "@enabled",
-        "codes": "clearedpools"
-    },
-    {
-        "name": "Cleared Lake",
-        "type": "toggle",
-        "img": "images/labels/Cleared.png",
-        "disabled_img": "images/labels/Not Cleared.png",
-        "disabled_img_mods": "@enabled",
-        "codes": "clearedlake"
-    },
-    {
-        "name": "Cleared Crystal Caves",
-        "type": "toggle",
-        "img": "images/labels/Cleared.png",
-        "disabled_img": "images/labels/Not Cleared.png",
-        "disabled_img_mods": "@enabled",
-        "codes": "clearedcrystal"
-    },
-    {
-        "name": "Cleared Gallows Gauntlet",
-        "type": "toggle",
-        "img": "images/labels/Cleared.png",
-        "disabled_img": "images/labels/Not Cleared.png",
-        "disabled_img_mods": "@enabled",
-        "codes": "clearedgallows"
-    },
-    {
-        "name": "Cleared Haunted Ruins",
-        "type": "toggle",
-        "img": "images/labels/Cleared.png",
-        "disabled_img": "images/labels/Not Cleared.png",
-        "disabled_img_mods": "@enabled",
-        "codes": "clearedruins"
-    },
-    {
-        "name": "Cleared Ghost Ship",
-        "type": "toggle",
-        "img": "images/labels/Cleared.png",
-        "disabled_img": "images/labels/Not Cleared.png",
-        "disabled_img_mods": "@enabled",
-        "codes": "clearedship"
-    },
-    {
-        "name": "Cleared Entrance Hall",
-        "type": "toggle",
-        "img": "images/labels/Cleared.png",
-        "disabled_img": "images/labels/Not Cleared.png",
-        "disabled_img_mods": "@enabled",
-        "codes": "clearedhall"
-    },
-    {
-        "name": "Cleared Time Device",
-        "type": "toggle",
-        "img": "images/labels/Cleared.png",
-        "disabled_img": "images/labels/Not Cleared.png",
-        "disabled_img_mods": "@enabled",
-        "codes": "cleareddevice"
-    },
-    {
-        "name": "Skull Key",
-        "type": "toggle",
-        "img": "images/items/skull key.png",
-        "codes": "skullkey"
-    },
-    {
-        "name": "Chaos Rune",
-        "type": "toggle",
-        "img": "images/items/chaos rune.png",
-        "codes": "runechaos"
-    },
-    {
-        "name": "Chaos Rune Graveyard",
-        "type": "toggle",
-        "img": "images/items/chaos rune.png",
-        "codes": "chaosgrave,rune"
-    },
-    {
-        "name": "Chaos Rune Mausoleum",
-        "type": "toggle",
-        "img": "images/items/chaos rune.png",
-        "codes": "chaoshill,rune"
-    },
-    {
-        "name": "Chaos Rune Scarecrow",
-        "type": "toggle",
-        "img": "images/items/chaos rune.png",
-        "codes": "chaosscare,rune"
-    },
-    {
-        "name": "Chaos Rune Pumpkin Gorge",
-        "type": "toggle",
-        "img": "images/items/chaos rune.png",
-        "codes": "chaosgorge,rune"
-    },
-    {
-        "name": "Chaos Rune Village",
-        "type": "toggle",
-        "img": "images/items/chaos rune.png",
-        "codes": "chaossleep,rune"
-    },
-    {
-        "name": "Chaos Rune Asylum Grounds",
-        "type": "toggle",
-        "img": "images/items/chaos rune.png",
-        "codes": "chaosgrounds,rune"
-    },
-    {
-        "name": "Chaos Rune Pools of the Ancient Dead",
-        "type": "toggle",
-        "img": "images/items/chaos rune.png",
-        "codes": "chaospools,rune"
-    },
-    {
-        "name": "Chaos Rune Lake",
-        "type": "toggle",
-        "img": "images/items/chaos rune.png",
-        "codes": "chaoslake,rune"
-    },
-    {
-        "name": "Chaos Rune Haunted Ruins",
-        "type": "toggle",
-        "img": "images/items/chaos rune.png",
-        "codes": "chaosruins,rune"
-    },
-    {
-        "name": "Chaos Rune Ghost Ship",
-        "type": "toggle",
-        "img": "images/items/chaos rune.png",
-        "codes": "chaosship,rune"
-    },
-    {
-        "name": "Chaos Rune Time Device",
-        "type": "toggle",
-        "img": "images/items/chaos rune.png",
-        "codes": "chaosdevice,rune"
-    },
-    {
-        "name": "Earth Rune",
-        "type": "toggle",
-        "img": "images/items/earth rune.png",
-        "codes": "runeearth"
-    },
-    {
-        "name": "Earth Rune Graveyard",
-        "type": "toggle",
-        "img": "images/items/earth rune.png",
-        "codes": "earthgrave,rune"
-    },
-    {
-        "name": "Earth Rune Mausoleum",
-        "type": "toggle",
-        "img": "images/items/earth rune.png",
-        "codes": "earthhill,rune"
-    },
-    {
-        "name": "Earth Rune Scarecrow",
-        "type": "toggle",
-        "img": "images/items/earth rune.png",
-        "codes": "earthscare,rune"
-    },
-    {
-        "name": "Earth Rune Pumpkin Gorge",
-        "type": "toggle",
-        "img": "images/items/earth rune.png",
-        "codes": "earthgorge,rune"
-    },
-    {
-        "name": "Earth Rune Village",
-        "type": "toggle",
-        "img": "images/items/earth rune.png",
-        "codes": "earthsleep,rune"
-    },
-    {
-        "name": "Earth Rune Asylum",
-        "type": "toggle",
-        "img": "images/items/earth rune.png",
-        "codes": "earthasylum,rune"
-    },
-    {
-        "name": "Earth Rune Enchanted Earth",
-        "type": "toggle",
-        "img": "images/items/earth rune.png",
-        "codes": "earthenchant,rune"
-    },
-    {
-        "name": "Earth Rune Lake",
-        "type": "toggle",
-        "img": "images/items/earth rune.png",
-        "codes": "earthlake,rune"
-    },
-    {
-        "name": "Earth Rune Crystal Caves",
-        "type": "toggle",
-        "img": "images/items/earth rune.png",
-        "codes": "earthcrystal,rune"
-    },
-    {
-        "name": "Earth Rune Haunted Ruins",
-        "type": "toggle",
-        "img": "images/items/earth rune.png",
-        "codes": "earthruins,rune"
-    },
-    {
-        "name": "Earth Rune Time Device",
-        "type": "toggle",
-        "img": "images/items/earth rune.png",
-        "codes": "earthdevice,rune"
-    },
-    {
-        "name": "Moon Rune",
-        "type": "toggle",
-        "img": "images/items/moon rune.png",
-        "codes": "runemoon"
-    },
-    {
-        "name": "Moon Rune Mausoleum",
-        "type": "toggle",
-        "img": "images/items/moon rune.png",
-        "codes": "moonhill,rune"
-    },
-    {
-        "name": "Moon Rune Scarecrow",
-        "type": "toggle",
-        "img": "images/items/moon rune.png",
-        "codes": "moonscare,rune"
-    },
-    {
-        "name": "Moon Rune Pumpkin Gorge",
-        "type": "toggle",
-        "img": "images/items/moon rune.png",
-        "codes": "moongorge,rune"
-    },
-    {
-        "name": "Moon Rune Village",
-        "type": "toggle",
-        "img": "images/items/moon rune.png",
-        "codes": "moonsleep,rune"
-    },
-    {
-        "name": "Moon Rune Ghost Ship",
-        "type": "toggle",
-        "img": "images/items/moon rune.png",
-        "codes": "moonship,rune"
-    },
-    {
-        "name": "Moon Rune Time Device",
-        "type": "toggle",
-        "img": "images/items/moon rune.png",
-        "codes": "moondevice,rune"
-    },
-    {
-        "name": "Star Rune",
-        "type": "toggle",
-        "img": "images/items/star rune.png",
-        "codes": "runestar"
-    },
-    {
-        "name": "Star Rune Dan's Crypt",
-        "type": "toggle",
-        "img": "images/items/star rune.png",
-        "codes": "starcrypt,rune"
-    },
-    {
-        "name": "Star Rune RtG",
-        "type": "toggle",
-        "img": "images/items/star rune.png",
-        "codes": "starreturn,rune"
-    },
-    {
-        "name": "Star Rune Pumpkin Gorge",
-        "type": "toggle",
-        "img": "images/items/star rune.png",
-        "codes": "stargorge,rune"
-    },
-    {
-        "name": "Star Rune Enchanted Earth",
-        "type": "toggle",
-        "img": "images/items/star rune.png",
-        "codes": "starenchant,rune"
-    },
-    {
-        "name": "Star Rune Lake",
-        "type": "toggle",
-        "img": "images/items/star rune.png",
-        "codes": "starlake,rune"
-    },
-    {
-        "name": "Star Rune Crystal Caves",
-        "type": "toggle",
-        "img": "images/items/star rune.png",
-        "codes": "starcrystal,rune"
-    },
-    {
-        "name": "Star Rune Gallows Gauntlet",
-        "type": "toggle",
-        "img": "images/items/star rune.png",
-        "codes": "stargallow,rune"
-    },
-    {
-        "name": "Star Rune Ghost Ship",
-        "type": "toggle",
-        "img": "images/items/star rune.png",
-        "codes": "starship,rune"
-    },
-    {
-        "name": "Time Rune",
-        "type": "toggle",
-        "img": "images/items/time rune.png",
-        "codes": "runetime"
-    },
-    {
-        "name": "Time Rune Pumpkin Gorge",
-        "type": "toggle",
-        "img": "images/items/time rune.png",
-        "codes": "timegorge,rune"
-    },
-    {
-        "name": "Time Rune Lake",
-        "type": "toggle",
-        "img": "images/items/time rune.png",
-        "codes": "timelake,rune"
-    },
-    {
-        "name": "Time Rune Time Device",
-        "type": "toggle",
-        "img": "images/items/time rune.png",
-        "codes": "timedevice,rune"
-    },
-    {
-        "name": "Harvester Part",
-        "type": "toggle",
-        "img": "images/items/harvester part.png",
-        "codes": "harvesterpart"
-    },
-    {
-        "name": "Safe Key",
-        "type": "toggle",
-        "img": "images/items/safe key.png",
-        "codes": "safekey"
-    },
-    {
-        "name": "Crucifix Cast",
-        "type": "toggle",
-        "img": "images/items/crucifix cast.png",
-        "codes": "crucifixcast"
-    },
-    {
-        "name": "Landlords Bust",
-        "type": "toggle",
-        "img": "images/items/landlords bust.png",
-        "codes": "landlordsbust"
-    },
-    {
-        "name": "Crucifix",
-        "type": "toggle",
-        "img": "images/items/crucifix.png",
-        "codes": "crucifix"
-    },
-    {
-        "name": "Peregrin's Crown",
-        "type": "toggle",
-        "img": "images/items/PeregrinCrown.png",
-        "codes": "crown"
-    },
-    {
-        "name": "Shadow Artefact",
-        "type": "toggle",
-        "img": "images/items/shadow artefact.png",
-        "codes": "shadowartefact"
-    },
-    {
-        "name": "Shadow Talisman",
-        "type": "toggle",
-        "img": "images/items/shadow talisman.png",
-        "codes": "shadowtalisman"
-    },
-    {
-        "name": "Witch Talisman",
-        "type": "toggle",
-        "img": "images/items/witch talisman.png",
-        "codes": "witchtalisman"
     },
     {
         "name": "Bombs",
         "type": "toggle",
-        "img": "images/items/Amber.png",
+        "img": "images/items/bombs.png",
         "codes": "Bombs"
-    },
-    {
-        "name": "Soul Helmet",
-        "type": "consumable",
-        "overlay_font_size": "15",
-        "img": "images/items/soul helmet.png",
-        "codes": "soulhelmet, helmet",
-        "max_quantity": 8
-    },
-    {
-        "name": "Dragon Gem",
-        "type": "consumable",
-        "overlay_font_size": "15",
-        "img": "images/items/Dragon Gem.png",
-        "codes": "dragongem",
-        "max_quantity": 2
     },
     {
         "name": "Armour",
         "type": "toggle",
-        "img": "images/items/dragonpotion.png",
+        "img": "images/items/38.png",
         "codes": "Armour, dragonarmour, golem"
     },
     {
         "name": "Chicken Drumsticks",
         "type": "toggle",
-        "img": "images/items/chickendrumstick.png",
+        "img": "images/items/drumstick.png",
         "codes": "Chicken Drumsticks, imp"
+    },
+    {
+        "name": "Depot Key",
+        "type": "toggle",
+        "img": "images/items/key.png",
+        "codes": "depotkey"
+    },
+    {
+        "name": "Poster",
+        "type": "toggle",
+        "img": "images/items/Poster.png",
+        "codes": "Poster"
+    },
+    {
+        "name": "Town House Key",
+        "type": "toggle",
+        "img": "images/items/key.png",
+        "codes": "townhousekey"
     },
     {
         "name": "Chalice",
@@ -659,144 +163,6 @@
         "type": "static",
         "img": "images/labels/items.png",
         "codes": "items"
-    },
-    {
-        "name": "Dan's Crypt",
-        "type": "static",
-        "img": "images/labels/dan's Crypt.png",
-        "codes": "cryptlabel"
-    },
-    {
-        "name": "Time Device",
-        "type": "static",
-        "img": "images/labels/time device.png",
-        "codes": "devicelabel"
-    },
-    {
-        "name": "Zarok's Lair",
-        "type": "static",
-        "img": "images/labels/Zarok's Lair.png",
-        "codes": "lairlabel"
-    },
-    {
-        "name": "Ant Caves",
-        "type": "static",
-        "img": "images/labels/Ant Caves.png",
-        "codes": "antcaves"
-    },
-    {
-        "name": "Weapons",
-        "type": "static",
-        "img": "images/labels/weapons.png",
-        "codes": "weapons"
-    },
-    {
-        "name": "Graveyard",
-        "type": "static",
-        "img": "images/labels/graveyard.png",
-        "codes": "graveyard"
-    },
-    {
-        "name": "Cemetery Hill",
-        "type": "static",
-        "img": "images/labels/cemetery hill.png",
-        "codes": "hill"
-    },
-    {
-        "name": "Hilltop Mausoleum",
-        "type": "static",
-        "img": "images/labels/hilltop mausoleum.png",
-        "codes": "mausoleum"
-    },
-    {
-        "name": "Return to the Graveyard",
-        "type": "static",
-        "img": "images/labels/return to the graveyard.png",
-        "codes": "rtg"
-    },
-    {
-        "name": "Scarecrow Fields",
-        "type": "static",
-        "img": "images/labels/Scarecrow Fields.png",
-        "codes": "fields"
-    },
-    {
-        "name": "Pumpkin Gorge",
-        "type": "static",
-        "img": "images/labels/Pumpkin Gorge.png",
-        "codes": "gorge"
-    },
-    {
-        "name": "Pumpkin Serpent",
-        "type": "static",
-        "img": "images/labels/Pumpkin Serpent.png",
-        "codes": "serpent"
-    },
-    {
-        "name": "Sleeping Village",
-        "type": "static",
-        "img": "images/labels/Sleeping Village.png",
-        "codes": "village"
-    },
-    {
-        "name": "Asylum Grounds",
-        "type": "static",
-        "img": "images/labels/Asylum Grounds.png",
-        "codes": "grounds"
-    },
-    {
-        "name": "Inside the Asylum",
-        "type": "static",
-        "img": "images/labels/inside the asylum.png",
-        "codes": "asylum"
-    },
-    {
-        "name": "Enchanted Earth",
-        "type": "static",
-        "img": "images/labels/Enchanted Earth.png",
-        "codes": "enchant"
-    },
-    {
-        "name": "Pools of the Ancient Dead",
-        "type": "static",
-        "img": "images/labels/pad.png",
-        "codes": "pad"
-    },
-    {
-        "name": "The lake",
-        "type": "static",
-        "img": "images/labels/lake.png",
-        "codes": "lake"
-    },
-    {
-        "name": "Crystal Caves",
-        "type": "static",
-        "img": "images/labels/Crystal Caves.png",
-        "codes": "crystal"
-    },
-    {
-        "name": "Gallows Gauntlet",
-        "type": "static",
-        "img": "images/labels/Gallows Gauntlet.png",
-        "codes": "Gauntlet"
-    },
-    {
-        "name": "Haunted Ruins",
-        "type": "static",
-        "img": "images/labels/Haunted Ruins.png",
-        "codes": "ruins"
-    },
-    {
-        "name": "The Ghost Ship",
-        "type": "static",
-        "img": "images/labels/ghost ship.png",
-        "codes": "ship"
-    },
-    {
-        "name": "Entrance Hall",
-        "type": "static",
-        "img": "images/labels/Entrance Hall.png",
-        "codes": "Hall"
     },
     {
         "name": "Ant Caves",
@@ -948,135 +314,229 @@
         "codes": "autotab"
     },
     {
-        "name": "Dan's Crypt Icon",
-        "type": "static",
-        "img": "images/labels/dc.png",
-        "codes": "crypticon"
+        "name": "Life Bottle",
+        "type": "consumable",
+        "img": "images/labels/full.png",
+        "initial_quantity": 0,
+        "codes": "Life Bottle",
+        "max_quantity": 20,
+        "overlay_font_size": 15
     },
     {
-        "name": "The Graveyard Icon",
-        "type": "static",
-        "img": "images/labels/tg.png",
-        "codes": "graveicon"
+        "name": "Poster",
+        "type": "toggle",
+        "img": "images/items/Poster.png",
+        "codes": "Poster"
     },
     {
-        "name": "Cemetery Hill Icon",
-        "type": "static",
-        "img": "images/labels/ch.png",
-        "codes": "hillicon"
+        "name": "Left Leg",
+        "type": "toggle",
+        "img": "images/items/Left Leg.png",
+        "codes": "Left Leg"
     },
     {
-        "name": "Hilltop Mausoleum Icon",
-        "type": "static",
-        "img": "images/labels/hm.png",
-        "codes": "mausoleumicon"
+        "name": "Right Leg",
+        "type": "toggle",
+        "img": "images/items/Right Leg.png",
+        "codes": "Right Leg"
     },
     {
-        "name": "Return to the Graveyard Icon",
-        "type": "static",
-        "img": "images/labels/rtg.png",
-        "codes": "rtgicon"
+        "name": "Left Arm",
+        "type": "toggle",
+        "img": "images/items/Left Arm.png",
+        "codes": "Left Arm"
     },
     {
-        "name": "Scarecrow Fields Icon",
-        "type": "static",
-        "img": "images/labels/sf.png",
-        "codes": "scareicon"
+        "name": "Right Arm",
+        "type": "toggle",
+        "img": "images/items/Right Arm.png",
+        "codes": "Right Arm"
     },
     {
-        "name": "Pumpkin Gorge Icon",
-        "type": "static",
-        "img": "images/labels/pg.png",
-        "codes": "gorgeicon"
+        "name": "Bum",
+        "type": "toggle",
+        "img": "images/items/Bum.png",
+        "codes": "Bum"
     },
     {
-        "name": "Pumpkin Serpent Icon",
-        "type": "static",
-        "img": "images/labels/ps.png",
-        "codes": "serpenticon"
+        "name": "Torso",
+        "type": "toggle",
+        "img": "images/items/Torso.png",
+        "codes": "Torso"
     },
     {
-        "name": "Sleeping Village Icon",
-        "type": "static",
-        "img": "images/labels/sv.png",
-        "codes": "sleepicon"
+        "name": "Bellows",
+        "type": "toggle",
+        "img": "images/items/Bellows.png",
+        "codes": "Bellows"
     },
     {
-        "name": "Asylum Grounds Icon",
-        "type": "static",
-        "img": "images/labels/ag.png",
-        "codes": "groundsicon"
+        "name": "Lost Soul",
+        "type": "toggle",
+        "img": "images/items/Lost Soul.png",
+        "codes": "Lost Soul"
     },
     {
-        "name": "Inside the Asylum Icon",
-        "type": "static",
-        "img": "images/labels/ia.png",
-        "codes": "asylumicon"
+        "name": "Golden Cog",
+        "type": "toggle",
+        "img": "images/items/Golden Cog.png",
+        "codes": "Golden Cog"
     },
     {
-        "name": "Enchanted Earth Icon",
-        "type": "static",
-        "img": "images/labels/ee.png",
-        "codes": "enchanticon"
+        "name": "Spell Page",
+        "type": "toggle",
+        "img": "images/items/Spell Page.png",
+        "codes": "Spell Page"
     },
     {
-        "name": "Ant Caves Icon",
-        "type": "static",
-        "img": "images/labels/ac.png",
-        "codes": "anticon"
+        "name": "Griffin Shield",
+        "type": "toggle",
+        "img": "images/items/Griffin Shield.png",
+        "codes": "Griffin Shield"
     },
     {
-        "name": "Pools of the Ancient Dead Icon",
-        "type": "static",
-        "img": "images/labels/pad.png",
-        "codes": "padicon"
+        "name": "Unicorn Shield",
+        "type": "toggle",
+        "img": "images/items/Unicorn Shield.png",
+        "codes": "Unicorn Shield"
     },
     {
-        "name": "Lake Icon",
-        "type": "static",
-        "img": "images/labels/tl.png",
-        "codes": "lakeicon"
+        "name": "Beard",
+        "type": "toggle",
+        "img": "images/items/Beard.png",
+        "codes": "Beard"
     },
     {
-        "name": "Crystal Caves Icon",
-        "type": "static",
-        "img": "images/labels/cc.png",
-        "codes": "crystalicon"
+        "name": "Library Key",
+        "type": "toggle",
+        "img": "images/items/key.png",
+        "codes": "Library Key"
     },
     {
-        "name": "Gallows Gauntlet Icon",
-        "type": "static",
-        "img": "images/labels/gg.png",
-        "codes": "gallowsicon"
+        "name": "Club Membership Card",
+        "type": "toggle",
+        "img": "images/items/Club Membership Card.png",
+        "codes": "Club Membership Card"
     },
     {
-        "name": "Haunted Ruins Icon",
-        "type": "static",
-        "img": "images/labels/hr.png",
-        "codes": "ruinsicon"
+        "name": "Elephant Key 1",
+        "type": "toggle",
+        "img": "images/items/key.png",
+        "codes": "Elephant Key 1"
     },
     {
-        "name": "The Ghost Ship Icon",
-        "type": "static",
-        "img": "images/labels/gs.png",
-        "codes": "shipicon"
+        "name": "Elephant Key 2",
+        "type": "toggle",
+        "img": "images/items/key.png",
+        "codes": "Elephant Key 2"
     },
     {
-        "name": "Entrance Hall Icon",
-        "type": "static",
-        "img": "images/labels/eh.png",
-        "codes": "hallicon"
+        "name": "Time Machine Piece (Contact Room)",
+        "type": "toggle",
+        "img": "images/items/Time Machine Piece (Contact Room).png",
+        "codes": "TMPContact"
     },
     {
-        "name": "The Time Device Icon",
-        "type": "static",
-        "img": "images/labels/td.png",
-        "codes": "deviceicon"
+        "name": "Time Machine Piece (Earth Room)",
+        "type": "toggle",
+        "img": "images/items/Time Machine Piece (Earth Room).png",
+        "codes": "TMPEarth"
     },
     {
-        "name": "Zarok's Lair Icon",
-        "type": "static",
-        "img": "images/labels/zl.png",
-        "codes": "zarokicon"
+        "name": "Time Machine Piece (Space Room)",
+        "type": "toggle",
+        "img": "images/items/Time Machine Piece (Space Room).png",
+        "codes": "TMPSpace"
+    },
+    {
+        "name": "King Mullock's Key",
+        "type": "toggle",
+        "img": "images/items/key.png",
+        "codes": "kingkey"
+    },
+    {
+        "name": "Staff of Anubis",
+        "type": "toggle",
+        "img": "images/items/Staff of Anubis.png",
+        "codes": "Staff"
+    },
+    {
+        "name": "Scroll of Sekhmet",
+        "type": "toggle",
+        "img": "images/items/Scroll of Sekhmet.png",
+        "codes": "Scroll"
+    },
+    {
+        "name": "Tablet of Horus",
+        "type": "toggle",
+        "img": "images/items/Tablet of Horus.png",
+        "codes": "Tablet"
+    },
+    {
+        "name": "Pocket Watch",
+        "type": "toggle",
+        "img": "images/items/Pocket Watch.png",
+        "codes": "Pocket Watch"
+    },
+    {
+        "name": "Time Stone",
+        "type": "toggle",
+        "img": "images/items/Time Stone.png",
+        "codes": "Time Stone"
+    },
+    {
+        "name": "Antidote",
+        "type": "toggle",
+        "img": "images/items/Antidote.png",
+        "codes": "Antidote"
+    },
+    {
+        "name": "Pond Room Valve",
+        "type": "toggle",
+        "img": "images/items/Pond Room Valve.png",
+        "codes": "Pond Room Valve"
+    },
+    {
+        "name": "Hothouse Valve",
+        "type": "toggle",
+        "img": "images/items/Hothouse Valve.png",
+        "codes": "Hothouse Valve"
+    },
+    {
+        "name": "Water Tank Valve",
+        "type": "toggle",
+        "img": "images/items/Water Tank Valve.png",
+        "codes": "Water Tank Valve"
+    },
+    {
+        "name": "Cannon Ball",
+        "type": "toggle",
+        "img": "images/items/Cannon Ball.png",
+        "codes": "Cannon Ball"
+    },
+    {
+        "name": "Front Door Key",
+        "type": "toggle",
+        "img": "images/items/key.png",
+        "codes": "Front Door Key"
+    },
+    {
+        "name": "Potting Shed Key",
+        "type": "toggle",
+        "img": "images/items/key.png",
+        "codes": "Potting Shed Key"
+    },
+    {
+        "name": "Museum Key",
+        "type": "toggle",
+        "img": "images/items/key.png",
+        "codes": "Museum Key"
+    },
+    {
+        "name": "Dinosaur Key",
+        "type": "toggle",
+        "img": "images/items/key.png",
+        "codes": "Dinosaur Key"
     }
+    
 ]

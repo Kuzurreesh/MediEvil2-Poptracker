@@ -25,7 +25,7 @@ ITEM_MAPPING = {
 	[9901046] = { "Gold Shield", "toggle" },
 
 	--Life Bottles
-	[9901047] = { "Life Bottle", "toggle" },
+	[9901047] = { "Life Bottle", "consumable" },
 
 	--Dans Armour
 	[9901048] = { "Armour", "toggle" },
@@ -53,15 +53,15 @@ ITEM_MAPPING = {
 	[9901066] = { "Club Membership Card", "toggle" },
 	[9901067] = { "Elephant Key 1", "toggle" },
 	[9901068] = { "Elephant Key 2", "toggle" },
-	[9901069] = { "Time Machine Piece (Contact Room)", "toggle" },
-	[9901070] = { "Time Machine Piece (Earth Room)", "toggle" },
-	[9901071] = { "Time Machine Piece (Space Room)", "toggle" },
-	[9901072] = { "King Mullock's Key", "toggle" },
-	[9901073] = { "Staff of Anubis", "toggle" },
-	[9901074] = { "Scroll of Sekhmet", "toggle" },
-	[9901075] = { "Tablet of Horus", "toggle" },
+	[9901069] = { "TMPContact", "toggle" },
+	[9901070] = { "TMPEarth", "toggle" },
+	[9901071] = { "TMPSpace", "toggle" },
+	[9901072] = { "KingKey", "toggle" },
+	[9901073] = { "Staff", "toggle" },
+	[9901074] = { "Scroll", "toggle" },
+	[9901075] = { "Tablet", "toggle" },
 	[9901076] = { "Pocket Watch", "toggle" },
-	[9901077] = { "Town House Key", "toggle" },
+	[9901077] = { "TownHouseKey", "toggle" },
 	[9901078] = { "Time Stone", "toggle" },
 	[9901079] = { "Antidote", "toggle" },
 	[9901080] = { "Pond Room Valve", "toggle" },
@@ -70,7 +70,7 @@ ITEM_MAPPING = {
 	[9901083] = { "Cannon Ball", "toggle" },
 	[9901084] = { "Front Door Key", "toggle" },
 	[9901085] = { "Potting Shed Key", "toggle" },
-	[9901086] = { "The Depot Key", "toggle" },
+	[9901086] = { "Depotkey", "toggle" },
 	[9901087] = { "Museum Key", "toggle" },
 	[9901088] = { "Dinosaur Key", "toggle" }
 

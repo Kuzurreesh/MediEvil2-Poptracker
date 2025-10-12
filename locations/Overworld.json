@@ -51,14 +51,7 @@
                         "name": "Chalice Reward: Gatling Gun"
                     }
                 ]
-            }
-        ]
-    },
-    {
-        "name": "The Museum",
-        "chest_unopened_img": "images/labels/full.png",
-        "chest_opened_img": "images/labels/empty.png",
-        "children": [
+            },
             {
                 "name": "The Museum Part 1",
                 "map_locations": [
@@ -70,67 +63,100 @@
                 ],
                 "sections": [
                     {
+                        "ref": "The Museum Part 1/Mausoleum/Key Item: Museum Key - TM",
                         "name": "Key Item: Museum Key - TM"
                     },
                     {
-                        "name": "Key Item: Cannonball - TM"
-                    },
-                    {
-                        "name": "Key Item: Torch - TM"
-                    },
-                    {
-                        "name": "Key Item: Dinosaur Key - TM"
-                    },
-                    {
+                        "ref": "The Museum Part 1/Sword Case/Equipment: Short Sword at Start - TM",
                         "name": "Equipment: Short Sword at Start - TM"
                     },
                     {
+                        "ref": "The Museum Part 1/Pistol Room 3/Equipment: Pistol in Case - TM",
                         "name": "Equipment: Pistol in Case - TM"
                     },
                     {
+                        "ref": "The Museum Part 1/Mausoleum Second Floor 2/Equipment: Copper Shield 2nd Floor Chest - TM",
                         "name": "Equipment: Copper Shield 2nd Floor Chest - TM"
                     },
                     {
-                        "name": "Equipment: Copper Shield Zarok Room - TM"
-                    },
-                    {
+                        "ref": "The Museum Part 1/Pistol Room 1/Energy Vial: Pistol Room - TM",
                         "name": "Energy Vial: Pistol Room - TM"
                     },
                     {
+                        "ref": "The Museum Part 1/Mausoleum Second Floor 3/Energy Vial: Mausoleum Room 2nd Floor - TM",
                         "name": "Energy Vial: Mausoleum Room 2nd Floor - TM"
                     },
                     {
+                        "ref": "The Museum Part 1/Second Hand Room 6/Energy Vial: Second Hand Room - TM",
                         "name": "Energy Vial: Second Hand Room - TM"
                     },
                     {
+                        "ref": "The Museum Part 1/Pistol Room 2/Gold Coins: Hidden Behind Purple Structure - TM",
                         "name": "Gold Coins: Hidden Behind Purple Structure - TM"
                     },
                     {
+                        "ref": "The Museum Part 1/Mausoleum Second Floor 5/Gold Coins: Mausoleum Room 2nd Floor 1 - TM",
                         "name": "Gold Coins: Mausoleum Room 2nd Floor 1 - TM"
                     },
                     {
+                        "ref": "The Museum Part 1/Mausoleum Second Floor 5/Gold Coins: Mausoleum Room 2nd Floor 2 - TM",
                         "name": "Gold Coins: Mausoleum Room 2nd Floor 2 - TM"
                     },
                     {
+                        "ref": "The Museum Part 1/Mausoleum Second Floor 5/Gold Coins: Mausoleum Room 2nd Floor 3 - TM",
                         "name": "Gold Coins: Mausoleum Room 2nd Floor 3 - TM"
                     },
                     {
-                        "name": "Gold Coins: Buddah Statue Staircase - TM"
+                        "ref": "The Museum Part 1/First Hand Room 1/Gold Coins: First Hand Room - Chest 1 - TM",
+                        "name": "Gold Coins: First Hand Room - Chest 1 - TM"
                     },
                     {
-                        "name": "Gold Coins: Display Room Balcony Right - TM"
+                        "ref": "The Museum Part 1/First Hand Room 2/Gold Coins: First Hand Room - Chest 2 - TM",
+                        "name": "Gold Coins: First Hand Room - Chest 2 - TM"
                     },
                     {
-                        "name": "Gold Coins: Display Room Balcony Left - TM"
+                        "ref": "The Museum Part 1/First Hand Room 3/Gold Coins: First Hand Room - Chest 3 - TM",
+                        "name": "Gold Coins: First Hand Room - Chest 3 - TM"
                     },
                     {
-                        "name": "Gold Coins: Zarok Room Rafters Back - TM"
+                        "ref": "The Museum Part 1/Second Hand Room 1/Gold Coins: Second Hand Room - Chest Right of Vial - TM",
+                        "name": "Gold Coins: Second Hand Room - Chest Right of Vial - TM"
                     },
                     {
-                        "name": "Gold Coins: Zarok Room Rafters Left - TM"
+                        "ref": "The Museum Part 1/Second Hand Room 2/Gold Coins: Second Hand Room - Chest Left of Vial - TM",
+                        "name": "Gold Coins: Second Hand Room - Chest Left of Vial - TM"
                     },
                     {
-                        "name": "Gold Coins: Zarok Room Rafters Right - TM"
+                        "ref": "The Museum Part 1/Second Hand Room 3/Gold Coins: Second Hand Room - Chest Between Boxes - TM",
+                        "name": "Gold Coins: Second Hand Room - Chest Between Boxes - TM"
+                    },
+                    {
+                        "ref": "The Museum Part 1/Second Hand Room 4/Gold Coins: Second Hand Room - Chest Hidden on Pipes - TM",
+                        "name": "Gold Coins: Second Hand Room - Chest Hidden on Pipes - TM"
+                    },
+                    {
+                        "ref": "The Museum Part 1/Second Hand Room 5/Gold Coins: Second Hand Room - Chest on Boxes - TM",
+                        "name": "Gold Coins: Second Hand Room - Chest on Boxes - TM"
+                    },
+                    {
+                        "ref": "The Museum Part 1/Start Book/Book: Sir Dan - TM",
+                        "name": "Book: Sir Dan - TM"
+                    },
+                    {
+                        "ref": "The Museum Part 1/Start Winston/Winston: Dans Room - TM",
+                        "name": "Winston: Dans Room - TM"
+                    },
+                    {
+                        "ref": "The Museum Part 1/Pistol Room 4/Winston: Pistol Room - TM",
+                        "name": "Winston: Pistol Room - TM"
+                    },
+                    {
+                        "ref": "The Museum Part 1/Mausoleum Second Floor 1/Winston: Chest on Mausoleum Room 2nd Floor - TM",
+                        "name": "Winston: Chest on Mausoleum Room 2nd Floor - TM"
+                    },
+                    {
+                        "ref": "The Museum Part 1/Mausoleum Second Floor 4/Winston: Gold Coins on Mausoleum Room 2nd Floor - TM",
+                        "name": "Winston: Gold Coins on Mausoleum Room 2nd Floor - TM"
                     }
                 ]
             },
@@ -145,82 +171,85 @@
                 ],
                 "sections": [
                     {
+                        "ref": "The Museum Part 2/Courtyard/Key Item: Cannonball - TM",
+                        "name": "Key Item: Cannonball - TM"
+                    },
+                    {
+                        "ref": "The Museum Part 2/Display Room/Key Item: Torch - TM",
+                        "name": "Key Item: Torch - TM"
+                    },
+                    {
+                        "ref": "The Museum Part 2/Rafters/Key Item: Dinosaur Key - TM",
+                        "name": "Key Item: Dinosaur Key - TM"
+                    },
+                    {
+                        "ref": "The Museum Part 2/Zarok Room 3/Equipment: Copper Shield Zarok Room - TM",
+                        "name": "Equipment: Copper Shield Zarok Room - TM"
+                    },
+                    {
+                        "ref": "The Museum Part 2/Buddha 2/Gold Coins: Buddah Statue Staircase - TM",
+                        "name": "Gold Coins: Buddah Statue Staircase - TM"
+                    },
+                    {
+                        "ref": "The Museum Part 2/Balcony 1/Gold Coins: Display Room Balcony Right - TM",
+                        "name": "Gold Coins: Display Room Balcony Right - TM"
+                    },
+                    {
+                        "ref": "The Museum Part 2/Balcony 2/Gold Coins: Display Room Balcony Left - TM",
+                        "name": "Gold Coins: Display Room Balcony Left - TM"
+                    },
+                    {
+                        "ref": "The Museum Part 2/Rafters 1/Gold Coins: Zarok Room Rafters Back - TM",
+                        "name": "Gold Coins: Zarok Room Rafters Back - TM"
+                    },
+                    {
+                        "ref": "The Museum Part 2/Rafters 2/Gold Coins: Zarok Room Rafters Left - TM",
+                        "name": "Gold Coins: Zarok Room Rafters Left - TM"
+                    },
+                    {
+                        "ref": "The Museum Part 2/Rafters 3/Gold Coins: Zarok Room Rafters Right - TM",
+                        "name": "Gold Coins: Zarok Room Rafters Right - TM"
+                    },
+                    {
+                        "ref": "The Museum Part 2/Tomb 1/Gold Coins: Tomb Room Left - TM",
                         "name": "Gold Coins: Tomb Room Left - TM"
                     },
                     {
+                        "ref": "The Museum Part 2/Tomb 2/Gold Coins: Tomb Room Right - TM",
                         "name": "Gold Coins: Tomb Room Right - TM"
                     },
                     {
-                        "name": "Gold Coins: First Hand Room - Chest 1 - TM"
-                    },
-                    {
-                        "name": "Gold Coins: First Hand Room - Chest 2 - TM"
-                    },
-                    {
-                        "name": "Gold Coins: First Hand Room - Chest 3 - TM"
-                    },
-                    {
-                        "name": "Gold Coins: Second Hand Room - Chest Right of Vial - TM"
-                    },
-                    {
-                        "name": "Gold Coins: Second Hand Room - Chest Left of Vial - TM"
-                    },
-                    {
-                        "name": "Gold Coins: Second Hand Room - Chest Between Boxes - TM"
-                    },
-                    {
-                        "name": "Gold Coins: Second Hand Room - Chest Hidden on Pipes - TM"
-                    },
-                    {
-                        "name": "Gold Coins: Second Hand Room - Chest on Boxes - TM"
-                    },
-                    {
-                        "name": "Book: Sir Dan - TM"
-                    },
-                    {
+                        "ref": "The Museum Part 2/Zarok Room 1/Book: The Kraken - TM",
                         "name": "Book: The Kraken - TM"
                     },
                     {
+                        "ref": "The Museum Part 2/Zarok Room 2/Book: Zarok - TM",
                         "name": "Book: Zarok - TM"
                     },
                     {
-                        "name": "Winston: Dans Room - TM"
-                    },
-                    {
-                        "name": "Winston: Pistol Room - TM"
-                    },
-                    {
-                        "name": "Winston: Chest on Mausoleum Room 2nd Floor - TM"
-                    },
-                    {
-                        "name": "Winston: Gold Coins on Mausoleum Room 2nd Floor - TM"
-                    },
-                    {
+                        "ref": "The Museum Part 2/Buddha 1/Winston: Climbing Wall - TM",
                         "name": "Winston: Climbing Wall - TM"
                     },
                     {
+                        "ref": "The Museum Part 2/Cannon Room/Winston: Staircase After Buddah - TM",
                         "name": "Winston: Staircase After Buddah - TM"
                     },
                     {
+                        "ref": "The Museum Part 2/Courtyard/Winston: Chalice - TM",
                         "name": "Winston: Chalice - TM"
                     },
                     {
+                        "ref": "The Museum Part 2/Courtyard/Chalice: The Museum",
                         "name": "Chalice: The Museum"
                     },
                     {
+                        "ref": "The Museum Part 2/Clear/Cleared: The Museum",
                         "name": "Cleared: The Museum"
                     }
                 ]
-            }
-        ]
-    },
-    {
-        "name": "Tyrannosaurus Wrecks",
-        "chest_unopened_img": "images/labels/full.png",
-        "chest_opened_img": "images/labels/empty.png",
-        "children": [
+            },
             {
-                "name": "Tyranno",
+                "name": "Tyrannosaurus Wrecks",
                 "map_locations": [
                     {
                         "map": "Overworld",
@@ -230,35 +259,35 @@
                 ],
                 "sections": [
                     {
+                        "ref": "Tyrannosaurus Wrecks/Arena/Life Bottle: Tyrannosaurus Wrecks",
                         "name": "Life Bottle: Tyrannosaurus Wrecks"
                     },
                     {
+                        "ref": "Tyrannosaurus Wrecks/Stairs 1/Equipment: Copper Chest in Stairway - TW",
                         "name": "Equipment: Copper Chest in Stairway - TW"
                     },
                     {
+                        "ref": "Tyrannosaurus Wrecks/Entrance 1/Gold Coins: Bag Behind Lion Statue - TW",
                         "name": "Gold Coins: Bag Behind Lion Statue - TW"
                     },
                     {
+                        "ref": "Tyrannosaurus Wrecks/Stairs 2/Gold Coins: Near Spiv on Stairway - TW",
                         "name": "Gold Coins: Near Spiv on Stairway - TW"
                     },
                     {
+                        "ref": "Tyrannosaurus Wrecks/Stairs 3/Book: Dinosaur Display - TW",
                         "name": "Book: Dinosaur Display - TW"
                     },
                     {
+                        "ref": "Tyrannosaurus Wrecks/Entrance 2/Winston: Entrance - TW",
                         "name": "Winston: Entrance - TW"
                     },
                     {
+                        "ref": "Tyrannosaurus Wrecks/Clear/Cleared: Tyrannosaurus Wrecks",
                         "name": "Cleared: Tyrannosaurus Wrecks"
                     }
                 ]
-            }
-        ]
-    },
-    {
-        "name": "Kensington",
-        "chest_unopened_img": "images/labels/full.png",
-        "chest_opened_img": "images/labels/empty.png",
-        "children": [
+            },
             {
                 "name": "Kensington",
                 "map_locations": [
@@ -270,90 +299,47 @@
                 ],
                 "sections": [
                     {
+                        "ref": "Kensington/Quayside Mill 1/Key Item: The Depot Key",
                         "name": "Key Item: The Depot Key"
                     },
                     {
+                        "ref": "Kensington/Depot/Key Item: Town House Key",
                         "name": "Key Item: Town House Key"
                     },
                     {
+                        "ref": "Kensington/Town House/Key Item: Pocketwatch",
                         "name": "Key Item: Pocketwatch"
                     },
                     {
+                        "ref": "Kensington/Tracks/Equipment: Copper Shield on Railway - KT",
                         "name": "Equipment: Copper Shield on Railway - KT"
                     },
                     {
+                        "ref": "Kensington/Quayside Mill 2/Gold Coins: Bag Near Water in Quayside Mill - KT",
                         "name": "Gold Coins: Bag Near Water in Quayside Mill - KT"
                     },
                     {
+                        "ref": "Kensington/Quayside Mill 3/Winston: Pushing and Pulling - KT",
                         "name": "Winston: Pushing and Pulling - KT"
                     },
                     {
+                        "ref": "Kensington/Town House/Winston: Where the Spell was Cast - KT",
                         "name": "Winston: Where the Spell was Cast - KT"
                     },
                     {
+                        "ref": "Kensington/Rooftop/Winston: Museum Roof - KT",
                         "name": "Winston: Museum Roof - KT"
                     },
                     {
+                        "ref": "Kensington/Station/Chalice: Kensington - KT",
                         "name": "Chalice: Kensington - KT"
                     },
                     {
+                        "ref": "Kensington/Clear/Cleared: Kensington",
                         "name": "Cleared: Kensington"
                     }
                 ]
-            }
-        ]
-    },
-    {
-        "name": "The Tomb",
-        "chest_unopened_img": "images/labels/full.png",
-        "chest_opened_img": "images/labels/empty.png",
-        "children": [
-            {
-                "name": "The Tomb",
-                "map_locations": [
-                    {
-                        "map": "Overworld",
-                        "x": 1280,
-                        "y": 200
-                    }
-                ],
-                "sections": [
-                    {
-                        "name": "Key Item: Scroll of Sekhmet"
-                    },
-                    {
-                        "name": "Key Item: Tablet of Horus"
-                    },
-                    {
-                        "name": "Key Item: Staff of Anubis"
-                    },
-                    {
-                        "name": "Gold Coins: Tomb Entrance Top Right - TT"
-                    },
-                    {
-                        "name": "Gold Coins: Tomb Entrance Top Left - TT"
-                    },
-                    {
-                        "name": "Gold Coins: Hand Area Chest Ground Floor - TT"
-                    },
-                    {
-                        "name": "Gold Coins: Hand Area Chest Upper Floor - TT"
-                    },
-                    {
-                        "name": "Winston: Entrance - TT"
-                    },
-                    {
-                        "name": "Cleared: The Tomb"
-                    }
-                ]
-            }
-        ]
-    },
-    {
-        "name": "The Freakshow",
-        "chest_unopened_img": "images/labels/full.png",
-        "chest_opened_img": "images/labels/empty.png",
-        "children": [
+            },
             {
                 "name": "Freakshow",
                 "map_locations": [
@@ -365,83 +351,99 @@
                 ],
                 "sections": [
                     {
+                        "ref": "The Freakshow/Elephant 1/Key Item: Elephant key 1 - TF",
                         "name": "Key Item: Elephant key 1 - TF"
                     },
                     {
+                        "ref": "The Freakshow/Elephant 2/Key Item: Elephant key 2 - TF",
                         "name": "Key Item: Elephant key 2 - TF"
                     },
                     {
+                        "ref": "The Freakshow/Niche 2/Life Bottle: The Freakshow",
                         "name": "Life Bottle: The Freakshow"
                     },
                     {
+                        "ref": "The Freakshow/Chalice Room 1/Equipment: Copper Shield in Chalice Room - TF",
                         "name": "Equipment: Copper Shield in Chalice Room - TF"
                     },
                     {
+                        "ref": "The Freakshow/Elephant Tent/Equipment: Copper Shield in Elephant Boss Arena - TF",
                         "name": "Equipment: Copper Shield in Elephant Boss Arena - TF"
                     },
                     {
+                        "ref": "The Freakshow/Start 1/Gold Coins: Bag at Start Left - TF",
                         "name": "Gold Coins: Bag at Start Left - TF"
                     },
                     {
+                        "ref": "The Freakshow/Coin Trap/Gold Coins: Ladies Bag Trap 1 - TF",
                         "name": "Gold Coins: Ladies Bag Trap 1 - TF"
                     },
                     {
+                        "ref": "The Freakshow/Coin Trap/Gold Coins: Ladies Bag Trap 2 - TF",
                         "name": "Gold Coins: Ladies Bag Trap 2 - TF"
                     },
                     {
+                        "ref": "The Freakshow/Coin Trap/Gold Coins: Ladies Bag Trap 3 - TF",
                         "name": "Gold Coins: Ladies Bag Trap 3 - TF"
                     },
                     {
+                        "ref": "The Freakshow/Coin Trap/Gold Coins: Ladies Bag Trap 4 - TF",
                         "name": "Gold Coins: Ladies Bag Trap 4 - TF"
                     },
                     {
+                        "ref": "The Freakshow/Tunnel/Gold Coins: Bag in Tunnel - TF",
                         "name": "Gold Coins: Bag in Tunnel - TF"
                     },
                     {
+                        "ref": "The Freakshow/Niche 1/Gold Coins: Bag Outside Tunnel - TF",
                         "name": "Gold Coins: Bag Outside Tunnel - TF"
                     },
                     {
+                        "ref": "The Freakshow/Pipe/Gold Coins: Chest at Water Jump - TF",
                         "name": "Gold Coins: Chest at Water Jump - TF"
                     },
                     {
+                        "ref": "The Freakshow/Clown/Gold Coins: Chest Below Giant Clown - TF",
                         "name": "Gold Coins: Chest Below Giant Clown - TF"
                     },
                     {
+                        "ref": "The Freakshow/Trampolines 1/Gold Coins: Chest Hidden at Trampolines - TF",
                         "name": "Gold Coins: Chest Hidden at Trampolines - TF"
                     },
                     {
+                        "ref": "The Freakshow/Hand/Gold Coins: Hand Area Chest - TF",
                         "name": "Gold Coins: Hand Area Chest - TF"
                     },
                     {
+                        "ref": "The Freakshow/Hand Left/Gold Coins: Hand Area Hidden Chest Left - TF",
                         "name": "Gold Coins: Hand Area Hidden Chest Left - TF"
                     },
                     {
+                        "ref": "The Freakshow/Hand Right/Gold Coins: Hand Area Hidden Chest Right - TF",
                         "name": "Gold Coins: Hand Area Hidden Chest Right - TF"
                     },
                     {
+                        "ref": "The Freakshow/Start 2/Winston: Entrance - TF",
                         "name": "Winston: Entrance - TF"
                     },
                     {
+                        "ref": "The Freakshow/Trampoline/Winston: Trampoline - TF",
                         "name": "Winston: Trampoline - TF"
                     },
                     {
+                        "ref": "The Freakshow/Trampolines 2/Winston: Elephant Army - TF",
                         "name": "Winston: Elephant Army - TF"
                     },
                     {
+                        "ref": "The Freakshow/Chalice Room 2/Chalice: The Freakshow - TF",
                         "name": "Chalice: The Freakshow - TF"
                     },
                     {
+                        "ref": "The Freakshow/Clear/Cleared: The Freakshow",
                         "name": "Cleared: The Freakshow"
                     }
                 ]
-            }
-        ]
-    },
-    {
-        "name": "Greenwich Observatory",
-        "chest_unopened_img": "images/labels/full.png",
-        "chest_opened_img": "images/labels/empty.png",
-        "children": [
+            },
             {
                 "name": "Observatory",
                 "map_locations": [
@@ -453,65 +455,75 @@
                 ],
                 "sections": [
                     {
+                        "ref": "Observatory/Left Boat/Life Bottle: Greenwich Observatory",
                         "name": "Life Bottle: Greenwich Observatory"
                     },
                     {
+                        "ref": "Observatory/Behind Observatory/Equipment: Copper Shield near Bomb Chest",
                         "name": "Equipment: Copper Shield near Bomb Chest"
                     },
                     {
+                        "ref": "Observatory/Right Observatory/Gold Coins: Fountain Bag 1 - GO",
                         "name": "Gold Coins: Fountain Bag 1 - GO"
                     },
                     {
+                        "ref": "Observatory/Right Observatory/Gold Coins: Fountain Bag 2 - GO",
                         "name": "Gold Coins: Fountain Bag 2 - GO"
                     },
                     {
+                        "ref": "Observatory/Below Spiv/Gold Coins: Bag Below Spiv - GO",
                         "name": "Gold Coins: Bag Below Spiv - GO"
                     },
                     {
+                        "ref": "Observatory/Below Chalice/Gold Coins: Bag Below Chalice 1 - GO",
                         "name": "Gold Coins: Bag Below Chalice 1 - GO"
                     },
                     {
+                        "ref": "Observatory/Below Chalice/Gold Coins: Bag Below Chalice 2 - GO",
                         "name": "Gold Coins: Bag Below Chalice 2 - GO"
                     },
                     {
+                        "ref": "Observatory/Exit 1/Gold Coins: Chest Near Exit - GO",
                         "name": "Gold Coins: Chest Near Exit - GO"
                     },
                     {
+                        "ref": "Observatory/Hand 1/Gold Coins: Hand Area Chest 1 - GO",
                         "name": "Gold Coins: Hand Area Chest 1 - GO"
                     },
                     {
+                        "ref": "Observatory/Hand 2/Gold Coins: Hand Area Chest 2 - GO",
                         "name": "Gold Coins: Hand Area Chest 2 - GO"
                     },
                     {
+                        "ref": "Observatory/Hand 3/Gold Coins: Hand Area Chest 3 - GO",
                         "name": "Gold Coins: Hand Area Chest 3 - GO"
                     },
                     {
+                        "ref": "Observatory/Observatory/Winston: Lost your head? - GO",
                         "name": "Winston: Lost your head? - GO"
                     },
                     {
+                        "ref": "Observatory/Bird Ladder/Winston: Close To Ladder - GO",
                         "name": "Winston: Close To Ladder - GO"
                     },
                     {
+                        "ref": "Observatory/Levers/Winston: Lever Puzzle - GO",
                         "name": "Winston: Lever Puzzle - GO"
                     },
                     {
+                        "ref": "Observatory/Exit 2/Winston: Once Through This Door - GO",
                         "name": "Winston: Once Through This Door - GO"
                     },
                     {
+                        "ref": "Observatory/Chalice Boat/Chalice: Greenwhich Observatory",
                         "name": "Chalice: Greenwhich Observatory"
                     },
                     {
+                        "ref": "Observatory/Clear/Cleared: Greenwich Observatory",
                         "name": "Cleared: Greenwich Observatory"
                     }
                 ]
-            }
-        ]
-    },
-    {
-        "name": "Greenwich, Naval Academy",
-        "chest_unopened_img": "images/labels/full.png",
-        "chest_opened_img": "images/labels/empty.png",
-        "children": [
+            },
             {
                 "name": "Academy",
                 "map_locations": [
@@ -523,29 +535,27 @@
                 ],
                 "sections": [
                     {
+                        "ref": "Academy/Inside/Key Item: Bellows - GONA",
                         "name": "Key Item: Bellows - GONA"
                     },
                     {
+                        "ref": "Academy/Trees Right/Energy Vial: Near Trees - GONA",
                         "name": "Energy Vial: Near Trees - GONA"
                     },
                     {
+                        "ref": "Academy/Trees Left/Gold Coins: Bag Near Trees - GONA",
                         "name": "Gold Coins: Bag Near Trees - GONA"
                     },
                     {
+                        "ref": "Academy/Entrance/Winston: Entrance - GONA",
                         "name": "Winston: Entrance - GONA"
                     },
                     {
+                        "ref": "Academy/Clear/Cleared: Naval Academy",
                         "name": "Cleared: Naval Academy"
                     }
                 ]
-            }
-        ]
-    },
-    {
-        "name": "Kew Gardens",
-        "chest_unopened_img": "images/labels/full.png",
-        "chest_opened_img": "images/labels/empty.png",
-        "children": [
+            },
             {
                 "name": "Gardens",
                 "map_locations": [
@@ -557,92 +567,111 @@
                 ],
                 "sections": [
                     {
+                        "ref": "Kew Gardens/Fountain/Key Item: Potting Shed Key",
                         "name": "Key Item: Potting Shed Key"
                     },
                     {
+                        "ref": "Kew Gardens/Shed/Key Item: Water Tank Valve - KG",
                         "name": "Key Item: Water Tank Valve - KG"
                     },
                     {
+                        "ref": "Kew Gardens/First Room 1/Key Item: Pond Room Valve - KG",
                         "name": "Key Item: Pond Room Valve - KG"
                     },
                     {
+                        "ref": "Kew Gardens/Chalice Room/Key Item: Hot House Valve - KG",
                         "name": "Key Item: Hot House Valve - KG"
                     },
                     {
+                        "ref": "Kew Gardens/Outside/Life Bottle: Kew Gardens",
                         "name": "Life Bottle: Kew Gardens"
                     },
                     {
+                        "ref": "Kew Gardens/Arena/Equipment: Silver Shield in Gauntlet Room - KG",
                         "name": "Equipment: Silver Shield in Gauntlet Room - KG"
                     },
                     {
+                        "ref": "Kew Gardens/Fence Vials/Energy Vial: Behind Fence Vial 1 - KG",
                         "name": "Energy Vial: Behind Fence Vial 1 - KG"
                     },
                     {
+                        "ref": "Kew Gardens/Fence Vials/Energy Vial: Behind Fence Vial 2 - KG",
                         "name": "Energy Vial: Behind Fence Vial 2 - KG"
                     },
                     {
+                        "ref": "Kew Gardens/Fence/Gold Coins: Behind Fence Chest 1 - KG",
                         "name": "Gold Coins: Behind Fence Chest 1 - KG"
                     },
                     {
+                        "ref": "Kew Gardens/Fence/Gold Coins: Behind Fence Chest 2 - KG",
                         "name": "Gold Coins: Behind Fence Chest 2 - KG"
                     },
                     {
+                        "ref": "Kew Gardens/Near Shed/Gold Coins: Bag Near Shed - KG",
                         "name": "Gold Coins: Bag Near Shed - KG"
                     },
                     {
+                        "ref": "Kew Gardens/First Room 2/Gold Coins: Chest at Top of Tree in First Human Room - KG",
                         "name": "Gold Coins: Chest at Top of Tree in First Human Room - KG"
                     },
                     {
+                        "ref": "Kew Gardens/Bridge/Gold Coins: Bridge Room Vine Chest 1 - KG",
                         "name": "Gold Coins: Bridge Room Vine Chest 1 - KG"
                     },
                     {
+                        "ref": "Kew Gardens/Bridge/Gold Coins: Bridge Room Vine Chest 2 - KG",
                         "name": "Gold Coins: Bridge Room Vine Chest 2 - KG"
                     },
                     {
+                        "ref": "Kew Gardens/Chalice Tree/Gold Coins: Bag Up Tree in Second Human Room - KG",
                         "name": "Gold Coins: Bag Up Tree in Second Human Room - KG"
                     },
                     {
+                        "ref": "Kew Gardens/Roof/Gold Coins: Bag on Roof 1 - KG",
                         "name": "Gold Coins: Bag on Roof 1 - KG"
                     },
                     {
+                        "ref": "Kew Gardens/Roof/Gold Coins: Bag on Roof 2 - KG",
                         "name": "Gold Coins: Bag on Roof 2 - KG"
                     },
                     {
+                        "ref": "Kew Gardens/Hot House/Gold Coins: Bag in Third Human Room - KG",
                         "name": "Gold Coins: Bag in Third Human Room - KG"
                     },
                     {
+                        "ref": "Kew Gardens/Maze/Gold Coins: Hand Maze Chest - KG",
                         "name": "Gold Coins: Hand Maze Chest - KG"
                     },
                     {
+                        "ref": "Kew Gardens/Maze/Gold Coins: Hand Maze Chest Reward 1 - KG",
                         "name": "Gold Coins: Hand Maze Chest Reward 1 - KG"
                     },
                     {
+                        "ref": "Kew Gardens/Maze/Gold Coins: Hand Maze Chest Reward 2- KG",
                         "name": "Gold Coins: Hand Maze Chest Reward 2- KG"
                     },
                     {
+                        "ref": "Kew Gardens/Maze/Gold Coins: Hand Maze Chest Reward 3 - KG",
                         "name": "Gold Coins: Hand Maze Chest Reward 3 - KG"
                     },
                     {
+                        "ref": "Kew Gardens/Entrance/Winston: Level Start - KG",
                         "name": "Winston: Level Start - KG"
                     },
                     {
+                        "ref": "Kew Gardens/First Room 3/Winston: Infection - KG",
                         "name": "Winston: Infection - KG"
                     },
                     {
+                        "ref": "Kew Gardens/Chalice Treetop/Chalice: Kew Gardens",
                         "name": "Chalice: Kew Gardens"
                     },
                     {
+                        "ref": "Kew Gardens/Clear/Cleared: Kew Gardens",
                         "name": "Cleared: Kew Gardens"
                     }
                 ]
-            }
-        ]
-    },
-    {
-        "name": "Dankenstein",
-        "chest_unopened_img": "images/labels/full.png",
-        "chest_opened_img": "images/labels/empty.png",
-        "children": [
+            },
             {
                 "name": "Dankenstein",
                 "map_locations": [
@@ -654,59 +683,67 @@
                 ],
                 "sections": [
                     {
+                        "ref": "Dankenstein/Bum/Key Item: Bum - DK",
                         "name": "Key Item: Bum - DK"
                     },
                     {
+                        "ref": "Dankenstein/Left Arm/Key Item: Left Arm - DK",
                         "name": "Key Item: Left Arm - DK"
                     },
                     {
+                        "ref": "Dankenstein/Left Leg/Key Item: Left Leg - DK",
                         "name": "Key Item: Left Leg - DK"
                     },
                     {
+                        "ref": "Dankenstein/Right Arm/Key Item: Right Arm - DK",
                         "name": "Key Item: Right Arm - DK"
                     },
                     {
+                        "ref": "Dankenstein/Right Leg/Key Item: Right Leg - DK",
                         "name": "Key Item: Right Leg - DK"
                     },
                     {
+                        "ref": "Dankenstein/Torso/Key Item: Torso - DK",
                         "name": "Key Item: Torso - DK"
                     },
                     {
+                        "ref": "Dankenstein/Back 1/Life Bottle: Dankenstein - DK",
                         "name": "Life Bottle: Dankenstein - DK"
                     },
                     {
+                        "ref": "Dankenstein/Back 2/Equipment: Silver shield - DK",
                         "name": "Equipment: Silver shield - DK"
                     },
                     {
+                        "ref": "Dankenstein/Projector/Gold Coins: Chest Above Projector - DK",
                         "name": "Gold Coins: Chest Above Projector - DK"
                     },
                     {
+                        "ref": "Dankenstein/Hand 1/Gold Coins: Hand Area Chest 1 - DK",
                         "name": "Gold Coins: Hand Area Chest 1 - DK"
                     },
                     {
+                        "ref": "Dankenstein/Hand 2/Gold Coins: Hand Area Chest 2 - DK",
                         "name": "Gold Coins: Hand Area Chest 2 - DK"
                     },
                     {
+                        "ref": "Dankenstein/Lab/Book: Reanimation - DK",
                         "name": "Book: Reanimation - DK"
                     },
                     {
+                        "ref": "Dankenstein/Entrance/Winston: Save Point - DK",
                         "name": "Winston: Save Point - DK"
                     },
                     {
+                        "ref": "Dankenstein/Hut/Chalice: Dankenstein - DK",
                         "name": "Chalice: Dankenstein - DK"
                     },
                     {
+                        "ref": "Dankenstein/Clear/Cleared: Dankenstein",
                         "name": "Cleared: Dankenstein"
                     }
                 ]
-            }
-        ]
-    },
-    {
-        "name": "Iron Slugger",
-        "chest_unopened_img": "images/labels/full.png",
-        "chest_opened_img": "images/labels/empty.png",
-        "children": [
+            },
             {
                 "name": "Iron Slugger",
                 "map_locations": [
@@ -724,14 +761,7 @@
                         "name": "Cleared: Iron Slugger"
                     }
                 ]
-            }
-        ]
-    },
-    {
-        "name": "Wulfrum Hall",
-        "chest_unopened_img": "images/labels/full.png",
-        "chest_opened_img": "images/labels/empty.png",
-        "children": [
+            },
             {
                 "name": "Wulfrum",
                 "map_locations": [
@@ -743,56 +773,63 @@
                 ],
                 "sections": [
                     {
+                        "ref": "Wulfrum Hall/Kitchen/Key Item: Front Door Key - WH",
                         "name": "Key Item: Front Door Key - WH"
                     },
                     {
+                        "ref": "Wulfrum Hall/Alcove/Life Bottle: Wulfrum Hall",
                         "name": "Life Bottle: Wulfrum Hall"
                     },
                     {
+                        "ref": "Wulfrum Hall/Hall Chest/Equipment: Silver Shield Close To Vampire Room 2 - WH",
                         "name": "Equipment: Silver Shield Close To Vampire Room 2 - WH"
                     },
                     {
+                        "ref": "Wulfrum Hall/Kitchen Stairs/Energy Vial: Near Kitchen Stairs - WH",
                         "name": "Energy Vial: Near Kitchen Stairs - WH"
                     },
                     {
+                        "ref": "Wulfrum Hall/Entrance Left/Energy Vial: Left Room Of Entrance - WH",
                         "name": "Energy Vial: Left Room Of Entrance - WH"
                     },
                     {
+                        "ref": "Wulfrum Hall/Hall/Energy Vial: In Front Of Hall's Staircase - WH",
                         "name": "Energy Vial: In Front Of Hall's Staircase - WH"
                     },
                     {
+                        "ref": "Wulfrum Hall/Outside/Gold Coins: Bag Left Side Of Entrance Stairs - WH",
                         "name": "Gold Coins: Bag Left Side Of Entrance Stairs - WH"
                     },
                     {
+                        "ref": "Wulfrum Hall/Hall Coins/Gold Coins: Chest Close To Vampire Room 1 - WH",
                         "name": "Gold Coins: Chest Close To Vampire Room 1 - WH"
                     },
                     {
+                        "ref": "Wulfrum Hall/Room 3/Gold Coins: Chest in Vampire Room 3 - WH",
                         "name": "Gold Coins: Chest in Vampire Room 3 - WH"
                     },
                     {
+                        "ref": "Wulfrum Hall/Room 5/Gold Coins: Bag in Vampire Room 5 - WH",
                         "name": "Gold Coins: Bag in Vampire Room 5 - WH"
                     },
                     {
+                        "ref": "Wulfrum Hall/Start/Winston: Level Start - WH",
                         "name": "Winston: Level Start - WH"
                     },
                     {
+                        "ref": "Wulfrum Hall/Hall Winston/Winston: Vampires - WH",
                         "name": "Winston: Vampires - WH"
                     },
                     {
+                        "ref": "Wulfrum Hall/Entry/Chalice: Wulfrum Hall",
                         "name": "Chalice: Wulfrum Hall"
                     },
                     {
+                        "ref": "Wulfrum Hall/Clear/Cleared: Wulfrum Hall",
                         "name": "Cleared: Wulfrum Hall"
                     }
                 ]
-            }
-        ]
-    },
-    {
-        "name": "The Count",
-        "chest_unopened_img": "images/labels/full.png",
-        "chest_opened_img": "images/labels/empty.png",
-        "children": [
+            },
             {
                 "name": "The Count",
                 "map_locations": [
@@ -804,23 +841,19 @@
                 ],
                 "sections": [
                     {
+                        "ref": "The Count/Winston/Winston: Level Start - TC",
                         "name": "Winston: Level Start - TC"
                     },
                     {
+                        "ref": "The Count/Coins/Gold Coins: Gold Chest - TC",
                         "name": "Gold Coins: Gold Chest - TC"
                     },
                     {
+                        "ref": "The Count/Clear/Cleared: The Count",
                         "name": "Cleared: The Count"
                     }
                 ]
-            }
-        ]
-    },
-    {
-        "name": "Whitechapel",
-        "chest_unopened_img": "images/labels/full.png",
-        "chest_opened_img": "images/labels/empty.png",
-        "children": [
+            },
             {
                 "name": "Whitechapel",
                 "map_locations": [
@@ -889,14 +922,7 @@
                         "name": "Cleared: Whitechapel"
                     }
                 ]
-            }
-        ]
-    },
-    {
-        "name": "The Sewers",
-        "chest_unopened_img": "images/labels/full.png",
-        "chest_opened_img": "images/labels/empty.png",
-        "children": [
+            },
             {
                 "name": "The Sewers",
                 "map_locations": [
@@ -968,14 +994,7 @@
                         "name": "Cleared: The Sewers"
                     }
                 ]
-            }
-        ]
-    },
-    {
-        "name": "The Time Machine",
-        "chest_unopened_img": "images/labels/full.png",
-        "chest_opened_img": "images/labels/empty.png",
-        "children": [
+            },
             {
                 "name": "The Time Machine",
                 "map_locations": [
@@ -1014,14 +1033,7 @@
                         "name": "Cleared: The Time Machine"
                     }
                 ]
-            }
-        ]
-    },
-    {
-        "name": "The Time Machine, The Sewers",
-        "chest_unopened_img": "images/labels/full.png",
-        "chest_opened_img": "images/labels/empty.png",
-        "children": [
+            },
             {
                 "name": "Sewers TM",
                 "map_locations": [
@@ -1054,14 +1066,7 @@
                         "name": "Cleared: The Time Machine, The Sewers"
                     }
                 ]
-            }
-        ]
-    },
-    {
-        "name": "The Ripper",
-        "chest_unopened_img": "images/labels/full.png",
-        "chest_opened_img": "images/labels/empty.png",
-        "children": [
+            },
             {
                 "name": "The Ripper",
                 "map_locations": [
@@ -1079,14 +1084,7 @@
                         "name": "Cleared: The Ripper"
                     }
                 ]
-            }
-        ]
-    },
-    {
-        "name": "Cathedral Spires",
-        "chest_unopened_img": "images/labels/full.png",
-        "chest_opened_img": "images/labels/empty.png",
-        "children": [
+            },
             {
                 "name": "Cathedral Spires",
                 "map_locations": [
@@ -1146,14 +1144,7 @@
                         "name": "Cleared: Cathedral Spires"
                     }
                 ]
-            }
-        ]
-    },
-    {
-        "name": "Cathedral Spires, The Descent",
-        "chest_unopened_img": "images/labels/full.png",
-        "chest_opened_img": "images/labels/empty.png",
-        "children": [
+            },
             {
                 "name": "The Descent",
                 "map_locations": [
@@ -1210,14 +1201,7 @@
                         "name": "Cleared: Cathedral Spires, The Descent"
                     }
                 ]
-            }
-        ]
-    },
-    {
-        "name": "The Demon",
-        "chest_unopened_img": "images/labels/full.png",
-        "chest_opened_img": "images/labels/empty.png",
-        "children": [
+            },
             {
                 "name": "The Demon",
                 "map_locations": [

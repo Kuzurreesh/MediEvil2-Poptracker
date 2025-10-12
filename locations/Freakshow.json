@@ -1,0 +1,364 @@
+[
+    {
+        "name": "The Freakshow",
+        "chest_unopened_img": "images/labels/full.png",
+        "chest_opened_img": "images/labels/empty.png",
+        "children": [
+            {
+                "name": "Elephant 1",
+                "map_locations": [
+                    {
+                        "map": "Freakshow",
+                        "x": 120,
+                        "y": 865
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Key Item: Elephant key 1 - TF"
+                    }
+                ]
+            },
+            {
+                "name": "Elephant 2",
+                "map_locations": [
+                    {
+                        "map": "Freakshow",
+                        "x": 120,
+                        "y": 705
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Key Item: Elephant key 2 - TF"
+                    }
+                ]
+            },
+            {
+                "name": "Niche 2",
+                "map_locations": [
+                    {
+                        "map": "Freakshow",
+                        "x": 1770,
+                        "y": 1135
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Life Bottle: The Freakshow"
+                    }
+                ]
+            },
+            {
+                "name": "Chalice Room 1",
+                "map_locations": [
+                    {
+                        "map": "Freakshow",
+                        "x": 600,
+                        "y": 140
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Equipment: Copper Shield in Chalice Room - TF"
+                    }
+                ]
+            },
+            {
+                "name": "Elephant Tent",
+                
+                "map_locations": [
+                    {
+                        "map": "Freakshow",
+                        "x": 1465,
+                        "y": 1380
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Equipment: Copper Shield in Elephant Boss Arena - TF"
+                    }
+                ]
+            },
+            {
+                "name": "Start 1",
+                "map_locations": [
+                    {
+                        "map": "Freakshow",
+                        "x": 1870,
+                        "y": 1680
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Gold Coins: Bag at Start Left - TF"
+                    }
+                ]
+            },
+            {
+                "name": "Coin Trap",
+                "map_locations": [
+                    {
+                        "map": "Freakshow",
+                        "x": 2440,
+                        "y": 1175
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Gold Coins: Ladies Bag Trap 1 - TF"
+                    },
+                    {
+                        "name": "Gold Coins: Ladies Bag Trap 2 - TF"
+                    },
+                    {
+                        "name": "Gold Coins: Ladies Bag Trap 3 - TF"
+                    },
+                    {
+                        "name": "Gold Coins: Ladies Bag Trap 4 - TF"
+                    }
+                ]
+            },
+            {
+                "name": "Tunnel",
+                "map_locations": [
+                    {
+                        "map": "Freakshow",
+                        "x": 2040,
+                        "y": 740
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Gold Coins: Bag in Tunnel - TF"
+                    }
+                ]
+            },
+            {
+                "name": "Niche 1",
+                "map_locations": [
+                    {
+                        "map": "Freakshow",
+                        "x": 1865,
+                        "y": 995
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Gold Coins: Bag Outside Tunnel - TF"
+                    }
+                ]
+            },
+            {
+                "name": "Pipe",
+                "map_locations": [
+                    {
+                        "map": "Freakshow",
+                        "x": 2060,
+                        "y": 1210
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Gold Coins: Chest at Water Jump - TF"
+                    }
+                ]
+            },
+            {
+                "name": "Clown",
+                "map_locations": [
+                    {
+                        "map": "Freakshow",
+                        "x": 1175,
+                        "y": 1150
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Gold Coins: Chest Below Giant Clown - TF"
+                    }
+                ]
+            },
+            {
+                "name": "Trampolines 1",
+                "map_locations": [
+                    {
+                        "map": "Freakshow",
+                        "x": 60,
+                        "y": 1730
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Gold Coins: Chest Hidden at Trampolines - TF"
+                    }
+                ]
+            },
+            {
+                "name": "Hand",
+                "access_rules":["hand"],
+                "map_locations": [
+                    {
+                        "map": "Freakshow",
+                        "x": 2330,
+                        "y": 105
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Gold Coins: Hand Area Chest - TF"
+                    }
+                ]
+            },
+            {
+                "name": "Hand Left",
+                "access_rules":["hand"],
+                "map_locations": [
+                    {
+                        "map": "Freakshow",
+                        "x": 2900,
+                        "y": 190
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Gold Coins: Hand Area Hidden Chest Left - TF"
+                    }
+                ]
+            },
+            {
+                "name": "Hand Right",
+                "access_rules":["hand"],
+                "map_locations": [
+                    {
+                        "map": "Freakshow",
+                        "x": 2145,
+                        "y": 245
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Gold Coins: Hand Area Hidden Chest Right - TF"
+                    }
+                ]
+            },
+            {
+                "name": "Start 2",
+                "map_locations": [
+                    {
+                        "map": "Freakshow",
+                        "x": 2185,
+                        "y": 1855
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Winston: Entrance - TF"
+                    }
+                ]
+            },
+            {
+                "name": "Trampoline",
+                "map_locations": [
+                    {
+                        "map": "Freakshow",
+                        "x": 1080,
+                        "y": 455
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Winston: Trampoline - TF"
+                    }
+                ]
+            },
+            {
+                "name": "Trampolines 2",
+                "map_locations": [
+                    {
+                        "map": "Freakshow",
+                        "x": 620,
+                        "y": 1570
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Winston: Elephant Army - TF"
+                    }
+                ]
+            },
+            {
+                "name": "Chalice Room 2",
+                "map_locations": [
+                    {
+                        "map": "Freakshow",
+                        "x": 90,
+                        "y": 320
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Chalice: The Freakshow - TF"
+                    }
+                ]
+            },
+            {
+                "name": "Clear",
+                "map_locations": [
+                    {
+                        "map": "Freakshow",
+                        "x": 2940,
+                        "y": 715,
+                        "size": 60,
+                        "shape": "diamond"
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Cleared: The Freakshow"
+                    }
+                ]
+            },
+            {
+                "name": "Elephant Key 1",
+                "access_rules": [
+                    "{}"
+                ],
+                "map_locations": [
+                    {
+                        "map": "Freakshow",
+                        "x": 1130,
+                        "y": 1765,
+                        "shape": "trapezoid"
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Elephant Key 1",
+                        "hosted_item": "Elephant Key 1"
+                    }
+                ]
+            },
+            {
+                "name": "Elephant Key 2",
+                "access_rules": [
+                    "{}"
+                ],
+                "map_locations": [
+                    {
+                        "map": "Freakshow",
+                        "x": 1430,
+                        "y": 1875,
+                        "shape": "trapezoid"
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Elephant Key 2",
+                        "hosted_item": "Elephant Key 2"
+                    }
+                ]
+            }
+        ]
+    }
+]

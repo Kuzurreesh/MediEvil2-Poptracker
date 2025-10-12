@@ -1,0 +1,238 @@
+[
+    {
+        "name": "Dankenstein",
+        "chest_unopened_img": "images/labels/full.png",
+        "chest_opened_img": "images/labels/empty.png",
+        "children": [
+            {
+                "name": "Bum",
+                "map_locations": [
+                    {
+                        "map": "Dankenstein",
+                        "x": 2430,
+                        "y": 930
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Key Item: Bum - DK"
+                    }
+                ]
+            },
+            {
+                "name": "Left Arm",
+                "map_locations": [
+                    {
+                        "map": "Dankenstein",
+                        "x": 2800,
+                        "y": 560
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Key Item: Left Arm - DK"
+                    }
+                ]
+            },
+            {
+                "name": "Left Leg",
+                "map_locations": [
+                    {
+                        "map": "Dankenstein",
+                        "x": 2300,
+                        "y": 270
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Key Item: Left Leg - DK"
+                    }
+                ]
+            },
+            {
+                "name": "Right Arm",
+                "map_locations": [
+                    {
+                        "map": "Dankenstein",
+                        "x": 95,
+                        "y": 1155
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Key Item: Right Arm - DK"
+                    }
+                ]
+            },
+            {
+                "name": "Right Leg",
+                "map_locations": [
+                    {
+                        "map": "Dankenstein",
+                        "x": 115,
+                        "y": 490
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Key Item: Right Leg - DK"
+                    }
+                ]
+            },
+            {
+                "name": "Torso",
+                "map_locations": [
+                    {
+                        "map": "Dankenstein",
+                        "x": 830,
+                        "y": 470
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Key Item: Torso - DK"
+                    }
+                ]
+            },
+            {
+                "name": "Back 1",
+                "map_locations": [
+                    {
+                        "map": "Dankenstein",
+                        "x": 1030,
+                        "y": 1085
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Life Bottle: Dankenstein - DK"
+                    }
+                ]
+            },
+            {
+                "name": "Back 2",
+                "map_locations": [
+                    {
+                        "map": "Dankenstein",
+                        "x": 440,
+                        "y": 865
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Equipment: Silver shield - DK"
+                    }
+                ]
+            },
+            {
+                "name": "Projector",
+                "map_locations": [
+                    {
+                        "map": "Dankenstein",
+                        "x": 2310,
+                        "y": 1290
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Gold Coins: Chest Above Projector - DK"
+                    }
+                ]
+            },
+            {
+                "name": "Hand 1",
+                "access_rules":["hand"],
+                "map_locations": [
+                    {
+                        "map": "Dankenstein",
+                        "x": 680,
+                        "y": 1660
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Gold Coins: Hand Area Chest 1 - DK"
+                    }
+                ]
+            },
+            {
+                "name": "Hand 2",
+                "access_rules":["hand"],
+                "map_locations": [
+                    {
+                        "map": "Dankenstein",
+                        "x": 950,
+                        "y": 1720
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Gold Coins: Hand Area Chest 2 - DK"
+                    }
+                ]
+            },
+            {
+                "name": "Lab",
+                "map_locations": [
+                    {
+                        "map": "Dankenstein",
+                        "x": 2865,
+                        "y": 1850
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Book: Reanimation - DK"
+                    }
+                ]
+            },
+            {
+                "name": "Entrance",
+                "map_locations": [
+                    {
+                        "map": "Dankenstein",
+                        "x": 1240,
+                        "y": 1840
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Winston: Save Point - DK"
+                    }
+                ]
+            },
+            {
+                "name": "Hut",
+                "map_locations": [
+                    {
+                        "map": "Dankenstein",
+                        "x": 2035,
+                        "y": 1200
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Chalice: Dankenstein - DK"
+                    }
+                ]
+            },
+            {
+                "name": "Clear",
+                "map_locations": [
+                    {
+                        "map": "Dankenstein",
+                        "x": 2105,
+                        "y": 1840,
+                        "size": 60,
+                        "shape": "diamond"
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Cleared: Dankenstein"
+                    }
+                ]
+            }
+        ]
+    }
+]

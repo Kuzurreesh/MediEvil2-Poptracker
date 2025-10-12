@@ -1,0 +1,185 @@
+[
+    {
+        "name": "Kensington",
+        "chest_unopened_img": "images/labels/full.png",
+        "chest_opened_img": "images/labels/empty.png",
+        "children": [
+            {
+                "name": "Quayside Mill 1",
+                "map_locations": [
+                    {
+                        "map": "Kensington",
+                        "x": 470,
+                        "y": 160
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Key Item: The Depot Key"
+                    }
+                ]
+            },
+            {
+                "name": "Quayside Mill 2",
+                "map_locations": [
+                    {
+                        "map": "Kensington",
+                        "x": 345,
+                        "y": 310
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Gold Coins: Bag Near Water in Quayside Mill - KT"
+                    }
+                ]
+            },
+            {
+                "name": "Quayside Mill 3",
+                "map_locations": [
+                    {
+                        "map": "Kensington",
+                        "x": 155,
+                        "y": 510
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Winston: Pushing and Pulling - KT"
+                    }
+                ]
+            },
+            {
+                "name": "Tracks",
+                "map_locations": [
+                    {
+                        "map": "Kensington",
+                        "x": 830,
+                        "y": 215
+                    }
+                ],
+                "sections": [
+                    {
+                       "name": "Equipment: Copper Shield on Railway - KT"
+                    }
+                ]
+            },
+            {
+                "name": "Station",
+                "map_locations": [
+                    {
+                        "map": "Kensington",
+                        "x": 1485,
+                        "y": 330
+                    }
+                ],
+                "sections": [
+                    {
+                       "name": "Chalice: Kensington - KT"
+                    }
+                ]
+            },
+            {
+                "name": "Depot",
+                "map_locations": [
+                    {
+                        "map": "Kensington",
+                        "x": 2065,
+                        "y": 1655
+                    }
+                ],
+                "sections": [
+                    {
+                       "name": "Key Item: Town House Key"
+                    }
+                ]
+            },
+            {
+                "name": "Town House",
+                "map_locations": [
+                    {
+                        "map": "Kensington",
+                        "x": 1420,
+                        "y": 1720
+                    }
+                ],
+                "sections": [
+                    {
+                       "name": "Key Item: Pocketwatch"
+                    },
+                    {
+                       "name": "Winston: Where the Spell was Cast - KT"
+                    }
+                ]
+            },
+            {
+                "name": "Rooftop",
+                "map_locations": [
+                    {
+                        "map": "Kensington",
+                        "x": 2865,
+                        "y": 680
+                    }
+                ],
+                "sections": [
+                    {
+                       "name": "Winston: Museum Roof - KT"
+                    }
+                ]
+            },
+            {
+                "name": "Clear",
+                "map_locations": [
+                    {
+                        "map": "Kensington",
+                        "x": 2585,
+                        "y": 240,
+                        "size": 60,
+                        "shape":"diamond"
+                    }
+                ],
+                "sections": [
+                    {
+                       "name": "Cleared: Kensington"
+                    }
+                ]
+            },
+            {
+                "name": "Depot Door",
+                "access_rules":["{}"],
+                "map_locations": [
+                    {
+                        "map": "Kensington",
+                        "x": 2490,
+                        "y": 1100,
+                        "shape": "trapezoid"
+                    }
+                ],
+                "sections": [
+                    {
+                       "name": "Depot Key",
+                       "hosted_item": "depotkey"
+                    }
+                ]
+            },
+            {
+                "name": "Town House Door",
+                "access_rules":["{}"],
+                "map_locations": [
+                    {
+                        "map": "Kensington",
+                        "x": 1540,
+                        "y": 1600,
+                        "shape": "trapezoid"
+                    }
+                ],
+                "sections": [
+                    {
+                       "name": "Town House Key",
+                       "hosted_item": "townhousekey"
+                    }
+                ]
+            }
+        ]
+    }
+]

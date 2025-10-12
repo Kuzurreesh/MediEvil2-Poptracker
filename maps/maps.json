@@ -4,5 +4,71 @@
 		"location_size": 20,
 		"location_border_thickness": 2,
 		"img": "images/maps/Background.jpeg"
+	},
+	{
+		"name": "The Tomb",
+		"location_size": 50,
+		"location_border_thickness": 3,
+		"img": "images/maps/The Tomb.jpeg"
+	},
+	{
+		"name": "The Museum P1",
+		"location_size": 50,
+		"location_border_thickness": 3,
+		"img": "images/maps/Museum1.jpeg"
+	},
+	{
+		"name": "The Museum P2",
+		"location_size": 50,
+		"location_border_thickness": 3,
+		"img": "images/maps/Museum2.jpeg"
+	},
+	{
+		"name": "Tyranno",
+		"location_size": 50,
+		"location_border_thickness": 3,
+		"img": "images/maps/Tyranno.jpeg"
+	},
+	{
+		"name": "Kensington",
+		"location_size": 50,
+		"location_border_thickness": 3,
+		"img": "images/maps/Kensington.jpeg"
+	},
+	{
+		"name": "Freakshow",
+		"location_size": 50,
+		"location_border_thickness": 3,
+		"img": "images/maps/Freakshow.jpeg"
+	},
+	{
+		"name": "Observatory",
+		"location_size": 50,
+		"location_border_thickness": 3,
+		"img": "images/maps/Observatory.jpeg"
+	},
+	{
+		"name": "Academy",
+		"location_size": 50,
+		"location_border_thickness": 3,
+		"img": "images/maps/Academy.jpeg"
+	},
+	{
+		"name": "Gardens",
+		"location_size": 50,
+		"location_border_thickness": 3,
+		"img": "images/maps/Kew Gardens.jpeg"
+	},
+	{
+		"name": "Dankenstein",
+		"location_size": 50,
+		"location_border_thickness": 3,
+		"img": "images/maps/Dankenstein.jpeg"
+	},
+	{
+		"name": "Wulfrum",
+		"location_size": 50,
+		"location_border_thickness": 3,
+		"img": "images/maps/Wulfrum Hall.jpeg"
 	}
 ]
