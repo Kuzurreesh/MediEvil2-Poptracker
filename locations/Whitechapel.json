@@ -1,0 +1,251 @@
+[
+    {
+        "name": "Whitechapel",
+        "chest_unopened_img": "images/labels/full.png",
+        "chest_opened_img": "images/labels/empty.png",
+        "children": [
+            {
+                "name": "Basement 1",
+                "map_locations": [
+                    {
+                        "map": "Whitechapel",
+                        "x": 1030,
+                        "y": 1730
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Key Item: Library Key in House Basement - WC"
+                    }
+                ]
+            },
+            {
+                "name": "House",
+                "access_rules": [
+                    "hand"
+                ],
+                "map_locations": [
+                    {
+                        "map": "Whitechapel",
+                        "x": 1485,
+                        "y": 1825
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Key Item: Griffin Shield - WC"
+                    }
+                ]
+            },
+            {
+                "name": "Library Top",
+                "map_locations": [
+                    {
+                        "map": "Whitechapel",
+                        "x": 2925,
+                        "y": 1465
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Key Item: Membership Card - WC"
+                    }
+                ]
+            },
+            {
+                "name": "Tailor",
+                "map_locations": [
+                    {
+                        "map": "Whitechapel",
+                        "x": 1695,
+                        "y": 300
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Key Item: Elegant Suit - WC"
+                    }
+                ]
+            },
+            {
+                "name": "Grave Puzzle",
+                "map_locations": [
+                    {
+                        "map": "Whitechapel",
+                        "x": 875,
+                        "y": 1310
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Key Item: Unicorn Shield - WC"
+                    }
+                ]
+            },
+            {
+                "name": "Mausoleum",
+                "map_locations": [
+                    {
+                        "map": "Whitechapel",
+                        "x": 1175,
+                        "y": 890
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Key Item: Beard - WC"
+                    }
+                ]
+            },
+            {
+                "name": "Club",
+                "map_locations": [
+                    {
+                        "map": "Whitechapel",
+                        "x": 2605,
+                        "y": 450
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Life Bottle: Whitechapel"
+                    },
+                    {
+                        "name": "Gold Coins: Chest Inside Club - WC"
+                    }
+                ]
+            },
+            {
+                "name": "Library 1",
+                "map_locations": [
+                    {
+                        "map": "Whitechapel",
+                        "x": 2620,
+                        "y": 1725
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Equipment: Silver Shield in Library - WC"
+                    }
+                ]
+            },
+            {
+                "name": "House near Puzzle",
+                "map_locations": [
+                    {
+                        "map": "Whitechapel",
+                        "x": 350,
+                        "y": 765
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Equipment: Flaming Crossbow Inside House Near Unicorn Shield - WC"
+                    }
+                ]
+            },
+            {
+                "name": "Basement 2",
+                "map_locations": [
+                    {
+                        "map": "Whitechapel",
+                        "x": 1220,
+                        "y": 1850
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Gold Coins: Bag 1 in House Basement - WC"
+                    },
+                    {
+                        "name": "Gold Coins: Bag 2 in House Basement - WC"
+                    }
+                ]
+            },
+            {
+                "name": "Tailor Basement",
+                "map_locations": [
+                    {
+                        "map": "Whitechapel",
+                        "x": 1095,
+                        "y": 420
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Gold Coins: Bag 1 Tailor Shop Basement -WC"
+                    },
+                    {
+                        "name": "Gold Coins: Bag 2 Tailor Shop Basement - WC"
+                    },
+                    {
+                        "name": "Gold Coins: Bag 3 Tailor Shop Basement - WC"
+                    }
+                ]
+            },
+            {
+                "name": "Library 2",
+                "map_locations": [
+                    {
+                        "map": "Whitechapel",
+                        "x": 2400,
+                        "y": 1900
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Book: Isibod Brunel - WC"
+                    }
+                ]
+            },
+            {
+                "name": "Entrance",
+                "map_locations": [
+                    {
+                        "map": "Whitechapel",
+                        "x": 2030,
+                        "y": 1315
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Winston: Kiya Last Seen - WC"
+                    }
+                ]
+            },
+            {
+                "name": "Streets",
+                "map_locations": [
+                    {
+                        "map": "Whitechapel",
+                        "x": 525,
+                        "y": 390
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Chalice: Whitechapel - WC"
+                    }
+                ]
+            },
+            {
+                "name": "Clear",
+                "map_locations": [
+                    {
+                        "map": "Whitechapel",
+                        "x": 270,
+                        "y": 1735,
+                        "size": 60,
+                        "shape": "diamond"
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Cleared: Whitechapel"
+                    }
+                ]
+            }
+        ]
+    }
+]

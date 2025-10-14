@@ -70,5 +70,11 @@
 		"location_size": 50,
 		"location_border_thickness": 3,
 		"img": "images/maps/Wulfrum Hall.jpeg"
+	},
+	{
+		"name": "Whitechapel",
+		"location_size": 50,
+		"location_border_thickness": 3,
+		"img": "images/maps/Whitechapel.jpeg"
 	}
 ]

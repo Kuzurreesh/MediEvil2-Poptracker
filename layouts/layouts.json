@@ -180,6 +180,17 @@
 									]
 								}
 							]
+						},
+						{
+							"title": "Whitechapel",
+							"content": [
+								{
+									"type": "map",
+									"maps": [
+										"Whitechapel"
+									]
+								}
+							]
 						}
 					]
 				}

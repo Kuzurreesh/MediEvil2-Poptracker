@@ -865,60 +865,79 @@
                 ],
                 "sections": [
                     {
+                        "ref": "Whitechapel/Basement 1/Key Item: Library Key in House Basement - WC",
                         "name": "Key Item: Library Key in House Basement - WC"
                     },
                     {
+                        "ref": "Whitechapel/House/Key Item: Griffin Shield - WC",
                         "name": "Key Item: Griffin Shield - WC"
                     },
                     {
+                        "ref": "Whitechapel/Library Top/Key Item: Membership Card - WC",
                         "name": "Key Item: Membership Card - WC"
                     },
                     {
+                        "ref": "Whitechapel/Tailor/Key Item: Elegant Suit - WC",
                         "name": "Key Item: Elegant Suit - WC"
                     },
                     {
+                        "ref": "Whitechapel/Grave Puzzle/Key Item: Unicorn Shield - WC",
                         "name": "Key Item: Unicorn Shield - WC"
                     },
                     {
+                        "ref": "Whitechapel/Mausoleum/Key Item: Beard - WC",
                         "name": "Key Item: Beard - WC"
                     },
                     {
+                        "ref": "Whitechapel/Club/Life Bottle: Whitechapel",
                         "name": "Life Bottle: Whitechapel"
                     },
                     {
+                        "ref": "Whitechapel/Library 1/Equipment: Silver Shield in Library - WC",
                         "name": "Equipment: Silver Shield in Library - WC"
                     },
                     {
+                        "ref": "Whitechapel/House near Puzzle/Equipment: Flaming Crossbow Inside House Near Unicorn Shield - WC",
                         "name": "Equipment: Flaming Crossbow Inside House Near Unicorn Shield - WC"
                     },
                     {
+                        "ref": "Whitechapel/Basement 2/Gold Coins: Bag 1 in House Basement - WC",
                         "name": "Gold Coins: Bag 1 in House Basement - WC"
                     },
                     {
+                        "ref": "Whitechapel/Basement 3/Gold Coins: Bag 2 in House Basement - WC",
                         "name": "Gold Coins: Bag 2 in House Basement - WC"
                     },
                     {
+                        "ref": "Whitechapel/Tailor Basement/Gold Coins: Bag 1 Tailor Shop Basement -WC",
                         "name": "Gold Coins: Bag 1 Tailor Shop Basement -WC"
                     },
                     {
+                        "ref": "Whitechapel/Tailor Basement/Gold Coins: Bag 2 Tailor Shop Basement - WC",
                         "name": "Gold Coins: Bag 2 Tailor Shop Basement - WC"
                     },
                     {
+                        "ref": "Whitechapel/Tailor Basement/Gold Coins: Bag 3 Tailor Shop Basement - WC",
                         "name": "Gold Coins: Bag 3 Tailor Shop Basement - WC"
                     },
                     {
+                        "ref": "Whitechapel/Club Bar/Gold Coins: Chest Inside Club - WC",
                         "name": "Gold Coins: Chest Inside Club - WC"
                     },
                     {
+                        "ref": "Whitechapel/Library 2/Book: Isibod Brunel - WC",
                         "name": "Book: Isibod Brunel - WC"
                     },
                     {
+                        "ref": "Whitechapel/Entrance/Winston: Kiya Last Seen - WC",
                         "name": "Winston: Kiya Last Seen - WC"
                     },
                     {
+                        "ref": "Whitechapel/Streets/Chalice: Whitechapel - WC",
                         "name": "Chalice: Whitechapel - WC"
                     },
                     {
+                        "ref": "Whitechapel/Clear/Cleared: Whitechapel",
                         "name": "Cleared: Whitechapel"
                     }
                 ]
