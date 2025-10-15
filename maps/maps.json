@@ -76,5 +76,11 @@
 		"location_size": 50,
 		"location_border_thickness": 3,
 		"img": "images/maps/Whitechapel.jpeg"
+	},
+	{
+		"name": "Sewers",
+		"location_size": 50,
+		"location_border_thickness": 3,
+		"img": "images/maps/Sewers.jpeg"
 	}
 ]

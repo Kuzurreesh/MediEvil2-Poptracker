@@ -18,8 +18,8 @@ function onClear(slot_data)
     end
     SLOT_DATA = slot_data
     CUR_INDEX = -1
-   
-    
+
+
     -- reset locations
     for _, v in pairs(LOCATION_MAPPING) do
         if v[1] then
@@ -27,12 +27,18 @@ function onClear(slot_data)
                 print(string.format("onClear: clearing location %s", v[1]))
             end
             local obj = Tracker:FindObjectForCode(v[1])
+
             if obj then
                 if v[1]:sub(1, 1) == "@" then
                     obj.AvailableChestCount = obj.ChestCount
                 else
                     --hosted_item reset
                     obj.Active = false
+                end
+            elseif v[2] then
+                local obj2 = Tracker:FindObjectForCode(v[2])
+                if obj2 then
+                    obj2.AvailableChestCount = obj2.ChestCount
                 end
             elseif AUTOTRACKER_ENABLE_DEBUG_LOGGING_AP then
                 print(string.format("onClear: could not find object for code %s", v[1]))
@@ -64,9 +70,9 @@ function onClear(slot_data)
     end
 
     -- reset local item(s)
-   -- Tracker:FindObjectForCode("Chalice").AcquiredCount = 0
+    -- Tracker:FindObjectForCode("Chalice").AcquiredCount = 0
 
-   --[[ -- Autotracking options
+    --[[ -- Autotracking options
     if slot_data["options"] then
         --	print("options detected: ")
         local otable = slot_data["options"]
@@ -202,7 +208,7 @@ function onLocation(location_id, location_name)
                 Tracker:UiHint("ActivateTab", v3)
             end
         end
-    
+
         ]]
 end
 

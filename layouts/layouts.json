@@ -191,6 +191,17 @@
 									]
 								}
 							]
+						},
+						{
+							"title": "Sewers",
+							"content": [
+								{
+									"type": "map",
+									"maps": [
+										"Sewers"
+									]
+								}
+							]
 						}
 					]
 				}

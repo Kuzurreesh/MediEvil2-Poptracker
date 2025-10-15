@@ -1,0 +1,290 @@
+[
+    {
+        "name": "The Sewers",
+        "chest_unopened_img": "images/labels/full.png",
+        "chest_opened_img": "images/labels/empty.png",
+        "children": [
+            {
+                "name": "Left Pipe 1",
+                "access_rules": [
+                    "hand"
+                ],
+                "map_locations": [
+                    {
+                        "map": "Sewers",
+                        "x": 120,
+                        "y": 375
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Key Item: Poster - TS"
+                    }
+                ]
+            },
+            {
+                "name": "Right Exit",
+                "map_locations": [
+                    {
+                        "map": "Sewers",
+                        "x": 2535,
+                        "y": 1910
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Life Bottle: Sewers"
+                    }
+                ]
+            },
+            {
+                "name": "Chief",
+                "map_locations": [
+                    {
+                        "map": "Sewers",
+                        "x": 2030,
+                        "y": 1770
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Equipment: Gold Shield in Hub Area - TS"
+                    }
+                ]
+            },
+            {
+                "name": "Girls 1",
+                "map_locations": [
+                    {
+                        "map": "Sewers",
+                        "x": 2515,
+                        "y": 1275
+                    },
+                    {
+                        "map": "Sewers",
+                        "x": 2535,
+                        "y": 900
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Event: Girls Freed - 1 - TS"
+                    },
+                    {
+                        "name": "Event: Girls Freed - 2 - TS"
+                    },
+                    {
+                        "name": "Event: Girls Freed - 3 - TS",
+                        "access_rules": [
+                            "hand"
+                        ]
+                    },
+                    {
+                        "name": "Event: Girls Freed - 4 - TS",
+                        "access_rules": [
+                            "hand"
+                        ]
+                    },
+                    {
+                        "name": "Event: Girls Freed - 5 - TS",
+                        "access_rules": [
+                            "hand"
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Girls 2",
+                "access_rules": [
+                    "hand"
+                ],
+                "map_locations": [
+                    {
+                        "map": "Sewers",
+                        "x": 340,
+                        "y": 175
+                    },
+                    {
+                        "map": "Sewers",
+                        "x": 725,
+                        "y": 370
+                    },
+                    {
+                        "map": "Sewers",
+                        "x": 1525,
+                        "y": 600
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Event: Girls Freed - 1 - TS"
+                    },
+                    {
+                        "name": "Event: Girls Freed - 2 - TS"
+                    },
+                    {
+                        "name": "Event: Girls Freed - 3 - TS"
+                    },
+                    {
+                        "name": "Event: Girls Freed - 4 - TS"
+                    },
+                    {
+                        "name": "Event: Girls Freed - 5 - TS"
+                    }
+                ]
+            },
+            {
+                "name": "Pipe Controls",
+                "access_rules": [
+                    "hand"
+                ],
+                "map_locations": [
+                    {
+                        "map": "Sewers",
+                        "x": 905,
+                        "y": 1005
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Energy Vial: Vial 1 End Pipes Area - TS"
+                    },
+                    {
+                        "name": "Energy Vial: Vial 2 End Pipes Area - TS"
+                    },
+                    {
+                        "name": "Energy Vial: Vial 3 End Pipes Area - TS"
+                    }
+                ]
+            },
+            {
+                "name": "Pipe Start",
+                "map_locations": [
+                    {
+                        "map": "Sewers",
+                        "x": 150,
+                        "y": 1550
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Gold Coins: Bag at Pipes Area Start - TS"
+                    }
+                ]
+            },
+            {
+                "name": "Pipe Puzzle",
+                "access_rules": [
+                    "hand"
+                ],
+                "map_locations": [
+                    {
+                        "map": "Sewers",
+                        "x": 150,
+                        "y": 1125
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Gold Coins: Bag 1 in Pipes Puzzle Room - TS"
+                    },
+                    {
+                        "name": "Gold Coins: Bag 2 in Pipes Puzzle Room - TS"
+                    }
+                ]
+            },
+            {
+                "name": "Reward",
+                "access_rules": [
+                    "hand"
+                ],
+                "map_locations": [
+                    {
+                        "map": "Sewers",
+                        "x": 1985,
+                        "y": 570
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Gold Coins: Reward Chest 1 - TS"
+                    },
+                    {
+                        "name": "Gold Coins: Reward Chest 2 - TS"
+                    }
+                ]
+            },
+            {
+                "name": "Entrance",
+                "map_locations": [
+                    {
+                        "map": "Sewers",
+                        "x": 1365,
+                        "y": 1760
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Winston: Save Point - TS"
+                    }
+                ]
+            },
+            {
+                "name": "Left Pipe 2",
+                "access_rules": [
+                    "hand"
+                ],
+                "map_locations": [
+                    {
+                        "map": "Sewers",
+                        "x": 110,
+                        "y": 700
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Winston: Something Really Interesting - TS"
+                    }
+                ]
+            },
+            {
+                "name": "Hidden Area",
+                "access_rules": [
+                    "hand"
+                ],
+                "map_locations": [
+                    {
+                        "map": "Sewers",
+                        "x": 2515,
+                        "y": 722
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Chalice: Sewers"
+                    }
+                ]
+            },
+            {
+                "name": "Clear",
+                "access_rules": [
+                    "hand"
+                ],
+                "map_locations": [
+                    {
+                        "map": "Sewers",
+                        "x": 2080,
+                        "y": 570,
+                        "size": 60,
+                        "shape": "diamond"
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Cleared: The Sewers"
+                    }
+                ]
+            }
+        ]
+    }
+]

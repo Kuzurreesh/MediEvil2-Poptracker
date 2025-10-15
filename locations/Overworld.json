@@ -953,63 +953,83 @@
                 ],
                 "sections": [
                     {
+                        "ref": "The Sewers/Left Pipe 1/Key Item: Poster - TS",
                         "name": "Key Item: Poster - TS"
                     },
                     {
+                        "ref": "The Sewers/Right Exit/Life Bottle: Sewers",
                         "name": "Life Bottle: Sewers"
                     },
                     {
+                        "ref": "The Sewers/Chief/Equipment: Gold Shield in Hub Area - TS",
                         "name": "Equipment: Gold Shield in Hub Area - TS"
                     },
                     {
+                        "ref": "The Sewers/Girls 1/Event: Girls Freed - 1 - TS",
                         "name": "Event: Girls Freed - 1 - TS"
                     },
                     {
+                        "ref": "The Sewers/Girls 1/Event: Girls Freed - 2 - TS",
                         "name": "Event: Girls Freed - 2 - TS"
                     },
                     {
+                        "ref": "The Sewers/Girls 1/Event: Girls Freed - 3 - TS",
                         "name": "Event: Girls Freed - 3 - TS"
                     },
                     {
+                        "ref": "The Sewers/Girls 1/Event: Girls Freed - 4 - TS",
                         "name": "Event: Girls Freed - 4 - TS"
                     },
                     {
+                        "ref": "The Sewers/Girls 1/Event: Girls Freed - 5 - TS",
                         "name": "Event: Girls Freed - 5 - TS"
                     },
                     {
+                        "ref": "The Sewers/Pipe Controls/Energy Vial: Vial 1 End Pipes Area - TS",
                         "name": "Energy Vial: Vial 1 End Pipes Area - TS"
                     },
                     {
+                        "ref": "The Sewers/Pipe Controls/Energy Vial: Vial 2 End Pipes Area - TS",
                         "name": "Energy Vial: Vial 2 End Pipes Area - TS"
                     },
                     {
+                        "ref": "The Sewers/Pipe Controls/Energy Vial: Vial 3 End Pipes Area - TS",
                         "name": "Energy Vial: Vial 3 End Pipes Area - TS"
                     },
                     {
+                        "ref": "The Sewers/Pipe Start/Gold Coins: Bag at Pipes Area Start - TS",
                         "name": "Gold Coins: Bag at Pipes Area Start - TS"
                     },
                     {
+                        "ref": "The Sewers/Pipe Puzzle/Gold Coins: Bag 1 in Pipes Puzzle Room - TS",
                         "name": "Gold Coins: Bag 1 in Pipes Puzzle Room - TS"
                     },
                     {
+                        "ref": "The Sewers/Pipe Puzzle/Gold Coins: Bag 2 in Pipes Puzzle Room - TS",
                         "name": "Gold Coins: Bag 2 in Pipes Puzzle Room - TS"
                     },
                     {
+                        "ref": "The Sewers/Reward/Gold Coins: Reward Chest 1 - TS",
                         "name": "Gold Coins: Reward Chest 1 - TS"
                     },
                     {
+                        "ref": "The Sewers/Reward/Gold Coins: Reward Chest 2 - TS",
                         "name": "Gold Coins: Reward Chest 2 - TS"
                     },
                     {
+                        "ref": "The Sewers/Entrance/Winston: Save Point - TS",
                         "name": "Winston: Save Point - TS"
                     },
                     {
+                        "ref": "The Sewers/Left Pipe 2/Winston: Something Really Interesting - TS",
                         "name": "Winston: Something Really Interesting - TS"
                     },
                     {
+                        "ref": "The Sewers/Hidden Area/Chalice: Sewers",
                         "name": "Chalice: Sewers"
                     },
                     {
+                        "ref": "The Sewers/Clear/Cleared: The Sewers",
                         "name": "Cleared: The Sewers"
                     }
                 ]
