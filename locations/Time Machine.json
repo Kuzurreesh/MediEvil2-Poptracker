@@ -1,0 +1,152 @@
+[
+    {
+        "name": "The Time Machine",
+        "chest_unopened_img": "images/labels/full.png",
+        "chest_opened_img": "images/labels/empty.png",
+        "children": [
+            {
+                "name": "Earth",
+                "access_rules": [
+                    "hand"
+                ],
+                "map_locations": [
+                    {
+                        "map": "Time Machine",
+                        "x": 1510,
+                        "y": 1015
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Key Item: Time Machine Piece - Planetarium - TTM"
+                    }
+                ]
+            },
+            {
+                "name": "Contact",
+                "map_locations": [
+                    {
+                        "map": "Time Machine",
+                        "x": 405,
+                        "y": 1145
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Key Item: Time Machine Piece - Grammar Horn - TTM"
+                    }
+                ]
+            },
+            {
+                "name": "Space",
+                "access_rules": [
+                    "hand"
+                ],
+                "map_locations": [
+                    {
+                        "map": "Time Machine",
+                        "x": 1490,
+                        "y": 125
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Key Item: Time Machine Piece - Moon Exhibit - TTM"
+                    }
+                ]
+            },
+            {
+                "name": "Earth Book",
+                "map_locations": [
+                    {
+                        "map": "Time Machine",
+                        "x": 1685,
+                        "y": 1265
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Book: Space Beacon - TTM"
+                    }
+                ]
+            },
+            {
+                "name": "Contact Book",
+                "map_locations": [
+                    {
+                        "map": "Time Machine",
+                        "x": 855,
+                        "y": 1285
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Book: Grammar Horn - TTM"
+                    }
+                ]
+            },
+            {
+                "name": "Space Book",
+                "map_locations": [
+                    {
+                        "map": "Time Machine",
+                        "x": 1355,
+                        "y": 565
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Book: Moon Exhibit - TTM"
+                    }
+                ]
+            },
+            {
+                "name": "Time Book",
+                "map_locations": [
+                    {
+                        "map": "Time Machine",
+                        "x": 2760,
+                        "y": 960
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Book: The Time Machine"
+                    }
+                ]
+            },
+            {
+                "name": "Entrance",
+                "map_locations": [
+                    {
+                        "map": "Time Machine",
+                        "x": 2345,
+                        "y": 1800
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Winston: Entrance - TTM"
+                    }
+                ]
+            },
+            {
+                "name": "Clear",
+                "map_locations": [
+                    {
+                        "map": "Time Machine",
+                        "x": 2510,
+                        "y": 730,
+                        "size": 60,
+                        "shape": "diamond"
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Cleared: The Time Machine"
+                    }
+                ]
+            }
+        ]
+    }
+]

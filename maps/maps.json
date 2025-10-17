@@ -82,5 +82,17 @@
 		"location_size": 50,
 		"location_border_thickness": 3,
 		"img": "images/maps/Sewers.jpeg"
+	},
+	{
+		"name": "Time Machine",
+		"location_size": 50,
+		"location_border_thickness": 3,
+		"img": "images/maps/Time Machine.jpeg"
+	},
+	{
+		"name": "Sewers TM",
+		"location_size": 50,
+		"location_border_thickness": 3,
+		"img": "images/maps/Sewers TM.jpeg"
 	}
 ]

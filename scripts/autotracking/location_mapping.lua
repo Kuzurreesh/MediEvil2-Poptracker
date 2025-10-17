@@ -263,28 +263,32 @@ LOCATION_MAPPING = {
 
 
 	-- The Time Machine
-	[99265000] = { "@The Hub/The Time Machine/Key Item: Time Machine Piece - Planetarium - TTM" },
-	[99265001] = { "@The Hub/The Time Machine/Key Item: Time Machine Piece - Grammar Horn - TTM" },
-	[99265002] = { "@The Hub/The Time Machine/Key Item: Time Machine Piece - Moon Exhibit - TTM" },
-	[99265003] = { "@The Hub/The Time Machine/Book: Space Beacon - TTM" },
-	[99265004] = { "@The Hub/The Time Machine/Book: Grammar Horn - TTM" },
-	[99265005] = { "@The Hub/The Time Machine/Book: Moon Exhibit - TTM" },
-	[99265006] = { "@The Hub/The Time Machine/Book: The Time Machine" },
-	[99265007] = { "@The Hub/The Time Machine/Winston: Entrance - TTM" },
-	[99265008] = { "@The Hub/The Time Machine/Cleared: The Time Machine" },
+	[99265000] = { "@The Time Machine/Earth/Key Item: Time Machine Piece - Planetarium - TTM" },
+	[99265001] = { "@The Time Machine/Contact/Key Item: Time Machine Piece - Grammar Horn - TTM" },
+	[99265002] = { "@The Time Machine/Space/Key Item: Time Machine Piece - Moon Exhibit - TTM" },
+	[99265003] = { "@The Time Machine/Earth Book/Book: Space Beacon - TTM" },
+	[99265004] = { "@The Time Machine/Contact Book/Book: Grammar Horn - TTM" },
+	[99265005] = { "@The Time Machine/Space Book/Book: Moon Exhibit - TTM" },
+	[99265006] = { "@The Time Machine/Time Book/Book: The Time Machine" },
+	[99265007] = { "@The Time Machine/Entrance/Winston: Entrance - TTM" },
+	[99265008] = { "@The Time Machine/Clear/Cleared: The Time Machine" },
+
 
 	-- The Sewers Time Machine
-	[99266000] = { "@The Hub/Sewers TM/Key Item: Time Stone - Hut Trap - TTMTS" },
-	[99266001] = { "@The Hub/Sewers TM/Key Item: King Mullocks Key - Downing King - TTMTS" },
-	[99266002] = { "@The Hub/Sewers TM/Equipment: Good Lightning - Changing Room - TTMTS" },
-	[99266003] = { "@The Hub/Sewers TM/Winston: Entrance - TTMTS" },
-	[99266004] = { "@The Hub/Sewers TM/Winston: Kings Hat - TTMTS" },
-	[99266005] = { "@The Hub/Sewers TM/Winston: Stealing Time Stone - TTMTS" },
-	[99266006] = { "@The Hub/Sewers TM/Cleared: The Time Machine, The Sewers" },
+	[99266000] = { "@Sewers TM/Hut Trap/Key Item: Time Stone - Hut Trap - TTMTS" },
+	[99266001] = { "@Sewers TM/Outside King's Hut/Key Item: King Mullocks Key - Downing King - TTMTS" },
+	[99266002] = { "@Sewers TM/King's Hut/Equipment: Good Lightning - Changing Room - TTMTS" },
+	[99266003] = { "@Sewers TM/Entrance/Winston: Entrance - TTMTS" },
+	[99266004] = { "@Sewers TM/Ending/Winston: Kings Hat - TTMTS" },
+	[99266005] = { "@Sewers TM/Hut/Winston: Stealing Time Stone - TTMTS" },
+	[99266006] = { "@Sewers TM/Clear/Cleared: The Time Machine, The Sewers" },
+
+
 
 	-- The Ripper, Boss
-	[99267000] = { "@The Hub/The Ripper/Winston: Entrance - TR" },
-	[99267001] = { "@The Hub/The Ripper/Cleared: The Ripper" },
+	[99267000] = { "@The Ripper/Entrance/Winston: Entrance - TR" },
+	[99267001] = { "@The Ripper/Clear/Cleared: The Ripper" },
+
 
 	-- The Cathedral
 	[99268000] = { "@The Hub/Cathedral Spires/Key Item: Lost Soul - Bottom left of Cathedral - CS" },

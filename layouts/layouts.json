@@ -202,6 +202,38 @@
 									]
 								}
 							]
+						},
+						{
+							"title": "Time Machine",
+							"content": [
+								{
+									"type": "tabbed",
+									"tabs": [
+										{
+											"title": "Time Machine",
+											"content": [
+												{
+													"type": "map",
+													"maps": [
+														"Time Machine"
+													]
+												}
+											]
+										},
+										{
+											"title": "Sewers TM",
+											"content": [
+												{
+													"type": "map",
+													"maps": [
+														"Sewers TM"
+													]
+												}
+											]
+										}
+									]
+								}
+							]
 						}
 					]
 				}

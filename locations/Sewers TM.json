@@ -1,0 +1,156 @@
+[
+    {
+        "name": "Sewers TM",
+        "chest_unopened_img": "images/labels/full.png",
+        "chest_opened_img": "images/labels/empty.png",
+        "children": [
+            {
+                "name": "Hut Trap",
+                "map_locations": [
+                    {
+                        "map": "Sewers TM",
+                        "x": 480,
+                        "y": 320
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Key Item: Time Stone - Hut Trap - TTMTS"
+                    }
+                ]
+            },
+            {
+                "name": "Outside King's Hut",
+                "map_locations": [
+                    {
+                        "map": "Sewers TM",
+                        "x": 2060,
+                        "y": 1055
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Key Item: King Mullocks Key - Downing King - TTMTS"
+                    }
+                ]
+            },
+            {
+                "name": "King's Hut",
+                "map_locations": [
+                    {
+                        "map": "Sewers TM",
+                        "x": 1925,
+                        "y": 1005
+                    }
+                ],
+                "sections": [
+                    
+                    {
+                        "name": "Equipment: Good Lightning - Changing Room - TTMTS"
+                    }
+                ]
+            },
+            {
+                "name": "Entrance",
+                "map_locations": [
+                    {
+                        "map": "Sewers TM",
+                        "x": 2175,
+                        "y": 1680
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Winston: Entrance - TTMTS"
+                    }
+                ]
+            },
+            {
+                "name": "Hut",
+                "map_locations": [
+                    {
+                        "map": "Sewers TM",
+                        "x": 350,
+                        "y": 915
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Winston: Stealing Time Stone - TTMTS"
+                    }
+                ]
+            },
+            {
+                "name": "Ending",
+                "map_locations": [
+                    {
+                        "map": "Sewers TM",
+                        "x": 1360,
+                        "y": 450
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Winston: Kings Hat - TTMTS"
+                    }
+                ]
+            },
+            {
+                "name": "Clear",
+                "map_locations": [
+                    {
+                        "map": "Sewers TM",
+                        "x": 1580,
+                        "y": 450,
+                        "size": 60,
+                        "shape": "diamond"
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Cleared: The Time Machine, The Sewers"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "The Ripper",
+        "chest_unopened_img": "images/labels/full.png",
+        "chest_opened_img": "images/labels/empty.png",
+        "children": [
+            {
+                "name": "Entrance",
+                "map_locations": [
+                    {
+                        "map": "Sewers TM",
+                        "x": 2840,
+                        "y": 995
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Winston: Entrance - TR"
+                    }
+                ]
+            },
+            {
+                "name": "Clear",
+                "map_locations": [
+                    {
+                        "map": "Sewers TM",
+                        "x": 2645,
+                        "y": 380,
+                        "size": 60,
+                        "shape":"diamond"
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Cleared: The Ripper"
+                    }
+                ]
+            }
+        ]
+    }
+]
