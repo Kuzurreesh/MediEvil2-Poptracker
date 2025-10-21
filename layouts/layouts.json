@@ -234,6 +234,38 @@
 									]
 								}
 							]
+						},
+						{
+							"title": "Cathedral Spires",
+							"content": [
+								{
+									"type": "tabbed",
+									"tabs": [
+										{
+											"title": "Cathedral",
+											"content": [
+												{
+													"type": "map",
+													"maps": [
+														"Cathedral"
+													]
+												}
+											]
+										},
+										{
+											"title": "The Descent",
+											"content": [
+												{
+													"type": "map",
+													"maps": [
+														"Descent"
+													]
+												}
+											]
+										}
+									]
+								}
+							]
 						}
 					]
 				}

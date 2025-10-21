@@ -1,0 +1,251 @@
+[
+    {
+        "name": "Cathedral Spires",
+        "chest_unopened_img": "images/labels/full.png",
+        "chest_opened_img": "images/labels/empty.png",
+        "children": [
+            {
+                "name": "Ground Left",
+                "map_locations": [
+                    {
+                        "map": "Cathedral",
+                        "x": 90,
+                        "y": 1840
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Key Item: Lost Soul - Bottom left of Cathedral - CS"
+                    }
+                ]
+            },
+            {
+                "name": "Cathedral Top",
+                "map_locations": [
+                    {
+                        "map": "Cathedral",
+                        "x": 465,
+                        "y": 1060
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Key Item: Lost Soul - Top of Cathedral - CS"
+                    }
+                ]
+            },
+            {
+                "name": "Chapel Left",
+                "map_locations": [
+                    {
+                        "map": "Cathedral",
+                        "x": 1075,
+                        "y": 800
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Key Item: Lost Soul - Left Chapel on the Roo - CS"
+                    }
+                ]
+            },
+            {
+                "name": "Chapel Right",
+                "map_locations": [
+                    {
+                        "map": "Cathedral",
+                        "x": 1940,
+                        "y": 800
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Key Item: Lost Soul - Right Chapel on the Roo - CS"
+                    }
+                ]
+            },
+            {
+                "name": "Spire Side 2",
+                "map_locations": [
+                    {
+                        "map": "Cathedral",
+                        "x": 2665,
+                        "y": 540
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Key Item: Lost Soul - Next to Life Bottle - CS"
+                    }
+                ]
+            },
+            {
+                "name": "Spire Side 1",
+                "map_locations": [
+                    {
+                        "map": "Cathedral",
+                        "x": 2515,
+                        "y": 620
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Life Bottle: Cathedral Spires"
+                    }
+                ]
+            },
+            {
+                "name": "Front Gates",
+                "map_locations": [
+                    {
+                        "map": "Cathedral",
+                        "x": 1540,
+                        "y": 1700
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Equipment: Gold Shield in Chest at Start - CS"
+                    }
+                ]
+            },
+            {
+                "name": "Cathedral Right 2",
+                "map_locations": [
+                    {
+                        "map": "Cathedral",
+                        "x": 2875,
+                        "y": 900
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Equipment: Silver Shield Chest near Gold Coins - CS"
+                    }
+                ]
+            },
+            {
+                "name": "Spiv",
+                "map_locations": [
+                    {
+                        "map": "Cathedral",
+                        "x": 2380,
+                        "y": 1510
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Energy Vial: Next to Spiv - CS"
+                    }
+                ]
+            },
+            {
+                "name": "Ground Right",
+                "map_locations": [
+                    {
+                        "map": "Cathedral",
+                        "x": 2835,
+                        "y": 1880
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Gold Coins: Bottom Right Near Spiv - CS"
+                    }
+                ]
+            },
+            {
+                "name": "Cathedral Left",
+                "map_locations": [
+                    {
+                        "map": "Cathedral",
+                        "x": 930,
+                        "y": 1475
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Gold Coins: Chest After First Lost Soul - CS"
+                    }
+                ]
+            },
+            {
+                "name": "Cathedral Right 1",
+                "map_locations": [
+                    {
+                        "map": "Cathedral",
+                        "x": 2745,
+                        "y": 1200
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Gold Coins: Chest After First Flame Gargoyles - CS"
+                    }
+                ]
+            },
+            {
+                "name": "Cathedral Right 3",
+                "map_locations": [
+                    {
+                        "map": "Cathedral",
+                        "x": 2895,
+                        "y": 970
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Gold Coins: Chest Near Silver Shield Chest - CS"
+                    }
+                ]
+            },
+            {
+                "name": "Spire Top",
+                "map_locations": [
+                    {
+                        "map": "Cathedral",
+                        "x": 2630,
+                        "y": 230
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Gold Coins: Bag at top of Spire - CS"
+                    }
+                ]
+            },
+            {
+                "name": "Entrance",
+                "map_locations": [
+                    {
+                        "map": "Cathedral",
+                        "x": 1225,
+                        "y": 1895
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Winston: Entrance - CS"
+                    }
+                ]
+            },
+            {
+                "name": "Clear",
+                "map_locations": [
+                    {
+                        "map": "Cathedral",
+                        "x": 1480,
+                        "y": 60,
+                        "size": 60,
+                        "shape": "diamond"
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Cleared: Cathedral Spires"
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -94,5 +94,11 @@
 		"location_size": 50,
 		"location_border_thickness": 3,
 		"img": "images/maps/Sewers TM.jpeg"
+	},
+	{
+		"name": "Cathedral",
+		"location_size": 50,
+		"location_border_thickness": 3,
+		"img": "images/maps/Cathedral.jpeg"
 	}
 ]
