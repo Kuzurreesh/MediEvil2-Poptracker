@@ -310,21 +310,22 @@ LOCATION_MAPPING = {
 
 
 	-- The Descent
-	[99269000] = { "@The Hub/The Descent/Key Item: Lost Soul - Left Jump at Chandelere - CSTD" },
-	[99269001] = { "@The Hub/The Descent/Key Item: Lost Soul - Right Jump at Chandelere - CSTD" },
-	[99269002] = { "@The Hub/The Descent/Key Item: Lost Soul - Demon Statue Mausoleum - CSTD" },
-	[99269003] = { "@The Hub/The Descent/Key Item: Lost Soul - Entrance Room - CSTD" },
-	[99269004] = { "@The Hub/The Descent/Key Item: Lost Soul - Top of Pully Front - CSTD" },
-	[99269005] = { "@The Hub/The Descent/Key Item: Lost Soul - Top of Pully Back - CSTD" },
-	[99269006] = { "@The Hub/The Descent/Key Item: Lost Soul - Pully Room Right - CSTD" },
-	[99269007] = { "@The Hub/The Descent/Key Item: Golden Cog in Room - CSTD" },
-	[99269008] = { "@The Hub/The Descent/Key Item: Golden Cog in Hand Area - CSTD" },
-	[99269009] = { "@The Hub/The Descent/Key Item: Spell Page - Demon Death - CSTD" },
-	[99269010] = { "@The Hub/The Descent/Life Bottle: Cathedral Spires, The Decent" },
-	[99269011] = { "@The Hub/The Descent/Gold Coins: Golden Cog Room Entrance - CSTD" },
-	[99269012] = { "@The Hub/The Descent/Gold Coins: Golden Cog Room Bottom - CSTD" },
-	[99269013] = { "@The Hub/The Descent/Winston: Entrance - CSTD" },
-	[99269014] = { "@The Hub/The Descent/Cleared: Cathedral Spires, The Descent" },
+	[99269000] = { "@Cathedral Descent/Chandelere Left/Key Item: Lost Soul - Left Jump at Chandelere - CSTD" },
+	[99269001] = { "@Cathedral Descent/Chandelere Right/Key Item: Lost Soul - Right Jump at Chandelere - CSTD" },
+	[99269002] = { "@Cathedral Descent/Demon Room/Key Item: Lost Soul - Demon Statue Mausoleum - CSTD" },
+	[99269003] = { "@Cathedral Descent/Entrance Room 1/Key Item: Lost Soul - Entrance Room - CSTD" },
+	[99269004] = { "@Cathedral Descent/Pulley Back/Key Item: Lost Soul - Top of Pully Front - CSTD" },
+	[99269005] = { "@Cathedral Descent/Pulley Front/Key Item: Lost Soul - Top of Pully Back - CSTD" },
+	[99269006] = { "@Cathedral Descent/Pulley Right/Key Item: Lost Soul - Pully Room Right - CSTD" },
+	[99269007] = { "@Cathedral Descent/Back Room 1/Key Item: Golden Cog in Room - CSTD" },
+	[99269008] = { "@Cathedral Descent/Hand Area/Key Item: Golden Cog in Hand Area - CSTD" },
+	[99269009] = { "@Cathedral Descent/Past Second Spin Room/Key Item: Spell Page - Demon Death - CSTD" },
+	[99269010] = { "@Cathedral Descent/Entrance Room 2/Life Bottle: Cathedral Spires, The Decent" },
+	[99269011] = { "@Cathedral Descent/Back Room 2/Gold Coins: Golden Cog Room Entrance - CSTD" },
+	[99269012] = { "@Cathedral Descent/Back Room 3/Gold Coins: Golden Cog Room Bottom - CSTD" },
+	[99269013] = { "@Cathedral Descent/Entrance/Winston: Entrance - CSTD" },
+	[99269014] = { "@Cathedral Descent/Clear/Cleared: Cathedral Spires, The Descent" },
+
 
 	-- The Demon, Boss
 	[99270000] = { "@The Hub/The Demon/Winston: Entrance - TD" },

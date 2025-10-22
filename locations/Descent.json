@@ -1,0 +1,239 @@
+[
+    {
+        "name": "Cathedral Descent",
+        "chest_unopened_img": "images/labels/full.png",
+        "chest_opened_img": "images/labels/empty.png",
+        "children": [
+            {
+                "name": "Chandelere Left",
+                "map_locations": [
+                    {
+                        "map": "Descent",
+                        "x": 245,
+                        "y": 1245
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Key Item: Lost Soul - Left Jump at Chandelere - CSTD"
+                    }
+                ]
+            },
+            {
+                "name": "Chandelere Right",
+                "map_locations": [
+                    {
+                        "map": "Descent",
+                        "x": 625,
+                        "y": 850
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Key Item: Lost Soul - Right Jump at Chandelere - CSTD"
+                    }
+                ]
+            },
+            {
+                "name": "Demon Room",
+                "map_locations": [
+                    {
+                        "map": "Descent",
+                        "x": 75,
+                        "y": 1840
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Key Item: Lost Soul - Demon Statue Mausoleum - CSTD"
+                    }
+                ]
+            },
+            {
+                "name": "Entrance Room 1",
+                "map_locations": [
+                    {
+                        "map": "Descent",
+                        "x": 1660,
+                        "y": 1625
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Key Item: Lost Soul - Entrance Room - CSTD"
+                    }
+                ]
+            },
+            {
+                "name": "Pulley Back",
+                "map_locations": [
+                    {
+                        "map": "Descent",
+                        "x": 1205,
+                        "y": 815
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Key Item: Lost Soul - Top of Pully Front - CSTD"
+                    }
+                ]
+            },
+            {
+                "name": "Pulley Front",
+                "map_locations": [
+                    {
+                        "map": "Descent",
+                        "x": 1580,
+                        "y": 780
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Key Item: Lost Soul - Top of Pully Back - CSTD"
+                    }
+                ]
+            },
+            {
+                "name": "Pulley Right",
+                "map_locations": [
+                    {
+                        "map": "Descent",
+                        "x": 1840,
+                        "y": 845
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Key Item: Lost Soul - Pully Room Right - CSTD"
+                    }
+                ]
+            },
+            {
+                "name": "Back Room 1",
+                "map_locations": [
+                    {
+                        "map": "Descent",
+                        "x": 1665,
+                        "y": 70
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Key Item: Golden Cog in Room - CSTD"
+                    }
+                ]
+            },
+            {
+                "name": "Hand Area",
+                "access_rules": [
+                    "hand"
+                ],
+                "map_locations": [
+                    {
+                        "map": "Descent",
+                        "x": 2695,
+                        "y": 300
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Key Item: Golden Cog in Hand Area - CSTD"
+                    }
+                ]
+            },
+            {
+                "name": "Past Second Spin Room",
+                "map_locations": [
+                    {
+                        "map": "Descent",
+                        "x": 2315,
+                        "y": 140
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Key Item: Spell Page - Demon Death - CSTD"
+                    }
+                ]
+            },
+            {
+                "name": "Entrance Room 2",
+                "map_locations": [
+                    {
+                        "map": "Descent",
+                        "x": 1765,
+                        "y": 1550
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Life Bottle: Cathedral Spires, The Decent"
+                    }
+                ]
+            },
+            {
+                "name": "Back Room 2",
+                "map_locations": [
+                    {
+                        "map": "Descent",
+                        "x": 1010,
+                        "y": 640
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Gold Coins: Golden Cog Room Entrance - CSTD"
+                    }
+                ]
+            },
+            {
+                "name": "Back Room 3",
+                "map_locations": [
+                    {
+                        "map": "Descent",
+                        "x": 1450,
+                        "y": 625
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Gold Coins: Golden Cog Room Bottom - CSTD"
+                    }
+                ]
+            },
+            {
+                "name": "Entrance",
+                "map_locations": [
+                    {
+                        "map": "Descent",
+                        "x": 650,
+                        "y": 600
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Winston: Entrance - CSTD"
+                    }
+                ]
+            },
+            {
+                "name": "Clear",
+                "map_locations": [
+                    {
+                        "map": "Descent",
+                        "x": 400,
+                        "y": 475,
+                        "size": 60,
+                        "shape": "diamond"
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Cleared: Cathedral Spires, The Descent"
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1229,48 +1229,63 @@
                 ],
                 "sections": [
                     {
+                        "ref": "Cathedral Descent/Chandelere Left/Key Item: Lost Soul - Left Jump at Chandelere - CSTD",
                         "name": "Key Item: Lost Soul - Left Jump at Chandelere - CSTD"
                     },
                     {
+                        "ref": "Cathedral Descent/Chandelere Right/Key Item: Lost Soul - Right Jump at Chandelere - CSTD",
                         "name": "Key Item: Lost Soul - Right Jump at Chandelere - CSTD"
                     },
                     {
+                        "ref": "Cathedral Descent/Demon Room/Key Item: Lost Soul - Demon Statue Mausoleum - CSTD",
                         "name": "Key Item: Lost Soul - Demon Statue Mausoleum - CSTD"
                     },
                     {
+                        "ref": "Cathedral Descent/Entrance Room 1/Key Item: Lost Soul - Entrance Room - CSTD",
                         "name": "Key Item: Lost Soul - Entrance Room - CSTD"
                     },
                     {
+                        "ref": "Cathedral Descent/Pulley Back/Key Item: Lost Soul - Top of Pully Front - CSTD",
                         "name": "Key Item: Lost Soul - Top of Pully Front - CSTD"
                     },
                     {
+                        "ref": "Cathedral Descent/Pulley Front/Key Item: Lost Soul - Top of Pully Back - CSTD",
                         "name": "Key Item: Lost Soul - Top of Pully Back - CSTD"
                     },
                     {
+                        "ref": "Cathedral Descent/Pulley Right/Key Item: Lost Soul - Pully Room Right - CSTD",
                         "name": "Key Item: Lost Soul - Pully Room Right - CSTD"
                     },
                     {
+                        "ref": "Cathedral Descent/Back Room 1/Key Item: Golden Cog in Room - CSTD",
                         "name": "Key Item: Golden Cog in Room - CSTD"
                     },
                     {
+                        "ref": "Cathedral Descent/Hand Area/Key Item: Golden Cog in Hand Area - CSTD",
                         "name": "Key Item: Golden Cog in Hand Area - CSTD"
                     },
                     {
+                        "ref": "Cathedral Descent/Past Second Spin Room/Key Item: Spell Page - Demon Death - CSTD",
                         "name": "Key Item: Spell Page - Demon Death - CSTD"
                     },
                     {
+                        "ref": "Cathedral Descent/Entrance Room 2/Life Bottle: Cathedral Spires, The Decent",
                         "name": "Life Bottle: Cathedral Spires, The Decent"
                     },
                     {
+                        "ref": "Cathedral Descent/Back Room 2/Gold Coins: Golden Cog Room Entrance - CSTD",
                         "name": "Gold Coins: Golden Cog Room Entrance - CSTD"
                     },
                     {
+                        "ref": "Cathedral Descent/Back Room 3/Gold Coins: Golden Cog Room Bottom - CSTD",
                         "name": "Gold Coins: Golden Cog Room Bottom - CSTD"
                     },
                     {
+                        "ref": "Cathedral Descent/Entrance/Winston: Entrance - CSTD",
                         "name": "Winston: Entrance - CSTD"
                     },
                     {
+                        "ref": "Cathedral Descent/Clear/Cleared: Cathedral Spires, The Descent",
                         "name": "Cleared: Cathedral Spires, The Descent"
                     }
                 ]
