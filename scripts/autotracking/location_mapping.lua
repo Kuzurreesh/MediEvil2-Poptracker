@@ -82,8 +82,8 @@ LOCATION_MAPPING = {
 
 	--The Tomb
 	[99254000] = { "@The Tomb/Block Area 1/Key Item: Scroll of Sekhmet" },
-	[99254001] = { "@The Tomb/Block Area 2/Key Item: Tablet of Horus" },
-	[99254002] = { "@The Tomb/Block Area 3/Key Item: Staff of Anubis" },
+	[99254001] = { "@The Tomb/Block Area 3/Key Item: Tablet of Horus" },
+	[99254002] = { "@The Tomb/Block Area 2/Key Item: Staff of Anubis" },
 	[99254003] = { "@The Tomb/Entrance Right/Gold Coins: Tomb Entrance Top Right - TT" },
 	[99254004] = { "@The Tomb/Entrance Left/Gold Coins: Tomb Entrance Top Left - TT" },
 	[99254005] = { "@The Tomb/Hand Area Ground/Gold Coins: Hand Area Chest Ground Floor - TT" },

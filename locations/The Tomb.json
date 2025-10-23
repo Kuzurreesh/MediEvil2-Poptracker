@@ -51,7 +51,9 @@
             },
             {
                 "name": "Hand Area Ground",
-                "access_rules":["hand"],
+                "access_rules": [
+                    "hand"
+                ],
                 "map_locations": [
                     {
                         "map": "The Tomb",
@@ -67,7 +69,9 @@
             },
             {
                 "name": "Hand Area Upper",
-                "access_rules":["hand"],
+                "access_rules": [
+                    "hand"
+                ],
                 "map_locations": [
                     {
                         "map": "The Tomb",
@@ -107,7 +111,7 @@
                 ],
                 "sections": [
                     {
-                        "name": "Key Item: Tablet of Horus"
+                        "name": "Key Item: Staff of Anubis"
                     }
                 ]
             },
@@ -122,7 +126,7 @@
                 ],
                 "sections": [
                     {
-                        "name": "Key Item: Staff of Anubis"
+                        "name": "Key Item: Tablet of Horus"
                     }
                 ]
             },
