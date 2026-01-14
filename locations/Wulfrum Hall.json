@@ -2,7 +2,7 @@
     {
         "name": "Wulfrum Hall",
         "access_rules": [
-            "hand"
+            "hand, @The Hub/Iron Slugger/Cleared: Iron Slugger"
         ],
         "chest_unopened_img": "images/labels/full.png",
         "chest_opened_img": "images/labels/empty.png",
@@ -24,6 +24,9 @@
             },
             {
                 "name": "Alcove",
+                "access_rules": [
+                    "$Keyitem|frontdoorkey"
+                ],
                 "map_locations": [
                     {
                         "map": "Wulfrum",
@@ -39,6 +42,9 @@
             },
             {
                 "name": "Hall Chest",
+                "access_rules": [
+                    "$Keyitem|frontdoorkey"
+                ],
                 "map_locations": [
                     {
                         "map": "Wulfrum",
@@ -84,6 +90,9 @@
             },
             {
                 "name": "Hall",
+                "access_rules": [
+                    "$Keyitem|frontdoorkey"
+                ],
                 "map_locations": [
                     {
                         "map": "Wulfrum",
@@ -100,6 +109,9 @@
             {
                 "name": "Outside",
                 "parent": "The Museum Part 1",
+                "access_rules": [
+                    "@The Hub/Iron Slugger/Cleared: Iron Slugger"
+                ],
                 "map_locations": [
                     {
                         "map": "Wulfrum",
@@ -115,6 +127,9 @@
             },
             {
                 "name": "Hall Coins",
+                "access_rules": [
+                    "$Keyitem|frontdoorkey"
+                ],
                 "map_locations": [
                     {
                         "map": "Wulfrum",
@@ -130,6 +145,9 @@
             },
             {
                 "name": "Room 3",
+                "access_rules": [
+                    "$Keyitem|frontdoorkey"
+                ],
                 "map_locations": [
                     {
                         "map": "Wulfrum",
@@ -145,6 +163,9 @@
             },
             {
                 "name": "Room 5",
+                "access_rules": [
+                    "$Keyitem|frontdoorkey"
+                ],
                 "map_locations": [
                     {
                         "map": "Wulfrum",
@@ -161,6 +182,9 @@
             {
                 "name": "Start",
                 "parent": "The Museum Part 1",
+                "access_rules": [
+                    "@The Hub/Iron Slugger/Cleared: Iron Slugger"
+                ],
                 "map_locations": [
                     {
                         "map": "Wulfrum",
@@ -176,6 +200,9 @@
             },
             {
                 "name": "Hall Winston",
+                "access_rules": [
+                    "$Keyitem|frontdoorkey"
+                ],
                 "map_locations": [
                     {
                         "map": "Wulfrum",
@@ -191,6 +218,9 @@
             },
             {
                 "name": "Entry",
+                "access_rules": [
+                    "$Keyitem|frontdoorkey"
+                ],
                 "map_locations": [
                     {
                         "map": "Wulfrum",
@@ -200,12 +230,18 @@
                 ],
                 "sections": [
                     {
-                        "name": "Chalice: Wulfrum Hall"
+                        "name": "Chalice: Wulfrum Hall",
+                        "visibility_rules": [
+                            "include_chalices_in_checks"
+                        ]
                     }
                 ]
             },
             {
                 "name": "Clear",
+                "access_rules": [
+                    "$Keyitem|frontdoorkey"
+                ],
                 "map_locations": [
                     {
                         "map": "Wulfrum",
@@ -227,6 +263,9 @@
         "name": "The Count",
         "chest_unopened_img": "images/labels/full.png",
         "chest_opened_img": "images/labels/empty.png",
+        "access_rules": [
+            "@Wulfrum Hall/Clear/Cleared: Wulfrum Hall"
+        ],
         "children": [
             {
                 "name": "Winston",
@@ -272,6 +311,27 @@
                 "sections": [
                     {
                         "name": "Cleared: The Count"
+                    }
+                ]
+            },
+            {
+                "name": "Front door",
+                "parent": "The Museum Part 1",
+                "access_rules": [
+                    "{}"
+                ],
+                "map_locations": [
+                    {
+                        "map": "Wulfrum",
+                        "x": 815,
+                        "y": 1070,
+                        "shape": "trapezoid"
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Front Door Key",
+                        "hosted_item": "frontdoorkey"
                     }
                 ]
             }

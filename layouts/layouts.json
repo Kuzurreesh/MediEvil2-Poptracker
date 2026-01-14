@@ -9,12 +9,28 @@
 			"margin": "0, 0",
 			"content": [
 				{
-					"type": "group",
-					"header": "Items",
-					"content": {
-						"type": "layout",
-						"key": "keyitems"
-					}
+					"type": "array",
+					"orientation": "vertical",
+					"v_alignment": "center",
+					"margin": "0, 0",
+					"content": [
+						{
+							"type": "group",
+							"header": "Items",
+							"content": {
+								"type": "layout",
+								"key": "keyitems"
+							}
+						},
+						{
+							"type": "group",
+							"header": "Items",
+							"content": {
+								"type": "layout",
+								"key": "keyitemslabel"
+							}
+						}
+					]
 				},
 				{
 					"type": "tabbed",
@@ -269,7 +285,24 @@
 						}
 					]
 				}
+				
 			]
 		}
+	},
+	"settings_popup": {
+		"type": "array",
+		"orientation": "horizontal",
+		"h_alignment": "left",
+		"content": [
+			{
+				"type": "group",
+				"header": "Settings",
+				"dock": "top",
+				"content": {
+					"type": "layout",
+					"key": "settings"
+				}	
+			}
+		]
 	}
 }

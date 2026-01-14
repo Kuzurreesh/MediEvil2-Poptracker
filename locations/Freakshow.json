@@ -3,6 +3,9 @@
         "name": "The Freakshow",
         "chest_unopened_img": "images/labels/full.png",
         "chest_opened_img": "images/labels/empty.png",
+        "access_rules": [
+            "@The Tomb/Clear/Cleared: The Tomb"
+        ],
         "children": [
             {
                 "name": "Elephant 1",
@@ -66,7 +69,9 @@
             },
             {
                 "name": "Elephant Tent",
-                
+                "access_rules": [
+                    "$Keyitem|elephantkey1,$Keyitem|elephantkey2"
+                ],
                 "map_locations": [
                     {
                         "map": "Freakshow",
@@ -196,7 +201,9 @@
             },
             {
                 "name": "Hand",
-                "access_rules":["hand"],
+                "access_rules": [
+                    "hand"
+                ],
                 "map_locations": [
                     {
                         "map": "Freakshow",
@@ -212,7 +219,9 @@
             },
             {
                 "name": "Hand Left",
-                "access_rules":["hand"],
+                "access_rules": [
+                    "hand"
+                ],
                 "map_locations": [
                     {
                         "map": "Freakshow",
@@ -228,7 +237,9 @@
             },
             {
                 "name": "Hand Right",
-                "access_rules":["hand"],
+                "access_rules": [
+                    "hand"
+                ],
                 "map_locations": [
                     {
                         "map": "Freakshow",
@@ -298,12 +309,18 @@
                 ],
                 "sections": [
                     {
-                        "name": "Chalice: The Freakshow - TF"
+                        "name": "Chalice: The Freakshow - TF",
+                        "visibility_rules": [
+                            "include_chalices_in_checks"
+                        ]
                     }
                 ]
             },
             {
                 "name": "Clear",
+                "access_rules": [
+                    "$Keyitem|elephantkey1,$Keyitem|elephantkey2"
+                ],
                 "map_locations": [
                     {
                         "map": "Freakshow",
@@ -321,6 +338,7 @@
             },
             {
                 "name": "Elephant Key 1",
+                "parent": "The Museum Part 1",
                 "access_rules": [
                     "{}"
                 ],
@@ -335,12 +353,13 @@
                 "sections": [
                     {
                         "name": "Elephant Key 1",
-                        "hosted_item": "Elephant Key 1"
+                        "hosted_item": "elephantkey1"
                     }
                 ]
             },
             {
                 "name": "Elephant Key 2",
+                "parent": "The Museum Part 1",
                 "access_rules": [
                     "{}"
                 ],
@@ -355,7 +374,7 @@
                 "sections": [
                     {
                         "name": "Elephant Key 2",
-                        "hosted_item": "Elephant Key 2"
+                        "hosted_item": "elephantkey2"
                     }
                 ]
             }

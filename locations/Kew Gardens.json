@@ -3,6 +3,9 @@
         "name": "Kew Gardens",
         "chest_unopened_img": "images/labels/full.png",
         "chest_opened_img": "images/labels/empty.png",
+        "access_rules": [
+            "@Academy/Clear/Cleared: Naval Academy"
+        ],
         "children": [
             {
                 "name": "Fountain",
@@ -21,6 +24,9 @@
             },
             {
                 "name": "Shed",
+                "access_rules": [
+                    "$Keyitem|shedkey"
+                ],
                 "map_locations": [
                     {
                         "map": "Gardens",
@@ -36,6 +42,9 @@
             },
             {
                 "name": "First Room 1",
+                "access_rules": [
+                    "$Keyitem|water tank valve"
+                ],
                 "map_locations": [
                     {
                         "map": "Gardens",
@@ -81,6 +90,9 @@
             },
             {
                 "name": "Arena",
+                "access_rules": [
+                    "$Keyitem|Pond Room Valve,$Keyitem|Hothouse Valve"
+                ],
                 "map_locations": [
                     {
                         "map": "Gardens",
@@ -213,6 +225,9 @@
             },
             {
                 "name": "Hot House",
+                "access_rules": [
+                    "$Keyitem|Pond Room Valve"
+                ],
                 "map_locations": [
                     {
                         "map": "Gardens",
@@ -229,7 +244,7 @@
             {
                 "name": "Maze",
                 "access_rules": [
-                    "hand"
+                    "$Keyitem|Pond Room Valve,hand"
                 ],
                 "map_locations": [
                     {
@@ -294,12 +309,18 @@
                 ],
                 "sections": [
                     {
-                        "name": "Chalice: Kew Gardens"
+                        "name": "Chalice: Kew Gardens",
+                        "visibility_rules": [
+                            "include_chalices_in_checks"
+                        ]
                     }
                 ]
             },
             {
                 "name": "Clear",
+                "access_rules": [
+                    "$Keyitem|Pond Room Valve,$Keyitem|Hothouse Valve"
+                ],
                 "map_locations": [
                     {
                         "map": "Gardens",
@@ -312,6 +333,90 @@
                 "sections": [
                     {
                         "name": "Cleared: Kew Gardens"
+                    }
+                ]
+            },
+            {
+                "name": "Shed Door",
+                "parent": "The Museum Part 1",
+                "access_rules": [
+                    "{}"
+                ],
+                "map_locations": [
+                    {
+                        "map": "Gardens",
+                        "x": 2700,
+                        "y": 250,
+                        "shape": "trapezoid"
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Potting Shed Key",
+                        "hosted_item": "Shedkey"
+                    }
+                ]
+            },
+            {
+                "name": "Water Tank Valve",
+                "parent": "The Museum Part 1",
+                "access_rules": [
+                    "{}"
+                ],
+                "map_locations": [
+                    {
+                        "map": "Gardens",
+                        "x": 2225,
+                        "y": 170,
+                        "shape": "trapezoid"
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Water Tank Valve",
+                        "hosted_item": "Water Tank Valve"
+                    }
+                ]
+            },
+            {
+                "name": "Pond Room Valve",
+                "parent": "The Museum Part 1",
+                "access_rules": [
+                    "{}"
+                ],
+                "map_locations": [
+                    {
+                        "map": "Gardens",
+                        "x": 705,
+                        "y": 1295,
+                        "shape": "trapezoid"
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Pond Room Valve",
+                        "hosted_item": "Pond Room Valve"
+                    }
+                ]
+            },
+            {
+                "name": "Hothouse Valve",
+                "parent": "The Museum Part 1",
+                "access_rules": [
+                    "{}"
+                ],
+                "map_locations": [
+                    {
+                        "map": "Gardens",
+                        "x": 1640,
+                        "y": 1095,
+                        "shape": "trapezoid"
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Hothouse Valve",
+                        "hosted_item": "Hothouse Valve"
                     }
                 ]
             }

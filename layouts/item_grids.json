@@ -9,9 +9,7 @@
 		"item_height": 360,
 		"item_width": 820,
 		"rows": [
-			[
-			
-			]
+			[]
 		]
 	},
 	"crypt": {
@@ -974,11 +972,62 @@
 		"h_alignment": "left",
 		"item_h_alignment": "left",
 		"item_v_alignment": "top",
-		"item_height": 18,
-		"item_width": 140,
+		"item_height": 50,
+		"item_width": 50,
 		"rows": [
 			[
-				"keyitemslabel"
+				"depotkey",
+				"kingkey",
+				"townhousekey"
+			],
+			[
+				"elephantkey1",
+				"elephantkey2"
+			],
+			[
+				"frontdoorkey",
+				"shedkey"
+			],
+			[
+				"museumkey",
+				"dinokey",
+				"librarykey"
+			],
+			[
+				"Left Leg",
+				"Right Leg",
+				"Left Arm",
+				"Right Arm",
+				"Torso",
+				"Bum"
+			],
+			[
+				"Poster",
+				"Bellows",
+				"Golden Cog",
+				"Spell Page"
+			],
+			[
+				"Griffin Shield",
+				"Unicorn Shield",
+				"Beard",
+				"card",
+				"TMContact",
+				"TMEarth",
+				"TMSpace"
+			],
+			[
+				"Staff",
+				"Scroll",
+				"Tablet",
+				"Pocket Watch",
+				"Time Stone"
+			],
+			[
+				"Pond Room Valve",
+				"Hothouse Valve",
+				"Water Tank Valve",
+				"cannonball"
 			]
 		]
 	},
@@ -1026,6 +1075,32 @@
 						"Hand",
 						"Torch",
 						"Life Bottle"
+					]
+				]
+			}
+		]
+	},
+	"settings": {
+		"type": "array",
+		"orientation": "vertical",
+		"margin": "0,0",
+		"content": [
+			{
+				"type": "itemgrid",
+				"item_margin": "5, 5",
+				"h_alignment": "left",
+				"item_h_alignment": "center",
+				"item_v_alignment": "center",
+				"item_height": 100,
+				"item_width": 100,
+				"rows": [
+					[
+						"goallabel",
+						"goal",
+						"runelabel",
+						"keyitemsanity",
+						"chalicelabel",
+						"include_chalices_in_checks"
 					]
 				]
 			}

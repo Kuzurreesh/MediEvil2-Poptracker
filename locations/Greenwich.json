@@ -3,6 +3,7 @@
         "name": "Observatory",
         "chest_unopened_img": "images/labels/full.png",
         "chest_opened_img": "images/labels/empty.png",
+        "access_rules":["@The Freakshow/Clear/Cleared: The Freakshow"],
         "children": [
             {
                 "name": "Left Boat",
@@ -87,6 +88,9 @@
             },
             {
                 "name": "Exit 1",
+                "access_rules": [
+                    "hand"
+                ],
                 "map_locations": [
                     {
                         "map": "Observatory",
@@ -102,6 +106,9 @@
             },
             {
                 "name": "Hand 1",
+                "access_rules": [
+                    "hand"
+                ],
                 "map_locations": [
                     {
                         "map": "Observatory",
@@ -117,6 +124,9 @@
             },
             {
                 "name": "Hand 2",
+                "access_rules": [
+                    "hand"
+                ],
                 "map_locations": [
                     {
                         "map": "Observatory",
@@ -132,6 +142,9 @@
             },
             {
                 "name": "Hand 3",
+                "access_rules": [
+                    "hand"
+                ],
                 "map_locations": [
                     {
                         "map": "Observatory",
@@ -192,6 +205,9 @@
             },
             {
                 "name": "Exit 2",
+                "access_rules": [
+                    "hand"
+                ],
                 "map_locations": [
                     {
                         "map": "Observatory",
@@ -207,6 +223,9 @@
             },
             {
                 "name": "Chalice Boat",
+                "access_rules": [
+                    "hand"
+                ],
                 "map_locations": [
                     {
                         "map": "Observatory",
@@ -216,12 +235,18 @@
                 ],
                 "sections": [
                     {
-                        "name": "Chalice: Greenwhich Observatory"
+                        "name": "Chalice: Greenwhich Observatory",
+                        "visibility_rules": [
+                            "include_chalices_in_checks"
+                        ]
                     }
                 ]
             },
             {
                 "name": "Clear",
+                "access_rules": [
+                    "hand"
+                ],
                 "map_locations": [
                     {
                         "map": "Observatory",
@@ -243,9 +268,11 @@
         "name": "Academy",
         "chest_unopened_img": "images/labels/full.png",
         "chest_opened_img": "images/labels/empty.png",
+        "access_rules":["@Observatory/Clear/Cleared: Greenwich Observatory"],
         "children": [
             {
                 "name": "Inside",
+                "access_rules":["hand"],
                 "map_locations": [
                     {
                         "map": "Academy",
@@ -306,6 +333,9 @@
             },
             {
                 "name": "Clear",
+                "access_rules": [
+                    "$Keyitem|bellows"
+                ],
                 "map_locations": [
                     {
                         "map": "Academy",
@@ -318,6 +348,27 @@
                 "sections": [
                     {
                         "name": "Cleared: Naval Academy"
+                    }
+                ]
+            },
+             {
+                "name": "Airship",
+                "parent": "The Museum Part 1",
+                "access_rules": [
+                    "{}"
+                ],
+                "map_locations": [
+                    {
+                        "map": "Academy",
+                        "x": 1960,
+                        "y": 340,
+                        "shape": "trapezoid"
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Bellows",
+                        "hosted_item": "Bellows"
                     }
                 ]
             }

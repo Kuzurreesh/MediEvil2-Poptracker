@@ -221,7 +221,7 @@ LOCATION_MAPPING = {
 	[99263000] = { "@Whitechapel/Basement 1/Key Item: Library Key in House Basement - WC" },
 	[99263001] = { "@Whitechapel/House/Key Item: Griffin Shield - WC" },
 	[99263002] = { "@Whitechapel/Library Top/Key Item: Membership Card - WC" },
-	[99263003] = { "@Whitechapel/Tailor/Key Item: Elegant Suit - WC" },
+	[99263003] = { "suit" },
 	[99263004] = { "@Whitechapel/Grave Puzzle/Key Item: Unicorn Shield - WC" },
 	[99263005] = { "@Whitechapel/Mausoleum/Key Item: Beard - WC" },
 	[99263006] = { "@Whitechapel/Club/Life Bottle: Whitechapel" },
@@ -281,7 +281,7 @@ LOCATION_MAPPING = {
 	[99266003] = { "@Sewers TM/Entrance/Winston: Entrance - TTMTS" },
 	[99266004] = { "@Sewers TM/Ending/Winston: Kings Hat - TTMTS" },
 	[99266005] = { "@Sewers TM/Hut/Winston: Stealing Time Stone - TTMTS" },
-	[99266006] = { "@Sewers TM/Clear/Cleared: The Time Machine, The Sewers" },
+	[99266006] = { "@Sewers TM/Clear/Cleared: The Time Machine - The Sewers" },
 
 
 

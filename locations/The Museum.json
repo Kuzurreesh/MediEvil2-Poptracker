@@ -51,7 +51,9 @@
             },
             {
                 "name": "First Hand Room 1",
-                "access_rules":["hand"],
+                "access_rules": [
+                    "hand"
+                ],
                 "map_locations": [
                     {
                         "map": "The Museum P1",
@@ -67,7 +69,9 @@
             },
             {
                 "name": "First Hand Room 2",
-                "access_rules":["hand"],
+                "access_rules": [
+                    "hand"
+                ],
                 "map_locations": [
                     {
                         "map": "The Museum P1",
@@ -83,7 +87,9 @@
             },
             {
                 "name": "First Hand Room 3",
-                "access_rules":["hand"],
+                "access_rules": [
+                    "hand"
+                ],
                 "map_locations": [
                     {
                         "map": "The Museum P1",
@@ -99,7 +105,9 @@
             },
             {
                 "name": "Second Hand Room 1",
-                "access_rules":["hand"],
+                "access_rules": [
+                    "hand"
+                ],
                 "map_locations": [
                     {
                         "map": "The Museum P1",
@@ -115,7 +123,9 @@
             },
             {
                 "name": "Second Hand Room 2",
-                "access_rules":["hand"],
+                "access_rules": [
+                    "hand"
+                ],
                 "map_locations": [
                     {
                         "map": "The Museum P1",
@@ -131,7 +141,9 @@
             },
             {
                 "name": "Second Hand Room 3",
-                "access_rules":["hand"],
+                "access_rules": [
+                    "hand"
+                ],
                 "map_locations": [
                     {
                         "map": "The Museum P1",
@@ -147,7 +159,9 @@
             },
             {
                 "name": "Second Hand Room 4",
-                "access_rules":["hand"],
+                "access_rules": [
+                    "hand"
+                ],
                 "map_locations": [
                     {
                         "map": "The Museum P1",
@@ -163,7 +177,9 @@
             },
             {
                 "name": "Second Hand Room 5",
-                "access_rules":["hand"],
+                "access_rules": [
+                    "hand"
+                ],
                 "map_locations": [
                     {
                         "map": "The Museum P1",
@@ -179,7 +195,9 @@
             },
             {
                 "name": "Second Hand Room 6",
-                "access_rules":["hand"],
+                "access_rules": [
+                    "hand"
+                ],
                 "map_locations": [
                     {
                         "map": "The Museum P1",
@@ -348,6 +366,27 @@
                         "name": "Gold Coins: Mausoleum Room 2nd Floor 3 - TM"
                     }
                 ]
+            },
+            {
+                "name": "Museum Door",
+                "parent": "The Museum Part 1",
+                "access_rules": [
+                    "{}"
+                ],
+                "map_locations": [
+                    {
+                        "map": "The Museum P1",
+                        "x": 1515,
+                        "y": 860,
+                        "shape": "trapezoid"
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Museum Key",
+                        "hosted_item": "museumkey"
+                    }
+                ]
             }
         ]
     },
@@ -355,6 +394,9 @@
         "name": "The Museum Part 2",
         "chest_unopened_img": "images/labels/full.png",
         "chest_opened_img": "images/labels/empty.png",
+        "access_rules": [
+            "$Keyitem|museumkey"
+        ],
         "children": [
             {
                 "name": "Buddha 1",
@@ -463,12 +505,18 @@
                         "name": "Winston: Chalice - TM"
                     },
                     {
-                        "name": "Chalice: The Museum"
+                        "name": "Chalice: The Museum",
+                        "visibility_rules": [
+                            "include_chalices_in_checks"
+                        ]
                     }
                 ]
             },
             {
                 "name": "Zarok Room 1",
+                "access_rules": [
+                    "$Keyitem|cannonball,$Keyitem|torch"
+                ],
                 "map_locations": [
                     {
                         "map": "The Museum P2",
@@ -484,6 +532,9 @@
             },
             {
                 "name": "Zarok Room 2",
+                "access_rules": [
+                    "$Keyitem|cannonball,$Keyitem|torch"
+                ],
                 "map_locations": [
                     {
                         "map": "The Museum P2",
@@ -499,6 +550,9 @@
             },
             {
                 "name": "Zarok Room 3",
+                "access_rules": [
+                    "$Keyitem|cannonball,$Keyitem|torch"
+                ],
                 "map_locations": [
                     {
                         "map": "The Museum P2",
@@ -514,6 +568,9 @@
             },
             {
                 "name": "Rafters 1",
+                "access_rules": [
+                    "$Keyitem|cannonball,$Keyitem|torch"
+                ],
                 "map_locations": [
                     {
                         "map": "The Museum P2",
@@ -529,6 +586,9 @@
             },
             {
                 "name": "Rafters 2",
+                "access_rules": [
+                    "$Keyitem|cannonball,$Keyitem|torch"
+                ],
                 "map_locations": [
                     {
                         "map": "The Museum P2",
@@ -544,6 +604,9 @@
             },
             {
                 "name": "Rafters 3",
+                "access_rules": [
+                    "$Keyitem|cannonball,$Keyitem|torch"
+                ],
                 "map_locations": [
                     {
                         "map": "The Museum P2",
@@ -559,6 +622,9 @@
             },
             {
                 "name": "Rafters",
+                "access_rules": [
+                    "$Keyitem|cannonball,$Keyitem|torch"
+                ],
                 "map_locations": [
                     {
                         "map": "The Museum P2",
@@ -574,6 +640,9 @@
             },
             {
                 "name": "Tomb 1",
+                "access_rules": [
+                    "$Keyitem|cannonball,$Keyitem|torch,$Keyitem|dinokey"
+                ],
                 "map_locations": [
                     {
                         "map": "The Museum P2",
@@ -589,6 +658,9 @@
             },
             {
                 "name": "Tomb 2",
+                "access_rules": [
+                    "$Keyitem|cannonball,$Keyitem|torch,$Keyitem|dinokey"
+                ],
                 "map_locations": [
                     {
                         "map": "The Museum P2",
@@ -604,6 +676,9 @@
             },
             {
                 "name": "Clear",
+                "access_rules": [
+                    "$Keyitem|cannonball,$Keyitem|torch,$Keyitem|dinokey"
+                ],
                 "map_locations": [
                     {
                         "map": "The Museum P2",
@@ -618,6 +693,52 @@
                         "name": "Cleared: The Museum"
                     }
                 ]
+            },
+            {
+                "name": "Cannon",
+                "parent": "The Museum Part 1",
+                "access_rules": [
+                    "{}"
+                ],
+                "map_locations": [
+                    {
+                        "map": "The Museum P2",
+                        "x": 2385,
+                        "y": 880,
+                        "shape": "trapezoid"
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Cannon Ball",
+                        "hosted_item": "cannonball"
+                    },
+                    {
+                        "name": "Torch",
+                        "hosted_item": "Torch"
+                    }
+                ]
+            },
+            {
+                "name": "Dinosaur Door",
+                "parent": "The Museum Part 1",
+                "access_rules": [
+                    "{}"
+                ],
+                "map_locations": [
+                    {
+                        "map": "The Museum P2",
+                        "x": 800,
+                        "y": 1270,
+                        "shape": "trapezoid"
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Dinosaur Key",
+                        "hosted_item": "dinokey"
+                    }
+                ]
             }
         ]
     },
@@ -625,6 +746,7 @@
         "name": "Tyrannosaurus Wrecks",
         "chest_unopened_img": "images/labels/full.png",
         "chest_opened_img": "images/labels/empty.png",
+        "access_rules":["@The Museum Part 2/Clear/Cleared: The Museum"],
         "children": [
             {
                 "name": "Entrance 2",
@@ -697,7 +819,7 @@
                 ],
                 "sections": [
                     {
-                         "name": "Book: Dinosaur Display - TW"
+                        "name": "Book: Dinosaur Display - TW"
                     }
                 ]
             },
@@ -729,7 +851,7 @@
                 ],
                 "sections": [
                     {
-                         "name": "Cleared: Tyrannosaurus Wrecks"
+                        "name": "Cleared: Tyrannosaurus Wrecks"
                     }
                 ]
             }

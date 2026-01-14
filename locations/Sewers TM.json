@@ -3,6 +3,9 @@
         "name": "Sewers TM",
         "chest_unopened_img": "images/labels/full.png",
         "chest_opened_img": "images/labels/empty.png",
+        "access_rules": [
+            "@The Time Machine/Clear/Cleared: The Time Machine"
+        ],
         "children": [
             {
                 "name": "Hut Trap",
@@ -21,6 +24,9 @@
             },
             {
                 "name": "Outside King's Hut",
+                "access_rules": [
+                    "hand"
+                ],
                 "map_locations": [
                     {
                         "map": "Sewers TM",
@@ -36,6 +42,7 @@
             },
             {
                 "name": "King's Hut",
+                "access_rules":["$Keyitem|kingkey"],
                 "map_locations": [
                     {
                         "map": "Sewers TM",
@@ -44,7 +51,6 @@
                     }
                 ],
                 "sections": [
-                    
                     {
                         "name": "Equipment: Good Lightning - Changing Room - TTMTS"
                     }
@@ -67,6 +73,9 @@
             },
             {
                 "name": "Hut",
+                "access_rules": [
+                    "hand"
+                ],
                 "map_locations": [
                     {
                         "map": "Sewers TM",
@@ -97,6 +106,7 @@
             },
             {
                 "name": "Clear",
+                "access_rules":["$Keyitem|kingkey"],
                 "map_locations": [
                     {
                         "map": "Sewers TM",
@@ -108,7 +118,7 @@
                 ],
                 "sections": [
                     {
-                        "name": "Cleared: The Time Machine, The Sewers"
+                        "name": "Cleared: The Time Machine - The Sewers"
                     }
                 ]
             }
@@ -118,6 +128,9 @@
         "name": "The Ripper",
         "chest_unopened_img": "images/labels/full.png",
         "chest_opened_img": "images/labels/empty.png",
+        "access_rules": [
+            "@Sewers TM/Clear/Cleared: The Time Machine - The Sewers"
+        ],
         "children": [
             {
                 "name": "Entrance",
@@ -142,7 +155,7 @@
                         "x": 2645,
                         "y": 380,
                         "size": 60,
-                        "shape":"diamond"
+                        "shape": "diamond"
                     }
                 ],
                 "sections": [

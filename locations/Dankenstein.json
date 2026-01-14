@@ -3,6 +3,9 @@
         "name": "Dankenstein",
         "chest_unopened_img": "images/labels/full.png",
         "chest_opened_img": "images/labels/empty.png",
+        "access_rules": [
+            "@Kew Gardens/Clear/Cleared: Kew Gardens"
+        ],
         "children": [
             {
                 "name": "Bum",
@@ -141,7 +144,9 @@
             },
             {
                 "name": "Hand 1",
-                "access_rules":["hand"],
+                "access_rules": [
+                    "hand"
+                ],
                 "map_locations": [
                     {
                         "map": "Dankenstein",
@@ -157,7 +162,9 @@
             },
             {
                 "name": "Hand 2",
-                "access_rules":["hand"],
+                "access_rules": [
+                    "hand"
+                ],
                 "map_locations": [
                     {
                         "map": "Dankenstein",
@@ -212,12 +219,18 @@
                 ],
                 "sections": [
                     {
-                        "name": "Chalice: Dankenstein - DK"
+                        "name": "Chalice: Dankenstein - DK",
+                        "visibility_rules": [
+                            "include_chalices_in_checks"
+                        ]
                     }
                 ]
             },
             {
                 "name": "Clear",
+                "access_rules": [
+                    "$Keyitem|bum,$Keyitem|left leg,$Keyitem|right leg,$Keyitem|left arm,$Keyitem|right arm,$Keyitem|torso"
+                ],
                 "map_locations": [
                     {
                         "map": "Dankenstein",
@@ -230,6 +243,47 @@
                 "sections": [
                     {
                         "name": "Cleared: Dankenstein"
+                    }
+                ]
+            },
+            {
+                "name": "Mold",
+                "access_rules": [
+                    "{}"
+                ],
+                "parent": "The Museum Part 1",
+                "map_locations": [
+                    {
+                        "map": "Dankenstein",
+                        "x": 2105,
+                        "y": 1760,
+                        "shape": "trapezoid"
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Left Leg",
+                        "hosted_item": "Left Leg"
+                    },
+                    {
+                        "name": "Right Leg",
+                        "hosted_item": "Right Leg"
+                    },
+                    {
+                        "name": "Left Arm",
+                        "hosted_item": "Left Arm"
+                    },
+                    {
+                        "name": "Right Arm",
+                        "hosted_item": "Right Arm"
+                    },
+                    {
+                        "name": "Bum",
+                        "hosted_item": "Bum"
+                    },
+                    {
+                        "name": "Torso",
+                        "hosted_item": "Torso"
                     }
                 ]
             }

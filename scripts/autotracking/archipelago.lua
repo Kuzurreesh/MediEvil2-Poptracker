@@ -72,33 +72,27 @@ function onClear(slot_data)
     -- reset local item(s)
     -- Tracker:FindObjectForCode("Chalice").AcquiredCount = 0
 
-    --[[ -- Autotracking options
+    -- Autotracking options
     if slot_data["options"] then
         --	print("options detected: ")
         local otable = slot_data["options"]
         for key, value in pairs(otable) do
             --	print("table: ", key, value)
-            if key == "include_ant_hill_in_checks" then
-                --	print("key ok: ", key, value)
-                Tracker:FindObjectForCode(key).Active = value
-            elseif key == "runesanity" then
-                Tracker:FindObjectForCode(key).Active = value
-            elseif key == "goal" then
+            if key == "goal" then
                 --print("goal: ", key, value)
                 Tracker:FindObjectForCode("goal").CurrentStage = value
             elseif key == "include_chalices_in_checks" then
                 --	print("key ok: ", key, value)
                 Tracker:FindObjectForCode(key).Active = value
-            elseif key == "booksanity" then
-                Tracker:FindObjectForCode(key).Active = value
-            elseif key == "gargoylesanity" then
+            elseif key == "life_bottles" then
+                Tracker:FindObjectForCode(key).MaxCount = value
+            elseif key == "keyitemsanity" then
                 Tracker:FindObjectForCode(key).Active = value
             elseif key == "progression_option" then
                 Tracker:FindObjectForCode(key).Active = value
             end
         end
     end
-    ]]
 
     LOCAL_ITEMS = {}
     GLOBAL_ITEMS = {}
@@ -190,8 +184,13 @@ function onLocation(location_id, location_name)
         else
             obj.Active = true
         end
-        if v[2] then
-            Tracker:FindObjectForCode(v[2]).AvailableChestCount = Tracker:FindObjectForCode(v[2]).AvailableChestCount - 1
+        obj = Tracker:FindObjectForCode(v[2])
+        if obj then
+            if v[2]:sub(1, 1) == "@" then
+                obj.AvailableChestCount = obj.AvailableChestCount - 1
+            else
+                obj.Active = true
+            end
         end
     elseif AUTOTRACKER_ENABLE_DEBUG_LOGGING_AP then
         print(string.format("onLocation: could not find object for code %s", v[1]))

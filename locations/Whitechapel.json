@@ -3,6 +3,9 @@
         "name": "Whitechapel",
         "chest_unopened_img": "images/labels/full.png",
         "chest_opened_img": "images/labels/empty.png",
+        "access_rules": [
+            "@The Count/Clear/Cleared: The Count"
+        ],
         "children": [
             {
                 "name": "Basement 1",
@@ -39,6 +42,9 @@
             },
             {
                 "name": "Library Top",
+                "access_rules": [
+                    "$Keyitem|librarykey"
+                ],
                 "map_locations": [
                     {
                         "map": "Whitechapel",
@@ -63,7 +69,8 @@
                 ],
                 "sections": [
                     {
-                        "name": "Key Item: Elegant Suit - WC"
+                        "name": "Key Item: Elegant Suit - WC",
+                        "hosted_item": "suit"
                     }
                 ]
             },
@@ -84,6 +91,9 @@
             },
             {
                 "name": "Mausoleum",
+                "access_rules": [
+                    "$Keyitem|griffin shield,$Keyitem|unicorn shield"
+                ],
                 "map_locations": [
                     {
                         "map": "Whitechapel",
@@ -99,6 +109,9 @@
             },
             {
                 "name": "Club",
+                "access_rules": [
+                    "$Keyitem|beard,$Keyitem|card,$Keyitem|suit"
+                ],
                 "map_locations": [
                     {
                         "map": "Whitechapel",
@@ -117,6 +130,9 @@
             },
             {
                 "name": "Library 1",
+                "access_rules": [
+                    "$Keyitem|librarykey"
+                ],
                 "map_locations": [
                     {
                         "map": "Whitechapel",
@@ -186,6 +202,9 @@
             },
             {
                 "name": "Library 2",
+                "access_rules": [
+                    "$Keyitem|librarykey"
+                ],
                 "map_locations": [
                     {
                         "map": "Whitechapel",
@@ -225,12 +244,18 @@
                 ],
                 "sections": [
                     {
-                        "name": "Chalice: Whitechapel - WC"
+                        "name": "Chalice: Whitechapel - WC",
+                        "visibility_rules": [
+                            "include_chalices_in_checks"
+                        ]
                     }
                 ]
             },
             {
                 "name": "Clear",
+                "access_rules": [
+                    "$Keyitem|beard,$Keyitem|card,$Keyitem|suit"
+                ],
                 "map_locations": [
                     {
                         "map": "Whitechapel",
@@ -243,6 +268,98 @@
                 "sections": [
                     {
                         "name": "Cleared: Whitechapel"
+                    }
+                ]
+            },
+            {
+                "name": "Library Door",
+                "parent": "The Museum Part 1",
+                "access_rules": [
+                    "{}"
+                ],
+                "map_locations": [
+                    {
+                        "map": "Whitechapel",
+                        "x": 2125,
+                        "y": 1595,
+                        "shape": "trapezoid"
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Library Key",
+                        "hosted_item": "Librarykey"
+                    }
+                ]
+            },
+            {
+                "name": "Mausoleum Door",
+                "parent": "The Museum Part 1",
+                "access_rules": [
+                    "{}"
+                ],
+                "map_locations": [
+                    {
+                        "map": "Whitechapel",
+                        "x": 1090,
+                        "y": 790,
+                        "shape": "trapezoid"
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Griffin Shield",
+                        "hosted_item": "Griffin Shield"
+                    }
+                ]
+            },
+            {
+                "name": "Mausoleum Door",
+                "parent": "The Museum Part 1",
+                "access_rules": [
+                    "{}"
+                ],
+                "map_locations": [
+                    {
+                        "map": "Whitechapel",
+                        "x": 1250,
+                        "y": 790,
+                        "shape": "trapezoid"
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Unicorn Shield",
+                        "hosted_item": "Unicorn Shield"
+                    }
+                ]
+            },
+            {
+                "name": "Doorman",
+                "parent": "The Museum Part 1",
+                "access_rules": [
+                    "{}"
+                ],
+                "map_locations": [
+                    {
+                        "map": "Whitechapel",
+                        "x": 2775,
+                        "y": 350,
+                        "shape": "trapezoid"
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Club Membership Card",
+                        "hosted_item": "Club Membership Card"
+                    },
+                    {
+                        "name": "Beard",
+                        "hosted_item": "Beard"
+                    },
+                    {
+                        "name": "Elegant Suit",
+                        "hosted_item": "suit"
                     }
                 ]
             }

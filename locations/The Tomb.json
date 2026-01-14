@@ -3,6 +3,8 @@
         "name": "The Tomb",
         "chest_unopened_img": "images/labels/full.png",
         "chest_opened_img": "images/labels/empty.png",
+        "access_rules":["@Kensington/Clear/Cleared: Kensington"],
+        
         "children": [
             {
                 "name": "Entrance",
@@ -132,6 +134,9 @@
             },
             {
                 "name": "Clear",
+                "access_rules": [
+                    "$Keyitem|Scroll,$Keyitem|Tablet,$Keyitem|staff"
+                ],
                 "map_locations": [
                     {
                         "map": "The Tomb",
@@ -147,51 +152,32 @@
                     }
                 ]
             },
-            {
-                "name": "The Tomb",
+             {
+                "name": "Tomb",
+                "parent": "The Museum Part 1",
+                "access_rules": [
+                    "{}"
+                ],
                 "map_locations": [
                     {
-                        "map": "Overworld",
-                        "x": 1280,
-                        "y": 200
+                        "map": "The Tomb",
+                        "x": 935,
+                        "y": 385,
+                        "shape": "trapezoid"
                     }
                 ],
                 "sections": [
                     {
-                        "name": "Key Item: Scroll of Sekhmet",
-                        "ref": "The Tomb/Block Area 1/Key Item: Scroll of Sekhmet"
+                        "name": "Scroll of Sekhmet",
+                        "hosted_item": "Scroll"
                     },
                     {
-                        "name": "Key Item: Tablet of Horus",
-                        "ref": "The Tomb/Block Area 2/Key Item: Tablet of Horus"
+                        "name": "Staff of Anubis",
+                        "hosted_item": "Staff"
                     },
                     {
-                        "name": "Key Item: Staff of Anubis",
-                        "ref": "The Tomb/Block Area 3/Key Item: Staff of Anubis"
-                    },
-                    {
-                        "name": "Gold Coins: Tomb Entrance Top Right - TT",
-                        "ref": "The Tomb/Entrance Right/Gold Coins: Tomb Entrance Top Right - TT"
-                    },
-                    {
-                        "name": "Gold Coins: Tomb Entrance Top Left - TT",
-                        "ref": "The Tomb/Entrance Left/Gold Coins: Tomb Entrance Top Left - TT"
-                    },
-                    {
-                        "name": "Gold Coins: Hand Area Chest Ground Floor - TT",
-                        "ref": "The Tomb/Hand Area Ground/Gold Coins: Hand Area Chest Ground Floor - TT"
-                    },
-                    {
-                        "name": "Gold Coins: Hand Area Chest Upper Floor - TT",
-                        "ref": "The Tomb/Hand Area Upper/Gold Coins: Hand Area Chest Upper Floor - TT"
-                    },
-                    {
-                        "name": "Winston: Entrance - TT",
-                        "ref": "The Tomb/Entrance/Winston: Entrance - TT"
-                    },
-                    {
-                        "name": "Cleared: The Tomb",
-                        "ref": "The Tomb/Clear/Cleared: The Tomb"
+                        "name": "Tablet of Horus",
+                        "hosted_item": "Tablet"
                     }
                 ]
             }

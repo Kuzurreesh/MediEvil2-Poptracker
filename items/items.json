@@ -134,7 +134,9 @@
     {
         "name": "Depot Key",
         "type": "toggle",
-        "img": "images/items/key.png",
+        "img": "images/items/depotkey.png",
+        "disabled_img": "images/items/depotkeyoff.png",
+        "disabled_img_mods": "@enabled",
         "codes": "depotkey"
     },
     {
@@ -146,8 +148,18 @@
     {
         "name": "Town House Key",
         "type": "toggle",
-        "img": "images/items/key.png",
+        "img": "images/items/townhousekey.png",
+        "disabled_img": "images/items/townhousekeyoff.png",
+        "disabled_img_mods": "@enabled",
         "codes": "townhousekey"
+    },
+    {
+        "name": "Elegant Suit",
+        "type": "toggle",
+        "img": "images/labels/empty.png",
+        "disabled_img": "images/labels/full.png",
+        "disabled_img_mods": "@enabled",
+        "codes": "suit"
     },
     {
         "name": "Chalice",
@@ -205,9 +217,9 @@
         "loop": true,
         "stages": [
             {
-                "name": "Zarok",
+                "name": "Demon",
                 "img": "images/labels/zarok2.png",
-                "codes": "zarok"
+                "codes": "demon"
             },
             {
                 "name": "Chalices",
@@ -278,7 +290,7 @@
     {
         "name": "Open",
         "type": "progressive_toggle",
-        "img": "images/maps/world map.png",
+        "img": "images/items/kingkey.png",
         "loop": true,
         "codes": "progression_option"
     },
@@ -296,6 +308,13 @@
         "disabled_img_mods": "@enabled",
         "loop": true,
         "codes": "Highlightings"
+    },
+    {
+        "name": "Keysanity",
+        "type": "progressive_toggle",
+        "img": "images/items/key.png",
+        "loop": true,
+        "codes": "keyitemsanity"
     },
     {
         "name": "Autotab Label",
@@ -318,7 +337,7 @@
         "type": "consumable",
         "img": "images/labels/full.png",
         "initial_quantity": 0,
-        "codes": "Life Bottle",
+        "codes": "life_bottles",
         "max_quantity": 20,
         "overlay_font_size": 15
     },
@@ -372,8 +391,9 @@
     },
     {
         "name": "Lost Soul",
-        "type": "toggle",
+        "type": "consumable",
         "img": "images/items/Lost Soul.png",
+        "max_quantity": 12,
         "codes": "Lost Soul"
     },
     {
@@ -409,26 +429,32 @@
     {
         "name": "Library Key",
         "type": "toggle",
-        "img": "images/items/key.png",
-        "codes": "Library Key"
+        "img": "images/items/librarykey.png",
+        "disabled_img": "images/items/librarykeyoff.png",
+        "disabled_img_mods": "@enabled",
+        "codes": "librarykey"
     },
     {
         "name": "Club Membership Card",
         "type": "toggle",
         "img": "images/items/Club Membership Card.png",
-        "codes": "Club Membership Card"
+        "codes": "card"
     },
     {
         "name": "Elephant Key 1",
         "type": "toggle",
-        "img": "images/items/key.png",
-        "codes": "Elephant Key 1"
+        "img": "images/items/elephantkey1.png",
+        "disabled_img": "images/items/elephantkey1off.png",
+        "disabled_img_mods": "@enabled",
+        "codes": "elephantkey1"
     },
     {
         "name": "Elephant Key 2",
         "type": "toggle",
-        "img": "images/items/key.png",
-        "codes": "Elephant Key 2"
+        "img": "images/items/elephantkey2.png",
+        "disabled_img": "images/items/elephantkey2off.png",
+        "disabled_img_mods": "@enabled",
+        "codes": "elephantkey2"
     },
     {
         "name": "Time Machine Piece (Contact Room)",
@@ -451,7 +477,9 @@
     {
         "name": "King Mullock's Key",
         "type": "toggle",
-        "img": "images/items/key.png",
+        "img": "images/items/kingkey.png",
+        "disabled_img": "images/items/kingkeyoff.png",
+        "disabled_img_mods": "@enabled",
         "codes": "kingkey"
     },
     {
@@ -512,31 +540,39 @@
         "name": "Cannon Ball",
         "type": "toggle",
         "img": "images/items/Cannon Ball.png",
-        "codes": "Cannon Ball"
+        "codes": "cannonball"
     },
     {
         "name": "Front Door Key",
         "type": "toggle",
-        "img": "images/items/key.png",
-        "codes": "Front Door Key"
+        "img": "images/items/frontdoorkey.png",
+        "disabled_img": "images/items/frontdoorkeyoff.png",
+        "disabled_img_mods": "@enabled",
+        "codes": "frontdoorkey"
     },
     {
         "name": "Potting Shed Key",
         "type": "toggle",
-        "img": "images/items/key.png",
-        "codes": "Potting Shed Key"
+        "img": "images/items/shedkey.png",
+        "disabled_img": "images/items/shedkeyoff.png",
+        "disabled_img_mods": "@enabled",
+        "codes": "shedkey"
     },
     {
         "name": "Museum Key",
         "type": "toggle",
-        "img": "images/items/key.png",
-        "codes": "Museum Key"
+        "img": "images/items/museumkey.png",
+        "disabled_img": "images/items/museumkeyoff.png",
+        "disabled_img_mods": "@enabled",
+        "codes": "museumkey"
     },
     {
         "name": "Dinosaur Key",
         "type": "toggle",
-        "img": "images/items/key.png",
-        "codes": "Dinosaur Key"
+        "img": "images/items/dinokey.png",
+        "disabled_img": "images/items/dinokeyoff.png",
+        "disabled_img_mods": "@enabled",
+        "codes": "dinokey"
     }
     
 ]

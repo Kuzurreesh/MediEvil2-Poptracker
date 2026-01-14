@@ -3,6 +3,9 @@
         "name": "The Sewers",
         "chest_unopened_img": "images/labels/full.png",
         "chest_opened_img": "images/labels/empty.png",
+        "access_rules": [
+            "@Whitechapel/Clear/Cleared: Whitechapel"
+        ],
         "children": [
             {
                 "name": "Left Pipe 1",
@@ -261,7 +264,10 @@
                 ],
                 "sections": [
                     {
-                        "name": "Chalice: Sewers"
+                        "name": "Chalice: Sewers",
+                        "visibility_rules": [
+                            "include_chalices_in_checks"
+                        ]
                     }
                 ]
             },

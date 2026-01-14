@@ -3,6 +3,9 @@
         "name": "The Time Machine",
         "chest_unopened_img": "images/labels/full.png",
         "chest_opened_img": "images/labels/empty.png",
+        "access_rules": [
+            "@The Sewers/Clear/Cleared: The Sewers"
+        ],
         "children": [
             {
                 "name": "Earth",
@@ -132,6 +135,7 @@
             },
             {
                 "name": "Clear",
+                "access_rules":["$Keyitem|TMEarth, $Keyitem|TMSpace, $Keyitem|TMContact"],
                 "map_locations": [
                     {
                         "map": "Time Machine",
@@ -144,6 +148,35 @@
                 "sections": [
                     {
                         "name": "Cleared: The Time Machine"
+                    }
+                ]
+            },
+            {
+                "name": "Time Machine",
+                "parent": "The Museum Part 1",
+                "access_rules": [
+                    "{}"
+                ],
+                "map_locations": [
+                    {
+                        "map": "Time Machine",
+                        "x": 2600,
+                        "y": 730,
+                        "shape": "trapezoid"
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Time Machine Piece (Contact Room)",
+                        "hosted_item": "TMContact"
+                    },
+                    {
+                        "name": "Time Machine Piece (Earth)",
+                        "hosted_item": "TMEarth"
+                    },
+                    {
+                        "name": "Time Machine Piece (Space)",
+                        "hosted_item": "TMSpace"
                     }
                 ]
             }
