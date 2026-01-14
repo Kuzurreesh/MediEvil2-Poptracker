@@ -1005,7 +1005,8 @@
 				"Poster",
 				"Bellows",
 				"Golden Cog",
-				"Spell Page"
+				"Spell Page",
+				"Lost Soul"
 			],
 			[
 				"Griffin Shield",
@@ -1074,7 +1075,7 @@
 						"Dash",
 						"Hand",
 						"Torch",
-						"Life Bottle"
+						"life_bottles"
 					]
 				]
 			}
