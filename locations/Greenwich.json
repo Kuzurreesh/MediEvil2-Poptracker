@@ -3,7 +3,10 @@
         "name": "Observatory",
         "chest_unopened_img": "images/labels/full.png",
         "chest_opened_img": "images/labels/empty.png",
-        "access_rules":["@The Freakshow/Clear/Cleared: The Freakshow"],
+        "access_rules": [
+            "@The Freakshow/Clear/Cleared: The Freakshow",
+            "progression_option"
+        ],
         "children": [
             {
                 "name": "Left Boat",
@@ -268,11 +271,15 @@
         "name": "Academy",
         "chest_unopened_img": "images/labels/full.png",
         "chest_opened_img": "images/labels/empty.png",
-        "access_rules":["@Observatory/Clear/Cleared: Greenwich Observatory"],
+        "access_rules": [
+            "@Observatory/Clear/Cleared: Greenwich Observatory"
+        ],
         "children": [
             {
                 "name": "Inside",
-                "access_rules":["hand"],
+                "access_rules": [
+                    "hand"
+                ],
                 "map_locations": [
                     {
                         "map": "Academy",
@@ -351,7 +358,7 @@
                     }
                 ]
             },
-             {
+            {
                 "name": "Airship",
                 "parent": "The Museum Part 1",
                 "access_rules": [

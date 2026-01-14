@@ -4,7 +4,8 @@
         "chest_unopened_img": "images/labels/full.png",
         "chest_opened_img": "images/labels/empty.png",
         "access_rules": [
-            "@The Sewers/Clear/Cleared: The Sewers"
+            "@The Sewers/Clear/Cleared: The Sewers",
+            "progression_option"
         ],
         "children": [
             {

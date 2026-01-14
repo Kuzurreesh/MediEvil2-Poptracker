@@ -2,7 +2,8 @@
     {
         "name": "Wulfrum Hall",
         "access_rules": [
-            "hand, @The Hub/Iron Slugger/Cleared: Iron Slugger"
+            "hand, @The Hub/Iron Slugger/Cleared: Iron Slugger",
+            "hand, progression_option"
         ],
         "chest_unopened_img": "images/labels/full.png",
         "chest_opened_img": "images/labels/empty.png",

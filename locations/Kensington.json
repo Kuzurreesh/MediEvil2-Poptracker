@@ -4,7 +4,8 @@
         "chest_unopened_img": "images/labels/full.png",
         "chest_opened_img": "images/labels/empty.png",
         "access_rules": [
-            "@Tyrannosaurus Wrecks/Clear/Cleared: Tyrannosaurus Wrecks"
+            "@Tyrannosaurus Wrecks/Clear/Cleared: Tyrannosaurus Wrecks",
+            "progression_option"
         ],
         "children": [
             {

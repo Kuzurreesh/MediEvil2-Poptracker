@@ -3,7 +3,8 @@
         "name": "The Tomb",
         "chest_unopened_img": "images/labels/full.png",
         "chest_opened_img": "images/labels/empty.png",
-        "access_rules":["@Kensington/Clear/Cleared: Kensington"],
+        "access_rules":["@Kensington/Clear/Cleared: Kensington",
+            "progression_option"],
         
         "children": [
             {

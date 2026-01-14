@@ -4,7 +4,8 @@
         "chest_unopened_img": "images/labels/full.png",
         "chest_opened_img": "images/labels/empty.png",
         "access_rules": [
-            "@Kew Gardens/Clear/Cleared: Kew Gardens"
+            "@Kew Gardens/Clear/Cleared: Kew Gardens",
+            "progression_option"
         ],
         "children": [
             {

@@ -1100,7 +1100,9 @@
 						"runelabel",
 						"keyitemsanity",
 						"chalicelabel",
-						"include_chalices_in_checks"
+						"include_chalices_in_checks",
+						"openlabel",
+						"progression_option"
 					]
 				]
 			}
