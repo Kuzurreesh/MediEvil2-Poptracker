@@ -25,7 +25,7 @@ ITEM_MAPPING = {
 	[9901046] = { "Gold Shield", "toggle" },
 
 	--Life Bottles
-	[9901047] = { "Life Bottle", "consumable" },
+	[9901047] = { "life_bottles", "consumable" },
 
 	--Dans Armour
 	[9901048] = { "Armour", "toggle" },
