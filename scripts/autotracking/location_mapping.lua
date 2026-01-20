@@ -266,12 +266,13 @@ LOCATION_MAPPING = {
 	[99265000] = { "@The Time Machine/Earth/Key Item: Time Machine Piece - Planetarium - TTM" },
 	[99265001] = { "@The Time Machine/Contact/Key Item: Time Machine Piece - Grammar Horn - TTM" },
 	[99265002] = { "@The Time Machine/Space/Key Item: Time Machine Piece - Moon Exhibit - TTM" },
-	[99265003] = { "@The Time Machine/Earth Book/Book: Space Beacon - TTM" },
-	[99265004] = { "@The Time Machine/Contact Book/Book: Grammar Horn - TTM" },
-	[99265005] = { "@The Time Machine/Space Book/Book: Moon Exhibit - TTM" },
-	[99265006] = { "@The Time Machine/Time Book/Book: The Time Machine" },
-	[99265007] = { "@The Time Machine/Entrance/Winston: Entrance - TTM" },
-	[99265008] = { "@The Time Machine/Clear/Cleared: The Time Machine" },
+	[99265003] = { "@The Time Machine/Behind Statue/Gold Coins: Chest Behind Right Lion Statue - TTM" },
+	[99265004] = { "@The Time Machine/Earth Book/Book: Space Beacon - TTM" },
+	[99265005] = { "@The Time Machine/Contact Book/Book: Grammar Horn - TTM" },
+	[99265006] = { "@The Time Machine/Space Book/Book: Moon Exhibit - TTM" },
+	[99265007] = { "@The Time Machine/Time Book/Book: The Time Machine" },
+	[99265008] = { "@The Time Machine/Entrance/Winston: Entrance - TTM" },
+	[99265009] = { "@The Time Machine/Clear/Cleared: The Time Machine" },
 
 
 	-- The Sewers Time Machine

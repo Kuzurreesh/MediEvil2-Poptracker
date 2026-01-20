@@ -746,7 +746,10 @@
         "name": "Tyrannosaurus Wrecks",
         "chest_unopened_img": "images/labels/full.png",
         "chest_opened_img": "images/labels/empty.png",
-        "access_rules":["@The Museum Part 2/Clear/Cleared: The Museum"],
+        "access_rules": [
+            "@The Museum Part 2/Clear/Cleared: The Museum",
+            "progression_option"
+        ],
         "children": [
             {
                 "name": "Entrance 2",

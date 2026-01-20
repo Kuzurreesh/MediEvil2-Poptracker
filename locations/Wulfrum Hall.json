@@ -111,7 +111,8 @@
                 "name": "Outside",
                 "parent": "The Museum Part 1",
                 "access_rules": [
-                    "@The Hub/Iron Slugger/Cleared: Iron Slugger"
+                    "@The Hub/Iron Slugger/Cleared: Iron Slugger",
+                    "progression_option"
                 ],
                 "map_locations": [
                     {
@@ -184,7 +185,8 @@
                 "name": "Start",
                 "parent": "The Museum Part 1",
                 "access_rules": [
-                    "@The Hub/Iron Slugger/Cleared: Iron Slugger"
+                    "@The Hub/Iron Slugger/Cleared: Iron Slugger",
+                    "progression_option"
                 ],
                 "map_locations": [
                     {
@@ -265,7 +267,8 @@
         "chest_unopened_img": "images/labels/full.png",
         "chest_opened_img": "images/labels/empty.png",
         "access_rules": [
-            "@Wulfrum Hall/Clear/Cleared: Wulfrum Hall"
+            "@Wulfrum Hall/Clear/Cleared: Wulfrum Hall",
+            "progression_option"
         ],
         "children": [
             {

@@ -60,6 +60,21 @@
                 ]
             },
             {
+                "name": "Behind Statue",
+                "map_locations": [
+                    {
+                        "map": "Time Machine",
+                        "x": 2860,
+                        "y": 1910
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Gold Coins: Chest Behind Right Lion Statue - TTM"
+                    }
+                ]
+            },
+            {
                 "name": "Earth Book",
                 "map_locations": [
                     {

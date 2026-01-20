@@ -794,7 +794,10 @@
             },
             {
                 "name": "Iron Slugger",
-                "access_rules":["@Dankenstein/Clear/Cleared: Dankenstein"],
+                "access_rules": [
+                    "@Dankenstein/Clear/Cleared: Dankenstein",
+                    "progression_option"
+                ],
                 "map_locations": [
                     {
                         "map": "Overworld",
@@ -1104,6 +1107,10 @@
                     {
                         "ref": "The Time Machine/Space/Key Item: Time Machine Piece - Moon Exhibit - TTM",
                         "name": "Key Item: Time Machine Piece - Moon Exhibit - TTM"
+                    },
+                    {
+                        "ref": "The Time Machine/Behind Statue/Gold Coins: Chest Behind Right Lion Statue - TTM",
+                        "name": "Gold Coins: Chest Behind Right Lion Statue - TTM"
                     },
                     {
                         "ref": "The Time Machine/Earth Book/Book: Space Beacon - TTM",

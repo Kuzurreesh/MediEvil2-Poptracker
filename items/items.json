@@ -1,5 +1,35 @@
 [
     {
+        "name": "filler",
+        "type": "toggle",
+        "img": "images/items/Hand.png",
+        "codes": "filler"
+    },
+    {
+        "name": "Energy Vial (50)",
+        "type": "toggle",
+        "img": "images/items/Hand.png",
+        "codes": "small"
+    },
+    {
+        "name": "Energy Vial (150)",
+        "type": "toggle",
+        "img": "images/items/Hand.png",
+        "codes": "medium"
+    },
+    {
+        "name": "Energy Vial (300)",
+        "type": "toggle",
+        "img": "images/items/Hand.png",
+        "codes": "large"
+    },
+    {
+        "name": "Trap",
+        "type": "toggle",
+        "img": "images/items/Hand.png",
+        "codes": "trap"
+    },
+    {
         "name": "Skill: Dan Hand",
         "type": "toggle",
         "img": "images/items/Hand.png",
@@ -30,10 +60,10 @@
         "codes": "magicsword, imp, Magic Sword"
     },
     {
-        "name": "Bronze Shield",
+        "name": "Copper Shield",
         "type": "toggle",
         "img": "images/items/Copper Shield.png",
-        "codes": "Bronze Shield"
+        "codes": "Copper Shield"
     },
     {
         "name": "Silver Shield",
@@ -398,9 +428,11 @@
     },
     {
         "name": "Golden Cog",
-        "type": "toggle",
+        "type": "consumable",
         "img": "images/items/Golden Cog.png",
-        "codes": "Golden Cog"
+        "codes": "Golden Cog",
+        "max_quantity": 2,
+        "initial_quantity": 0
     },
     {
         "name": "Spell Page",
