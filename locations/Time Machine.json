@@ -136,6 +136,9 @@
             },
             {
                 "name": "Entrance",
+                "access_rules": [
+                    "@The Sewers/Clear/Cleared: The Sewers"
+                ],
                 "map_locations": [
                     {
                         "map": "Time Machine",
@@ -151,7 +154,9 @@
             },
             {
                 "name": "Clear",
-                "access_rules":["$Keyitem|TMEarth, $Keyitem|TMSpace, $Keyitem|TMContact"],
+                "access_rules": [
+                    "$Keyitem|TMEarth, $Keyitem|TMSpace, $Keyitem|TMContact"
+                ],
                 "map_locations": [
                     {
                         "map": "Time Machine",

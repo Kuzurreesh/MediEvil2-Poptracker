@@ -196,6 +196,9 @@
             },
             {
                 "name": "Entrance",
+                "access_rules": [
+                    "@Kew Gardens/Clear/Cleared: Kew Gardens"
+                ],
                 "map_locations": [
                     {
                         "map": "Dankenstein",
@@ -229,9 +232,6 @@
             },
             {
                 "name": "Clear",
-                "access_rules": [
-                    "$Keyitem|bum,$Keyitem|left leg,$Keyitem|right leg,$Keyitem|left arm,$Keyitem|right arm,$Keyitem|torso"
-                ],
                 "map_locations": [
                     {
                         "map": "Dankenstein",
@@ -252,6 +252,7 @@
                 "access_rules": [
                     "{}"
                 ],
+                "visibility_rules":["d"],
                 "parent": "The Museum Part 1",
                 "map_locations": [
                     {

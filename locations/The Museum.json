@@ -506,6 +506,9 @@
                     },
                     {
                         "name": "Chalice: The Museum",
+                        "access_rules":[
+                            "Torch, cannonball"
+                        ],
                         "visibility_rules": [
                             "include_chalices_in_checks"
                         ]

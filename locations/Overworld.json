@@ -598,6 +598,11 @@
                         "ref": "Academy/Entrance/Winston: Entrance - GONA",
                         "name": "Winston: Entrance - GONA"
                     },
+ {
+                        "ref": "Academy/Balloon/Winston: Balloon - GONA",
+                        "name": "Winston: Balloon - GONA"
+                    },
+                    
                     {
                         "ref": "Academy/Clear/Cleared: Naval Academy",
                         "name": "Cleared: Naval Academy"
@@ -634,6 +639,11 @@
                         "ref": "Kew Gardens/Outside/Life Bottle: Kew Gardens",
                         "name": "Life Bottle: Kew Gardens"
                     },
+                    {
+                        "ref": "Kew Gardens/Lower Arena/Life Bottle: Kew Gardens 2",
+                        "name": "Life Bottle: Kew Gardens 2"
+                    },
+                    
                     {
                         "ref": "Kew Gardens/Arena/Equipment: Silver Shield in Gauntlet Room - KG",
                         "name": "Equipment: Silver Shield in Gauntlet Room - KG"
@@ -1191,6 +1201,10 @@
                     {
                         "ref": "The Ripper/Entrance/Winston: Entrance - TR",
                         "name": "Winston: Entrance - TR"
+                    },
+                    {
+                        "ref": "The Ripper/Ripper/Chalice: The Ripper",
+                        "name": "Chalice: The Ripper"
                     },
                     {
                         "ref": "The Ripper/Clear/Cleared: The Ripper",

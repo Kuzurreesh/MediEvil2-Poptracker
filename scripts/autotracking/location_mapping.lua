@@ -141,7 +141,8 @@ LOCATION_MAPPING = {
 	[99257001] = { "@Academy/Trees Right/Energy Vial: Near Trees - GONA" },
 	[99257002] = { "@Academy/Trees Left/Gold Coins: Bag Near Trees - GONA" },
 	[99257003] = { "@Academy/Entrance/Winston: Entrance - GONA" },
-	[99257004] = { "@Academy/Clear/Cleared: Naval Academy" },
+	[99257004] = { "@Academy/Balloon/Winston: Balloon - GONA" },
+	[99257005] = { "@Academy/Clear/Cleared: Naval Academy" },
 
 
 	-- Kew Gardens
@@ -150,27 +151,28 @@ LOCATION_MAPPING = {
 	[99258002] = { "@Kew Gardens/First Room 1/Key Item: Pond Room Valve - KG" },
 	[99258003] = { "@Kew Gardens/Chalice Room/Key Item: Hot House Valve - KG" },
 	[99258004] = { "@Kew Gardens/Outside/Life Bottle: Kew Gardens" },
-	[99258005] = { "@Kew Gardens/Arena/Equipment: Silver Shield in Gauntlet Room - KG" },
-	[99258006] = { "@Kew Gardens/Fence Vials/Energy Vial: Behind Fence Vial 1 - KG" },
-	[99258007] = { "@Kew Gardens/Fence Vials/Energy Vial: Behind Fence Vial 2 - KG" },
-	[99258008] = { "@Kew Gardens/Fence/Gold Coins: Behind Fence Chest 1 - KG" },
-	[99258009] = { "@Kew Gardens/Fence/Gold Coins: Behind Fence Chest 2 - KG" },
-	[99258010] = { "@Kew Gardens/Near Shed/Gold Coins: Bag Near Shed - KG" },
-	[99258011] = { "@Kew Gardens/First Room 2/Gold Coins: Chest at Top of Tree in First Human Room - KG" },
-	[99258012] = { "@Kew Gardens/Bridge/Gold Coins: Bridge Room Vine Chest 1 - KG" },
-	[99258013] = { "@Kew Gardens/Bridge/Gold Coins: Bridge Room Vine Chest 2 - KG" },
-	[99258014] = { "@Kew Gardens/Chalice Tree/Gold Coins: Bag Up Tree in Second Human Room - KG" },
-	[99258015] = { "@Kew Gardens/Roof/Gold Coins: Bag on Roof 1 - KG" },
-	[99258016] = { "@Kew Gardens/Roof/Gold Coins: Bag on Roof 2 - KG" },
-	[99258017] = { "@Kew Gardens/Hot House/Gold Coins: Bag in Third Human Room - KG" },
-	[99258018] = { "@Kew Gardens/Maze/Gold Coins: Hand Maze Chest - KG" },
-	[99258019] = { "@Kew Gardens/Maze/Gold Coins: Hand Maze Chest Reward 1 - KG" },
-	[99258020] = { "@Kew Gardens/Maze/Gold Coins: Hand Maze Chest Reward 2- KG" },
-	[99258021] = { "@Kew Gardens/Maze/Gold Coins: Hand Maze Chest Reward 3 - KG" },
-	[99258022] = { "@Kew Gardens/Entrance/Winston: Level Start - KG" },
-	[99258023] = { "@Kew Gardens/First Room 3/Winston: Infection - KG" },
-	[99258024] = { "@Kew Gardens/Chalice Treetop/Chalice: Kew Gardens" },
-	[99258025] = { "@Kew Gardens/Clear/Cleared: Kew Gardens" },
+	[99258005] = { "@Kew Gardens/Lower Arena/Life Bottle: Kew Gardens 2" },
+	[99258006] = { "@Kew Gardens/Arena/Equipment: Silver Shield in Gauntlet Room - KG" },
+	[99258007] = { "@Kew Gardens/Fence Vials/Energy Vial: Behind Fence Vial 1 - KG" },
+	[99258008] = { "@Kew Gardens/Fence Vials/Energy Vial: Behind Fence Vial 2 - KG" },
+	[99258009] = { "@Kew Gardens/Fence/Gold Coins: Behind Fence Chest 1 - KG" },
+	[99258010] = { "@Kew Gardens/Fence/Gold Coins: Behind Fence Chest 2 - KG" },
+	[99258011] = { "@Kew Gardens/Near Shed/Gold Coins: Bag Near Shed - KG" },
+	[99258012] = { "@Kew Gardens/First Room 2/Gold Coins: Chest at Top of Tree in First Human Room - KG" },
+	[99258013] = { "@Kew Gardens/Bridge/Gold Coins: Bridge Room Vine Chest 1 - KG" },
+	[99258014] = { "@Kew Gardens/Bridge/Gold Coins: Bridge Room Vine Chest 2 - KG" },
+	[99258015] = { "@Kew Gardens/Chalice Tree/Gold Coins: Bag Up Tree in Second Human Room - KG" },
+	[99258016] = { "@Kew Gardens/Roof/Gold Coins: Bag on Roof 1 - KG" },
+	[99258017] = { "@Kew Gardens/Roof/Gold Coins: Bag on Roof 2 - KG" },
+	[99258018] = { "@Kew Gardens/Hot House/Gold Coins: Bag in Third Human Room - KG" },
+	[99258019] = { "@Kew Gardens/Maze/Gold Coins: Hand Maze Chest - KG" },
+	[99258020] = { "@Kew Gardens/Maze/Gold Coins: Hand Maze Chest Reward 1 - KG" },
+	[99258021] = { "@Kew Gardens/Maze/Gold Coins: Hand Maze Chest Reward 2- KG" },
+	[99258022] = { "@Kew Gardens/Maze/Gold Coins: Hand Maze Chest Reward 3 - KG" },
+	[99258023] = { "@Kew Gardens/Entrance/Winston: Level Start - KG" },
+	[99258024] = { "@Kew Gardens/First Room 3/Winston: Infection - KG" },
+	[99258025] = { "@Kew Gardens/Chalice Treetop/Chalice: Kew Gardens" },
+	[99258026] = { "@Kew Gardens/Clear/Cleared: Kew Gardens" },
 
 
 	-- Dankenstein
@@ -288,7 +290,8 @@ LOCATION_MAPPING = {
 
 	-- The Ripper, Boss
 	[99267000] = { "@The Ripper/Entrance/Winston: Entrance - TR" },
-	[99267001] = { "@The Ripper/Clear/Cleared: The Ripper" },
+	[99267001] = { "@The Ripper/Ripper/Chalice: The Ripper" },
+	[99267002] = { "@The Ripper/Clear/Cleared: The Ripper" },
 
 
 	-- The Cathedral

@@ -339,9 +339,24 @@
                 ]
             },
             {
+                "name": "Balloon",
+                "map_locations": [
+                    {
+                        "map": "Academy",
+                        "x": 1250,
+                        "y": 540
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Winston: Balloon - GONA"
+                    }
+                ]
+            },
+            {
                 "name": "Clear",
                 "access_rules": [
-                    "$Keyitem|bellows"
+                    "$Keyitem|bellows, $Keyitem|Torch"
                 ],
                 "map_locations": [
                     {

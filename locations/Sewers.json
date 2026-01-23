@@ -220,6 +220,9 @@
             },
             {
                 "name": "Entrance",
+                "access_rules": [
+                    "@Whitechapel/Clear/Cleared: Whitechapel"
+                ],
                 "map_locations": [
                     {
                         "map": "Sewers",

@@ -90,6 +90,24 @@
                 ]
             },
             {
+                "name": "Lower Arena",
+                "access_rules": [
+                    "$Keyitem|Pond Room Valve"
+                ],
+                "map_locations": [
+                    {
+                        "map": "Gardens",
+                        "x": 1300,
+                        "y": 1170
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Life Bottle: Kew Gardens 2"
+                    }
+                ]
+            },
+            {
                 "name": "Arena",
                 "access_rules": [
                     "$Keyitem|Pond Room Valve,$Keyitem|Hothouse Valve"
@@ -301,6 +319,9 @@
             },
             {
                 "name": "Chalice Treetop",
+                "access_rules": [
+                    "Antidote"
+                ],
                 "map_locations": [
                     {
                         "map": "Gardens",
